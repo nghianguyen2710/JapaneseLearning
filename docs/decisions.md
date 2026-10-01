@@ -76,6 +76,10 @@ Người dùng đã duyệt `docs/schema.md` (Checkpoint T1.4):
 - Review log là nguồn sự thật duy nhất. File export không chứa trạng thái thẻ.
 - Sửa tay và `verified` nằm trong `content/overrides/`, theo ID.
 
+### D19. Repo GitHub để public — 1/10/2026
+Người dùng chọn push lên repo public, chấp nhận việc bộ thẻ Minna (`content/raw/minna/`) và nội dung build ra công khai.
+**Lưu ý:** bộ thẻ không rõ giấy phép. Nếu sau này muốn rút lại, chuyển repo sang Private. Nội dung đã public có thể đã bị sao chép.
+
 ## Đề xuất — chờ người dùng chốt
 
 ### P3. Bảo vệ truy cập khi deploy

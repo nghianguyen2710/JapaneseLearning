@@ -13,11 +13,11 @@
 - [x] T0.5 `docs/sources.md`, `docs/decisions.md`, `docs/spec.md`, `CLAUDE.md`, `docs/tasks.md`
 - [x] T0.6 Trả lời câu hỏi về giờ, API key, phương án khi M1 trễ, P1/P2/P4 (D12–D16)
 - [x] T0.7 Đặt git email cá nhân cho repo
-- [ ] T0.8 👤 **Chuyển repo GitHub sang Private** (hiện đang public). Phải làm xong việc này mới được push
+- [x] T0.8 ~~Chuyển repo GitHub sang Private~~: người dùng chọn để public (D19)
 - [ ] T0.9 👤 Bổ sung tên, tác giả, link gốc của bộ thẻ Minna vào `sources.md`
 - [ ] T0.10 👤 Chốt điều kiện dừng code trong tháng Kana
 - [x] T0.11 Allowlist lệnh trong `.claude/settings.json`: `npm run dev/build/test`, `node scripts/*`, `git add/commit`
-- [ ] T0.12 Xoá `docs/handoff.md`
+- [x] T0.12 Xoá `docs/handoff.md` (thay bằng `docs/progress.md`)
 
 **✅ Checkpoint 0:** nếu người khác code theo spec này, họ có phải hỏi lại câu nào không?
 
