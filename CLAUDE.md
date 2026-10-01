@@ -1,5 +1,7 @@
 # CLAUDE.md
 
+@AGENTS.md
+
 App học tiếng Nhật cá nhân (Minna 1–50, thi N5 tháng 7/2027). Là PWA Next.js, không có backend, lưu dữ liệu ở localStorage.
 
 **Đọc trước khi làm:** [`docs/spec.md`](docs/spec.md) (phạm vi), [`docs/tasks.md`](docs/tasks.md) (đang làm task nào), [`docs/decisions.md`](docs/decisions.md) (đã chốt gì). Lộ trình và checklist đầy đủ nằm ở [`checklist.md`](checklist.md).
@@ -28,7 +30,8 @@ docs/              spec, decisions, sources, tasks, schema, notes
 | Lệnh | Việc |
 |---|---|
 | `./scripts/fetch-sources.sh` | Tải lại nguồn nặng vào `content/raw/` (máy mới) |
-| `npm run dev` / `build` / `test` / `lint` | _(có sau Module 1.1)_ |
+| `npm run dev` / `build` / `lint` | Chạy dev server / build production / ESLint |
+| `npm test` / `npm run format` | Vitest / Prettier (không định dạng file `.md`) |
 | `npm run content:build` | Sinh `content/lessons/*.json` kèm báo cáo _(Module 1.3)_ |
 
 ## Quy tắc
