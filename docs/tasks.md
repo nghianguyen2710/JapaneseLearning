@@ -27,10 +27,10 @@
 - [x] T1.2 Design token (light/dark), font Noto Sans JP kèm font dự phòng, component `<Furigana>` dùng `<ruby>`
 - [x] T1.3 `docs/schema.md` cùng type TypeScript: bài, từ vựng, kanji, mẫu ngữ pháp. Có `schemaVersion`, `source`, `verified`, chiến lược ID cố định
 - [x] T1.4 👤 **Duyệt schema và cơ chế ID** (quyết định khó đảo ngược nhất)
-- [ ] T1.5 Parser bộ thẻ: đọc TSV, chuẩn hoá ký hiệu, báo lỗi rõ khi sai định dạng. Có test với dữ liệu mẫu nhỏ
-- [ ] T1.6 Ghép âm Hán Việt và âm On/Kun từ KANJIDIC2 cho từng kanji
-- [ ] T1.7 Ghép JMdict: chuyển ます → 辞書形, lấy cách đọc và nghĩa tiếng Anh bổ sung. Không khớp thì để trống
-- [ ] T1.8 Cơ chế override và `verified` giữ nguyên qua các lần build lại. `npm run content:build` sinh `01.json`…`50.json` kèm báo cáo
+- [x] T1.5 Parser bộ thẻ: đọc TSV, chuẩn hoá ký hiệu, báo lỗi rõ khi sai định dạng. Có test với dữ liệu mẫu nhỏ
+- [x] T1.6 Ghép âm Hán Việt và âm On/Kun từ KANJIDIC2 cho từng kanji
+- [x] T1.7 Ghép JMdict: chuyển ます → 辞書形, lấy cách đọc và nghĩa tiếng Anh bổ sung. Không khớp thì để trống
+- [x] T1.8 Cơ chế override và `verified` giữ nguyên qua các lần build lại. `npm run content:build` sinh `01.json`…`50.json` kèm báo cáo
 - [ ] T1.9 Prompt `scripts/prompts/grammar.md`. Claude sinh giải thích ngữ pháp bài 1–5 qua chat, script ghép vào nội dung (D14)
 
 **✅ Checkpoint 1:** 👤 sửa nghĩa một từ rồi build lại, ID giữ nguyên · báo cáo bài 1–5 không còn lỗi

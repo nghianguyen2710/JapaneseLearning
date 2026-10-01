@@ -1,0 +1,1570 @@
+{
+  "schemaVersion": 1,
+  "lesson": 50,
+  "vocab": [
+    {
+      "id": "w2204",
+      "lesson": 50,
+      "order": 1,
+      "kana": "まいります",
+      "kanji": "参ります",
+      "hanViet": "THAM",
+      "meaningVi": "đi, đến (khiêm nhường ngữ của いきます và きます)",
+      "kanjiChars": [
+        "参"
+      ],
+      "jmdict": {
+        "id": "1302070",
+        "dictForm": "参る",
+        "pos": [
+          "v5r",
+          "vi",
+          "exp",
+          "vt",
+          "aux-v"
+        ],
+        "glossEn": [
+          "to go",
+          "to come",
+          "to lose",
+          "to be defeated"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2205",
+      "lesson": 50,
+      "order": 2,
+      "kana": "おります",
+      "meaningVi": "ở, có (khiêm nhường ngữ của います)",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1589500",
+        "dictForm": "おりる",
+        "pos": [
+          "v1",
+          "vi"
+        ],
+        "glossEn": [
+          "to descend (e.g. a mountain)",
+          "to go down",
+          "to come down",
+          "to alight (e.g. from bus)"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2206",
+      "lesson": 50,
+      "order": 3,
+      "kana": "いただきます",
+      "meaningVi": "ăn, uống, nhận (khiêm nhường ngữ của たべます、のみます　và もらいます)",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1410800",
+        "dictForm": "いただきます",
+        "pos": [
+          "exp"
+        ],
+        "glossEn": [
+          "thank you (for the meal just served)",
+          "I receive (this meal)"
+        ]
+      },
+      "seeAlso": [
+        "w1841"
+      ],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2207",
+      "lesson": 50,
+      "order": 4,
+      "kana": "もうします",
+      "kanji": "申します",
+      "hanViet": "THÂN",
+      "meaningVi": "nói (khiêm nhường ngữ của いいます)",
+      "kanjiChars": [
+        "申"
+      ],
+      "jmdict": {
+        "id": "1363090",
+        "dictForm": "申す",
+        "pos": [
+          "v5s",
+          "vt"
+        ],
+        "glossEn": [
+          "to say",
+          "to be called",
+          "to do"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2208",
+      "lesson": 50,
+      "order": 5,
+      "kana": "いたします",
+      "meaningVi": "làm (khiêm nhường ngữ của します)",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1421900",
+        "dictForm": "いたす",
+        "pos": [
+          "v5s",
+          "vt"
+        ],
+        "glossEn": [
+          "to do"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2209",
+      "lesson": 50,
+      "order": 6,
+      "kana": "はいけんします",
+      "kanji": "拝見します",
+      "hanViet": "BÁI KIẾN",
+      "meaningVi": "xem, nhìn (khiêm nhường ngữ của みます)",
+      "kanjiChars": [
+        "拝",
+        "見"
+      ],
+      "jmdict": {
+        "id": "1472270",
+        "dictForm": "拝見する",
+        "pos": [
+          "n",
+          "vs",
+          "vt"
+        ],
+        "glossEn": [
+          "seeing",
+          "looking at"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2210",
+      "lesson": 50,
+      "order": 7,
+      "kana": "ぞんじます",
+      "kanji": "存じます",
+      "hanViet": "TỒN",
+      "meaningVi": "biết (khiêm nhường ngữ của しります)",
+      "kanjiChars": [
+        "存"
+      ],
+      "jmdict": {
+        "id": "1406140",
+        "dictForm": "存じる",
+        "pos": [
+          "v1",
+          "vt"
+        ],
+        "glossEn": [
+          "to know",
+          "to be aware (of)",
+          "to be acquainted (with)",
+          "to think"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2211",
+      "lesson": 50,
+      "order": 8,
+      "kana": "うかがいます",
+      "kanji": "伺います",
+      "hanViet": "TÝ/TỬ",
+      "meaningVi": "hỏi, nghe, đến thăm(khiêm nhường ngữ của ききます và いきます)",
+      "kanjiChars": [
+        "伺"
+      ],
+      "jmdict": {
+        "id": "1305700",
+        "dictForm": "伺う",
+        "pos": [
+          "v5u",
+          "vt",
+          "vi"
+        ],
+        "glossEn": [
+          "to call on someone",
+          "to call at a place",
+          "to pay a visit",
+          "to wait on someone"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2212",
+      "lesson": 50,
+      "order": 9,
+      "kana": "おめにかかります",
+      "kanji": "お目にかかります",
+      "hanViet": "MỤC",
+      "meaningVi": "gặp (khiêm nhường ngữ của あいます)",
+      "kanjiChars": [
+        "目"
+      ],
+      "jmdict": {
+        "id": "1535140",
+        "dictForm": "お目にかかる",
+        "pos": [
+          "exp",
+          "v5r"
+        ],
+        "glossEn": [
+          "to meet (someone of higher status)",
+          "to be recognized (esp. by someone of higher status)",
+          "to be visible",
+          "to be seen"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2213",
+      "lesson": 50,
+      "order": 10,
+      "kana": "ございます",
+      "meaningVi": "có (thể lịch sự của あります)",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1612690",
+        "dictForm": "ございます",
+        "pos": [
+          "exp",
+          "aux-v"
+        ],
+        "glossEn": [
+          "to be",
+          "to exist",
+          "to be (doing)",
+          "did"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2214",
+      "lesson": 50,
+      "order": 11,
+      "kana": "～でございます",
+      "meaningVi": "là (thể lịch sự của ～です)",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "2253080",
+        "dictForm": "でございます",
+        "pos": [
+          "cop"
+        ],
+        "glossEn": [
+          "be",
+          "is"
+        ]
+      },
+      "seeAlso": [
+        "w0134"
+      ],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2215",
+      "lesson": 50,
+      "order": 12,
+      "kana": "わたくし",
+      "kanji": "私",
+      "hanViet": "TƯ",
+      "meaningVi": "tôi (khiêm nhường ngữ của わたし)",
+      "kanjiChars": [
+        "私"
+      ],
+      "jmdict": {
+        "id": "2842390",
+        "dictForm": "私",
+        "pos": [
+          "pn",
+          "adj-no",
+          "n"
+        ],
+        "glossEn": [
+          "I",
+          "me",
+          "personal (affairs, etc.)",
+          "private"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2216",
+      "lesson": 50,
+      "order": 13,
+      "kana": "ガイド",
+      "meaningVi": "người hướng dẫn, hướng dẫn viên",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1039900",
+        "dictForm": "ガイド",
+        "pos": [
+          "n",
+          "vs",
+          "vt"
+        ],
+        "glossEn": [
+          "guide",
+          "tour guide",
+          "conductor",
+          "guiding"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2217",
+      "lesson": 50,
+      "order": 14,
+      "kana": "おたく",
+      "kanji": "お宅",
+      "hanViet": "TRẠCH",
+      "meaningVi": "nhà (dùng cho người khác)",
+      "kanjiChars": [
+        "宅"
+      ],
+      "jmdict": {
+        "id": "1002400",
+        "dictForm": "お宅",
+        "pos": [
+          "n",
+          "pn"
+        ],
+        "glossEn": [
+          "your house",
+          "your home",
+          "your family",
+          "your husband"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2218",
+      "lesson": 50,
+      "order": 15,
+      "kana": "こうがい",
+      "kanji": "郊外",
+      "hanViet": "GIAO NGOẠI",
+      "meaningVi": "ngoại ô",
+      "kanjiChars": [
+        "郊",
+        "外"
+      ],
+      "jmdict": {
+        "id": "1282490",
+        "dictForm": "郊外",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "suburb",
+          "residential area on the outskirt of a city",
+          "commuter belt"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2219",
+      "lesson": 50,
+      "order": 16,
+      "kana": "アルバム",
+      "meaningVi": "an-bum (ca nhạc)",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1019450",
+        "dictForm": "アルバム",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "album"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2220",
+      "lesson": 50,
+      "order": 17,
+      "kana": "さらいしゅう",
+      "kanji": "再来週",
+      "hanViet": "TÁI LAI CHU",
+      "meaningVi": "tuần sau nữa",
+      "kanjiChars": [
+        "再",
+        "来",
+        "週"
+      ],
+      "jmdict": {
+        "id": "1293650",
+        "dictForm": "再来週",
+        "pos": [
+          "n",
+          "adv"
+        ],
+        "glossEn": [
+          "week after next"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2221",
+      "lesson": 50,
+      "order": 18,
+      "kana": "さらいげつ",
+      "kanji": "再来月",
+      "hanViet": "TÁI LAI NGUYỆT",
+      "meaningVi": "tháng sau nữa",
+      "kanjiChars": [
+        "再",
+        "来",
+        "月"
+      ],
+      "jmdict": {
+        "id": "1293640",
+        "dictForm": "再来月",
+        "pos": [
+          "n",
+          "adv"
+        ],
+        "glossEn": [
+          "month after next"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2222",
+      "lesson": 50,
+      "order": 19,
+      "kana": "さらいねん",
+      "kanji": "再来年",
+      "hanViet": "TÁI LAI NIÊN",
+      "meaningVi": "năm sau nữa",
+      "kanjiChars": [
+        "再",
+        "来",
+        "年"
+      ],
+      "jmdict": {
+        "id": "1293660",
+        "dictForm": "再来年",
+        "pos": [
+          "n",
+          "adv"
+        ],
+        "glossEn": [
+          "year after next"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2223",
+      "lesson": 50,
+      "order": 20,
+      "kana": "はんとし",
+      "kanji": "半年",
+      "hanViet": "BÁN NIÊN",
+      "meaningVi": "nửa năm",
+      "kanjiChars": [
+        "半",
+        "年"
+      ],
+      "jmdict": {
+        "id": "1583190",
+        "dictForm": "半年",
+        "pos": [
+          "n",
+          "adv"
+        ],
+        "glossEn": [
+          "half a year",
+          "six months"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2224",
+      "lesson": 50,
+      "order": 21,
+      "kana": "さいしょに",
+      "kanji": "最初に",
+      "hanViet": "TỐI SƠ",
+      "meaningVi": "đầu tiên, trước hết",
+      "kanjiChars": [
+        "最",
+        "初"
+      ],
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2225",
+      "lesson": 50,
+      "order": 22,
+      "kana": "さいごに",
+      "kanji": "最後に",
+      "hanViet": "TỐI HẬU",
+      "meaningVi": "cuối cùng",
+      "kanjiChars": [
+        "最",
+        "後"
+      ],
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2226",
+      "lesson": 50,
+      "order": 23,
+      "kana": "ただいま",
+      "kanji": "ただ今",
+      "hanViet": "KIM",
+      "meaningVi": "bây giờ (thể lịch sự củaいま)",
+      "kanjiChars": [
+        "今"
+      ],
+      "jmdict": {
+        "id": "1538960",
+        "dictForm": "ただ今",
+        "pos": [
+          "int",
+          "adv",
+          "n"
+        ],
+        "glossEn": [
+          "I'm home!",
+          "I'm back!",
+          "it's me!",
+          "now"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2227",
+      "lesson": 50,
+      "order": 24,
+      "kana": "えどとうきょうはくぶつかん",
+      "kanji": "江戸東京博物館",
+      "hanViet": "GIANG HỘ ĐÔNG KINH BÁC VẬT QUÁN",
+      "meaningVi": "bảo tàng Edo-Tokyo",
+      "kanjiChars": [
+        "江",
+        "戸",
+        "東",
+        "京",
+        "博",
+        "物",
+        "館"
+      ],
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2228",
+      "lesson": 50,
+      "order": 25,
+      "kana": "きんちょうします",
+      "kanji": "緊張します",
+      "hanViet": "KHẨN TRƯƠNG",
+      "meaningVi": "căng thẳng, hồi hộp",
+      "kanjiChars": [
+        "緊",
+        "張"
+      ],
+      "jmdict": {
+        "id": "1241880",
+        "dictForm": "緊張する",
+        "pos": [
+          "n",
+          "vs",
+          "vi"
+        ],
+        "glossEn": [
+          "tension",
+          "strain",
+          "nervousness",
+          "stress"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2229",
+      "lesson": 50,
+      "order": 26,
+      "kana": "ほうそうします",
+      "kanji": "放送します",
+      "hanViet": "PHÓNG TỐNG",
+      "meaningVi": "phát thanh, truyền hình",
+      "kanjiChars": [
+        "放",
+        "送"
+      ],
+      "jmdict": {
+        "id": "1516750",
+        "dictForm": "放送する",
+        "pos": [
+          "n",
+          "vs",
+          "vt"
+        ],
+        "glossEn": [
+          "broadcasting",
+          "broadcast",
+          "program",
+          "announcement"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2230",
+      "lesson": 50,
+      "order": 27,
+      "kana": "[ビデオに～]とります",
+      "kanji": "[ビデオに～]撮ります",
+      "hanViet": "TOÁT",
+      "meaningVi": "thu [video], quay",
+      "kanjiChars": [
+        "撮"
+      ],
+      "jmdict": {
+        "id": "1298790",
+        "dictForm": "撮る",
+        "pos": [
+          "v5r",
+          "vt"
+        ],
+        "glossEn": [
+          "to take (a photograph)",
+          "to record (audio or video)",
+          "to film",
+          "to shoot"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2231",
+      "lesson": 50,
+      "order": 28,
+      "kana": "しょうきん",
+      "kanji": "賞金",
+      "hanViet": "THƯỞNG KIM",
+      "meaningVi": "tiền thưởng",
+      "kanjiChars": [
+        "賞",
+        "金"
+      ],
+      "jmdict": {
+        "id": "1351930",
+        "dictForm": "賞金",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "prize money",
+          "monetary award",
+          "reward"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2232",
+      "lesson": 50,
+      "order": 29,
+      "kana": "しぜん",
+      "kanji": "自然",
+      "hanViet": "TỰ NHIÊN",
+      "meaningVi": "tự nhiên, thiên nhiên",
+      "kanjiChars": [
+        "自",
+        "然"
+      ],
+      "jmdict": {
+        "id": "1318090",
+        "dictForm": "自然",
+        "pos": [
+          "n",
+          "adj-na",
+          "adv",
+          "adv-to"
+        ],
+        "glossEn": [
+          "nature",
+          "natural",
+          "spontaneous",
+          "automatic"
+        ]
+      },
+      "seeAlso": [
+        "w1361"
+      ],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2233",
+      "lesson": 50,
+      "order": 30,
+      "kana": "きりん",
+      "meaningVi": "con hươu cao cổ",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1575200",
+        "dictForm": "きりん",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "giraffe (Giraffa camelopardalis)",
+          "qilin (Chinese unicorn)",
+          "horse that can ride 1000 ri in a day"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2234",
+      "lesson": 50,
+      "order": 31,
+      "kana": "ぞう",
+      "kanji": "像",
+      "hanViet": "TƯỢNG",
+      "meaningVi": "con voi",
+      "kanjiChars": [
+        "像"
+      ],
+      "jmdict": {
+        "id": "1403110",
+        "dictForm": "像",
+        "pos": [
+          "n",
+          "n-suf"
+        ],
+        "glossEn": [
+          "image",
+          "figure",
+          "statue",
+          "picture"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2235",
+      "lesson": 50,
+      "order": 32,
+      "kana": "ころ",
+      "meaningVi": "hồi, thời",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1579080",
+        "dictForm": "ころ",
+        "pos": [
+          "n",
+          "adv",
+          "n-suf"
+        ],
+        "glossEn": [
+          "(approximate) time",
+          "around",
+          "about",
+          "toward"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2236",
+      "lesson": 50,
+      "order": 33,
+      "kana": "「ゆめが～」かないます",
+      "kanji": "[夢が～]かないます",
+      "hanViet": "MỘNG",
+      "meaningVi": "thành hiện thực, được thực hiện [mơ ước ~]",
+      "kanjiChars": [
+        "夢"
+      ],
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2237",
+      "lesson": 50,
+      "order": 34,
+      "kana": "ひとことよろしいでしょうか。",
+      "meaningVi": "Tôi xin phép nói vài lời có được không ạ?",
+      "kanjiChars": [],
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2238",
+      "lesson": 50,
+      "order": 35,
+      "kana": "きょうりょくします",
+      "kanji": "協力します",
+      "hanViet": "HIỆP LỰC",
+      "meaningVi": "hợp tác",
+      "kanjiChars": [
+        "協",
+        "力"
+      ],
+      "jmdict": {
+        "id": "1591720",
+        "dictForm": "協力する",
+        "pos": [
+          "n",
+          "vs",
+          "vi"
+        ],
+        "glossEn": [
+          "cooperation",
+          "collaboration",
+          "help",
+          "support"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2239",
+      "lesson": 50,
+      "order": 36,
+      "kana": "こころから",
+      "kanji": "心から",
+      "hanViet": "TÂM",
+      "meaningVi": "từ trái tim, từ đáy lòng",
+      "kanjiChars": [
+        "心"
+      ],
+      "jmdict": {
+        "id": "1853490",
+        "dictForm": "心から",
+        "pos": [
+          "adv"
+        ],
+        "glossEn": [
+          "from the bottom of one's heart",
+          "heartily",
+          "sincerely"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2240",
+      "lesson": 50,
+      "order": 37,
+      "kana": "かんしゃします",
+      "kanji": "感謝します",
+      "hanViet": "CẢM TẠ",
+      "meaningVi": "cám ơn, cảm tạ",
+      "kanjiChars": [
+        "感",
+        "謝"
+      ],
+      "jmdict": {
+        "id": "1212380",
+        "dictForm": "感謝する",
+        "pos": [
+          "n",
+          "vs",
+          "vt",
+          "vi"
+        ],
+        "glossEn": [
+          "thanks",
+          "gratitude",
+          "appreciation",
+          "thankfulness"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2241",
+      "lesson": 50,
+      "order": 38,
+      "kana": "「お」れい",
+      "kanji": "[お]礼",
+      "hanViet": "LỄ",
+      "meaningVi": "lời cám ơn, sự cám ơn",
+      "kanjiChars": [
+        "礼"
+      ],
+      "jmdict": {
+        "id": "1557450",
+        "dictForm": "礼",
+        "pos": [
+          "n",
+          "ctr"
+        ],
+        "glossEn": [
+          "thanks",
+          "gratitude",
+          "manners",
+          "etiquette"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2242",
+      "lesson": 50,
+      "order": 39,
+      "kana": "はいけい",
+      "kanji": "拝啓",
+      "hanViet": "BÁI KHẢI",
+      "meaningVi": "kính gửi",
+      "kanjiChars": [
+        "拝",
+        "啓"
+      ],
+      "jmdict": {
+        "id": "1472260",
+        "dictForm": "拝啓",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "Dear (so and so)",
+          "Dear Sir",
+          "Dear Madam",
+          "To Whom It May Concern"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2243",
+      "lesson": 50,
+      "order": 40,
+      "kana": "うつくしい",
+      "kanji": "美しい",
+      "hanViet": "MỸ",
+      "meaningVi": "đẹp",
+      "kanjiChars": [
+        "美"
+      ],
+      "jmdict": {
+        "id": "1486360",
+        "dictForm": "美しい",
+        "pos": [
+          "adj-i"
+        ],
+        "glossEn": [
+          "beautiful",
+          "pretty",
+          "lovely",
+          "sweet"
+        ]
+      },
+      "seeAlso": [
+        "w1360",
+        "w2155"
+      ],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2244",
+      "lesson": 50,
+      "order": 41,
+      "kana": "おげんきでいらっしゃいますか",
+      "kanji": "お元気でいらっしゃいますか。",
+      "hanViet": "NGUYÊN KHÍ",
+      "meaningVi": "Anh/chị có khỏe không ạ? (tôn kính ngữ của おげんきですか)",
+      "kanjiChars": [
+        "元",
+        "気"
+      ],
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2245",
+      "lesson": 50,
+      "order": 42,
+      "kana": "めいわくを　かけます",
+      "kanji": "迷惑をかけます",
+      "meaningVi": "làm phiền",
+      "kanjiChars": [
+        "迷",
+        "惑"
+      ],
+      "jmdict": {
+        "id": "1911730",
+        "dictForm": "迷惑をかける",
+        "pos": [
+          "exp",
+          "v1"
+        ],
+        "glossEn": [
+          "to cause trouble (for someone)",
+          "to annoy",
+          "to bother",
+          "to inconvenience"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2246",
+      "lesson": 50,
+      "order": 43,
+      "kana": "いかします",
+      "kanji": "生かします",
+      "meaningVi": "tận dụng, phát huy, dùng",
+      "kanjiChars": [
+        "生"
+      ],
+      "jmdict": {
+        "id": "1587070",
+        "dictForm": "生かす",
+        "pos": [
+          "v5s",
+          "vt"
+        ],
+        "glossEn": [
+          "to make (the best) use of",
+          "to put to good use",
+          "to leverage (skills, attributes, experience, etc.)",
+          "to capitalise on (experience, etc.)"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2247",
+      "lesson": 50,
+      "order": 44,
+      "kana": "「お」しろ",
+      "kanji": "[お]城",
+      "meaningVi": "lâu đài",
+      "kanjiChars": [
+        "城"
+      ],
+      "jmdict": {
+        "id": "1355710",
+        "dictForm": "城",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "castle"
+        ]
+      },
+      "seeAlso": [
+        "w1886"
+      ],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2248",
+      "lesson": 50,
+      "order": 45,
+      "kana": "けいぐ",
+      "kanji": "敬具",
+      "meaningVi": "kính thư",
+      "kanjiChars": [
+        "敬",
+        "具"
+      ],
+      "jmdict": {
+        "id": "1250740",
+        "dictForm": "敬具",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "yours sincerely",
+          "sincerely yours",
+          "yours truly"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w2249",
+      "lesson": 50,
+      "order": 46,
+      "kana": "ミュンヘン",
+      "meaningVi": "Munich (ở Đức)",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1131740",
+        "dictForm": "ミュンヘン",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "Munich (Germany)"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    }
+  ],
+  "kanji": [
+    {
+      "id": "拝",
+      "firstLesson": 50,
+      "hanViet": [
+        "BÁI"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "ハイ"
+      ],
+      "kun": [
+        "おが.む",
+        "おろが.む"
+      ],
+      "glossEn": [
+        "worship",
+        "adore",
+        "pray to"
+      ],
+      "strokes": 8,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "郊",
+      "firstLesson": 50,
+      "hanViet": [
+        "GIAO"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "コウ"
+      ],
+      "kun": [],
+      "glossEn": [
+        "outskirts",
+        "suburbs",
+        "rural area"
+      ],
+      "strokes": 9,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "緊",
+      "firstLesson": 50,
+      "hanViet": [
+        "KHẨN"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "キン"
+      ],
+      "kun": [
+        "し.める",
+        "し.まる"
+      ],
+      "glossEn": [
+        "tense",
+        "solid",
+        "hard",
+        "reliable",
+        "tight"
+      ],
+      "strokes": 15,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "放",
+      "firstLesson": 50,
+      "hanViet": [
+        "PHÓNG"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "ホウ"
+      ],
+      "kun": [
+        "はな.す",
+        "-っぱな.し",
+        "はな.つ",
+        "はな.れる",
+        "こ.く",
+        "ほう.る"
+      ],
+      "glossEn": [
+        "set free",
+        "release",
+        "fire",
+        "shoot",
+        "emit",
+        "banish",
+        "liberate"
+      ],
+      "strokes": 8,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "像",
+      "firstLesson": 50,
+      "hanViet": [
+        "TƯỢNG"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "ゾウ"
+      ],
+      "kun": [],
+      "glossEn": [
+        "statue",
+        "picture",
+        "image",
+        "figure",
+        "portrait"
+      ],
+      "strokes": 14,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "協",
+      "firstLesson": 50,
+      "hanViet": [
+        "HIỆP"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "キョウ"
+      ],
+      "kun": [],
+      "glossEn": [
+        "co-",
+        "cooperation"
+      ],
+      "strokes": 8,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "感",
+      "firstLesson": 50,
+      "hanViet": [
+        "CẢM"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "カン"
+      ],
+      "kun": [],
+      "glossEn": [
+        "emotion",
+        "feeling",
+        "sensation"
+      ],
+      "strokes": 13,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "啓",
+      "firstLesson": 50,
+      "hanViet": [
+        "KHẢI"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "ひら.く",
+        "さと.す"
+      ],
+      "glossEn": [
+        "disclose",
+        "open",
+        "say"
+      ],
+      "strokes": 11,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "迷",
+      "firstLesson": 50,
+      "hanViet": [
+        "MÊ"
+      ],
+      "hanVietSource": "kanjidic",
+      "on": [
+        "メイ"
+      ],
+      "kun": [
+        "まよ.う"
+      ],
+      "glossEn": [
+        "astray",
+        "be perplexed",
+        "in doubt",
+        "lost",
+        "err",
+        "illusion"
+      ],
+      "strokes": 9,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "惑",
+      "firstLesson": 50,
+      "hanViet": [
+        "HOẶC"
+      ],
+      "hanVietSource": "kanjidic",
+      "on": [
+        "ワク"
+      ],
+      "kun": [
+        "まど.う"
+      ],
+      "glossEn": [
+        "beguile",
+        "delusion",
+        "perplexity"
+      ],
+      "strokes": 12,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "敬",
+      "firstLesson": 50,
+      "hanViet": [
+        "KÍNH"
+      ],
+      "hanVietSource": "kanjidic",
+      "on": [
+        "ケイ",
+        "キョウ"
+      ],
+      "kun": [
+        "うやま.う"
+      ],
+      "glossEn": [
+        "awe",
+        "respect",
+        "honor",
+        "revere"
+      ],
+      "strokes": 12,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g50-01",
+      "lesson": 50,
+      "order": 1,
+      "pattern": "Khiêm nhường ngữ（謙譲語）",
+      "meaningVi": "khiêm nhường ngữ",
+      "source": "ai",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "g50-02",
+      "lesson": 50,
+      "order": 2,
+      "pattern": "お／ご V します",
+      "meaningVi": "khiêm nhường ngữ dạng お～する",
+      "source": "ai",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "g50-03",
+      "lesson": 50,
+      "order": 3,
+      "pattern": "Động từ khiêm nhường đặc biệt",
+      "meaningVi": "参ります、いただきます、申します…",
+      "source": "ai",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "g50-04",
+      "lesson": 50,
+      "order": 4,
+      "pattern": "ございます（丁寧語）",
+      "meaningVi": "thể lịch sự của あります",
+      "source": "ai",
+      "overridden": [],
+      "verified": false
+    }
+  ]
+}

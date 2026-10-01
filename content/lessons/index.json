@@ -1,0 +1,405 @@
+{
+  "schemaVersion": 1,
+  "lessons": [
+    {
+      "lesson": 1,
+      "vocabCount": 49,
+      "kanjiCount": 41,
+      "grammarCount": 6,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 2,
+      "vocabCount": 47,
+      "kanjiCount": 19,
+      "grammarCount": 6,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 3,
+      "vocabCount": 45,
+      "kanjiCount": 26,
+      "grammarCount": 6,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 4,
+      "vocabCount": 64,
+      "kanjiCount": 37,
+      "grammarCount": 6,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 5,
+      "vocabCount": 58,
+      "kanjiCount": 34,
+      "grammarCount": 6,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 6,
+      "vocabCount": 56,
+      "kanjiCount": 28,
+      "grammarCount": 6,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 7,
+      "vocabCount": 48,
+      "kanjiCount": 11,
+      "grammarCount": 5,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 8,
+      "vocabCount": 62,
+      "kanjiCount": 39,
+      "grammarCount": 7,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 9,
+      "vocabCount": 51,
+      "kanjiCount": 33,
+      "grammarCount": 5,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 10,
+      "vocabCount": 49,
+      "kanjiCount": 18,
+      "grammarCount": 5,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 11,
+      "vocabCount": 62,
+      "kanjiCount": 16,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 12,
+      "vocabCount": 51,
+      "kanjiCount": 32,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 13,
+      "vocabCount": 42,
+      "kanjiCount": 24,
+      "grammarCount": 5,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 14,
+      "vocabCount": 41,
+      "kanjiCount": 17,
+      "grammarCount": 6,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 15,
+      "vocabCount": 28,
+      "kanjiCount": 20,
+      "grammarCount": 5,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 16,
+      "vocabCount": 54,
+      "kanjiCount": 22,
+      "grammarCount": 6,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 17,
+      "vocabCount": 37,
+      "kanjiCount": 21,
+      "grammarCount": 6,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 18,
+      "vocabCount": 29,
+      "kanjiCount": 14,
+      "grammarCount": 6,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 19,
+      "vocabCount": 31,
+      "kanjiCount": 18,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 20,
+      "vocabCount": 29,
+      "kanjiCount": 5,
+      "grammarCount": 2,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 21,
+      "vocabCount": 38,
+      "kanjiCount": 12,
+      "grammarCount": 6,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 22,
+      "vocabCount": 24,
+      "kanjiCount": 10,
+      "grammarCount": 2,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 23,
+      "vocabCount": 34,
+      "kanjiCount": 18,
+      "grammarCount": 5,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 24,
+      "vocabCount": 19,
+      "kanjiCount": 10,
+      "grammarCount": 3,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 25,
+      "vocabCount": 17,
+      "kanjiCount": 5,
+      "grammarCount": 5,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 26,
+      "vocabCount": 50,
+      "kanjiCount": 23,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 27,
+      "vocabCount": 54,
+      "kanjiCount": 22,
+      "grammarCount": 5,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 28,
+      "vocabCount": 48,
+      "kanjiCount": 13,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 29,
+      "vocabCount": 47,
+      "kanjiCount": 23,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 30,
+      "vocabCount": 55,
+      "kanjiCount": 19,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 31,
+      "vocabCount": 44,
+      "kanjiCount": 12,
+      "grammarCount": 5,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 32,
+      "vocabCount": 59,
+      "kanjiCount": 19,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 33,
+      "vocabCount": 54,
+      "kanjiCount": 21,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 34,
+      "vocabCount": 51,
+      "kanjiCount": 11,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 35,
+      "vocabCount": 50,
+      "kanjiCount": 19,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 36,
+      "vocabCount": 49,
+      "kanjiCount": 16,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 37,
+      "vocabCount": 58,
+      "kanjiCount": 34,
+      "grammarCount": 3,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 38,
+      "vocabCount": 44,
+      "kanjiCount": 8,
+      "grammarCount": 5,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 39,
+      "vocabCount": 46,
+      "kanjiCount": 11,
+      "grammarCount": 3,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 40,
+      "vocabCount": 66,
+      "kanjiCount": 12,
+      "grammarCount": 5,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 41,
+      "vocabCount": 54,
+      "kanjiCount": 13,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 42,
+      "vocabCount": 55,
+      "kanjiCount": 18,
+      "grammarCount": 3,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 43,
+      "vocabCount": 30,
+      "kanjiCount": 7,
+      "grammarCount": 3,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 44,
+      "vocabCount": 41,
+      "kanjiCount": 11,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 45,
+      "vocabCount": 34,
+      "kanjiCount": 7,
+      "grammarCount": 2,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 46,
+      "vocabCount": 32,
+      "kanjiCount": 5,
+      "grammarCount": 3,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 47,
+      "vocabCount": 41,
+      "kanjiCount": 7,
+      "grammarCount": 3,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 48,
+      "vocabCount": 32,
+      "kanjiCount": 8,
+      "grammarCount": 2,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 49,
+      "vocabCount": 44,
+      "kanjiCount": 10,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    },
+    {
+      "lesson": 50,
+      "vocabCount": 46,
+      "kanjiCount": 11,
+      "grammarCount": 4,
+      "verifiedCount": 0,
+      "fullyVerified": false
+    }
+  ]
+}

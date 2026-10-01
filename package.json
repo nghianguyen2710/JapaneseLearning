@@ -2,6 +2,7 @@
   "name": "japanese-learning",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,7 +11,9 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "content:build": "node scripts/content/build-cli.ts",
+    "content:verify": "node scripts/content/verify-cli.ts"
   },
   "dependencies": {
     "next": "16.3.8",

@@ -1,0 +1,618 @@
+{
+  "schemaVersion": 1,
+  "lesson": 25,
+  "vocab": [
+    {
+      "id": "w1049",
+      "lesson": 25,
+      "order": 1,
+      "kana": "かんがえます",
+      "kanji": "考えます",
+      "hanViet": "KHẢO",
+      "meaningVi": "nghĩ, suy nghĩ",
+      "kanjiChars": [
+        "考"
+      ],
+      "jmdict": {
+        "id": "1281020",
+        "dictForm": "考える",
+        "pos": [
+          "v1",
+          "vt"
+        ],
+        "glossEn": [
+          "to think (about, of)",
+          "to think over",
+          "to ponder",
+          "to contemplate"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1050",
+      "lesson": 25,
+      "order": 2,
+      "kana": "[えきに～] つきます",
+      "kanji": "[駅に～]着きます",
+      "hanViet": "DỊCH TRƯỚC",
+      "meaningVi": "đến [ga]",
+      "kanjiChars": [
+        "駅",
+        "着"
+      ],
+      "jmdict": {
+        "id": "1422970",
+        "dictForm": "着く",
+        "pos": [
+          "v5k",
+          "vi"
+        ],
+        "glossEn": [
+          "to arrive at",
+          "to reach",
+          "to sit on",
+          "to sit at (e.g. the table)"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1051",
+      "lesson": 25,
+      "order": 3,
+      "kana": "りゅうがくします",
+      "kanji": "留学します",
+      "hanViet": "LƯU HỌC",
+      "meaningVi": "du học",
+      "kanjiChars": [
+        "留",
+        "学"
+      ],
+      "jmdict": {
+        "id": "1552740",
+        "dictForm": "留学する",
+        "pos": [
+          "n",
+          "vs",
+          "vi"
+        ],
+        "glossEn": [
+          "studying abroad",
+          "(temporarily) studying at another school (to learn a specific skill)"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1052",
+      "lesson": 25,
+      "order": 4,
+      "kana": "[としを～]とります",
+      "kanji": "[年を～]取ります",
+      "hanViet": "NIÊN THỦ",
+      "meaningVi": "thêm [tuổi]",
+      "kanjiChars": [
+        "年",
+        "取"
+      ],
+      "jmdict": {
+        "id": "1326980",
+        "dictForm": "取る",
+        "pos": [
+          "v5r",
+          "vt"
+        ],
+        "glossEn": [
+          "to take",
+          "to pick up",
+          "to grab",
+          "to catch"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1053",
+      "lesson": 25,
+      "order": 5,
+      "kana": "いなか",
+      "kanji": "田舎",
+      "hanViet": "ĐIỀN XÁ",
+      "meaningVi": "quê, nông thôn",
+      "kanjiChars": [
+        "田",
+        "舎"
+      ],
+      "jmdict": {
+        "id": "1442750",
+        "dictForm": "田舎",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "rural area",
+          "countryside",
+          "the sticks",
+          "hometown"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1054",
+      "lesson": 25,
+      "order": 6,
+      "kana": "たいしかん",
+      "kanji": "大使館",
+      "hanViet": "ĐẠI SỨ QUÁN",
+      "meaningVi": "đại sứ quán",
+      "kanjiChars": [
+        "大",
+        "使",
+        "館"
+      ],
+      "jmdict": {
+        "id": "1413890",
+        "dictForm": "大使館",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "embassy"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1055",
+      "lesson": 25,
+      "order": 7,
+      "kana": "グループ",
+      "meaningVi": "nhóm, đoàn",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1047300",
+        "dictForm": "グループ",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "group (usu. of people)"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1056",
+      "lesson": 25,
+      "order": 8,
+      "kana": "チャンス",
+      "meaningVi": "cơ hội",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1078040",
+        "dictForm": "チャンス",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "chance",
+          "opportunity"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1057",
+      "lesson": 25,
+      "order": 9,
+      "kana": "おく",
+      "kanji": "億",
+      "hanViet": "ỨC",
+      "meaningVi": "bên trong cùng, phía sâu bên trong",
+      "kanjiChars": [
+        "億"
+      ],
+      "jmdict": {
+        "id": "1182620",
+        "dictForm": "億",
+        "pos": [
+          "num"
+        ],
+        "glossEn": [
+          "hundred million",
+          "100,000,000",
+          "10^8"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1058",
+      "lesson": 25,
+      "order": 10,
+      "kana": "もし[～たら]",
+      "meaningVi": "nếu [~ thì]",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1012500",
+        "dictForm": "もし",
+        "pos": [
+          "adv"
+        ],
+        "glossEn": [
+          "if",
+          "in case",
+          "supposing"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1059",
+      "lesson": 25,
+      "order": 11,
+      "kana": "いくら[～ても]",
+      "meaningVi": "cho dù, thế nào [~ đi nữa]",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1021180",
+        "dictForm": "いくら",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "salted salmon roe"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1060",
+      "lesson": 25,
+      "order": 12,
+      "kana": "てんきん",
+      "kanji": "転勤",
+      "hanViet": "CHUYỂN CẦN",
+      "meaningVi": "việc chuyển địa điểm làm việc",
+      "kanjiChars": [
+        "転",
+        "勤"
+      ],
+      "jmdict": {
+        "id": "1441120",
+        "dictForm": "転勤",
+        "pos": [
+          "n",
+          "vs",
+          "vi"
+        ],
+        "glossEn": [
+          "job transfer",
+          "job relocation",
+          "intra-company transfer"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1061",
+      "lesson": 25,
+      "order": 13,
+      "kana": "こと",
+      "meaningVi": "việc (~の　こと: việc ~)",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1313580",
+        "dictForm": "こと",
+        "pos": [
+          "n",
+          "n-suf"
+        ],
+        "glossEn": [
+          "thing",
+          "matter",
+          "incident",
+          "occurrence"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1062",
+      "lesson": 25,
+      "order": 14,
+      "kana": "いっぱいのみましょう",
+      "kanji": "一杯飲みましょう。",
+      "hanViet": "NHẤT BÔI ẨM",
+      "meaningVi": "Chúng ta cùng uống nhé.",
+      "kanjiChars": [
+        "一",
+        "杯",
+        "飲"
+      ],
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1063",
+      "lesson": 25,
+      "order": 15,
+      "kana": "「いろいろおせわになりました",
+      "kanji": "[いろいろ]お世話になりました。",
+      "hanViet": "THẾ THOẠI",
+      "meaningVi": "Anh/chị đã giúp tôi (nhiều).",
+      "kanjiChars": [
+        "世",
+        "話"
+      ],
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1064",
+      "lesson": 25,
+      "order": 16,
+      "kana": "がんばります",
+      "kanji": "頑張ります",
+      "hanViet": "NGOAN TRƯƠNG",
+      "meaningVi": "cố, cố gắng",
+      "kanjiChars": [
+        "頑",
+        "張"
+      ],
+      "jmdict": {
+        "id": "1217700",
+        "dictForm": "頑張る",
+        "pos": [
+          "v5r",
+          "vi"
+        ],
+        "glossEn": [
+          "to persevere",
+          "to persist",
+          "to keep at it",
+          "to hang on"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1065",
+      "lesson": 25,
+      "order": 17,
+      "kana": "どうぞおげんきで",
+      "kanji": "どうぞお元気で。",
+      "hanViet": "NGUYÊN KHÍ",
+      "meaningVi": "Chúc anh/chị mạnh khỏe.",
+      "kanjiChars": [
+        "元",
+        "気"
+      ],
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    }
+  ],
+  "kanji": [
+    {
+      "id": "考",
+      "firstLesson": 25,
+      "hanViet": [
+        "KHẢO"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "かんが.える",
+        "かんが.え"
+      ],
+      "glossEn": [
+        "consider",
+        "think over"
+      ],
+      "strokes": 6,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "舎",
+      "firstLesson": 25,
+      "hanViet": [
+        "XÁ"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "シャ",
+        "セキ"
+      ],
+      "kun": [
+        "やど.る"
+      ],
+      "glossEn": [
+        "cottage",
+        "inn",
+        "hut",
+        "house",
+        "mansion"
+      ],
+      "strokes": 8,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "億",
+      "firstLesson": 25,
+      "hanViet": [
+        "ỨC"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "オク"
+      ],
+      "kun": [],
+      "glossEn": [
+        "hundred million",
+        "10**8"
+      ],
+      "strokes": 15,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "勤",
+      "firstLesson": 25,
+      "hanViet": [
+        "CẦN"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "キン",
+        "ゴン"
+      ],
+      "kun": [
+        "つと.める",
+        "-づと.め",
+        "つと.まる",
+        "いそ.しむ"
+      ],
+      "glossEn": [
+        "diligence",
+        "become employed",
+        "serve"
+      ],
+      "strokes": 12,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "頑",
+      "firstLesson": 25,
+      "hanViet": [
+        "NGOAN"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "ガン"
+      ],
+      "kun": [
+        "かたく.な"
+      ],
+      "glossEn": [
+        "stubborn",
+        "foolish",
+        "firmly"
+      ],
+      "strokes": 13,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g25-01",
+      "lesson": 25,
+      "order": 1,
+      "pattern": "普通形 quá khứ ら、～",
+      "meaningVi": "nếu … thì … (たら điều kiện)",
+      "source": "ai",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "g25-02",
+      "lesson": 25,
+      "order": 2,
+      "pattern": "V たら、～",
+      "meaningVi": "sau khi … thì …",
+      "source": "ai",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "g25-03",
+      "lesson": 25,
+      "order": 3,
+      "pattern": "V て／V なくて／adj くて／N で も、～",
+      "meaningVi": "dù … cũng …",
+      "source": "ai",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "g25-04",
+      "lesson": 25,
+      "order": 4,
+      "pattern": "もし",
+      "meaningVi": "nếu",
+      "source": "ai",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "g25-05",
+      "lesson": 25,
+      "order": 5,
+      "pattern": "いくら",
+      "meaningVi": "dù bao nhiêu",
+      "source": "ai",
+      "overridden": [],
+      "verified": false
+    }
+  ]
+}

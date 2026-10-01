@@ -49,7 +49,7 @@ Máy mới: clone repo rồi chạy `./scripts/fetch-sources.sh` (cần `curl`, 
 - **Lấy từ:** Claude soạn ngày 1/10/2026 theo hiểu biết chung về mục lục Minna no Nihongo I/II. **Không lấy từ nguồn nào có sẵn.**
 - **Trạng thái:** `source: ai`, `verified: false` cho tất cả. **Phải đối chiếu với sách** trước khi học từng bài.
 - **Định dạng:** TSV, các dòng `#` là chú thích, cột `id`, `lesson`, `order`, `pattern`, `meaning_vi`. Cột `id` (`g01-01`) cố định, không bao giờ đánh số lại
-- Khoảng 4–7 mẫu mỗi bài, tổng cộng khoảng 240 mẫu
+- Từ 2 đến 7 mẫu mỗi bài, tổng cộng 221 mẫu
 
 ## 3. JMdict — `jmdict/jmdict-eng-3.6.2.json`
 

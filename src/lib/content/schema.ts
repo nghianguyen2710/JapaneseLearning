@@ -77,3 +77,16 @@ export type LessonFile = {
   kanji: Kanji[];
   grammar: Grammar[];
 };
+
+/** content/lessons/index.json: tổng quan các bài cho dashboard */
+export type LessonIndex = {
+  schemaVersion: typeof CONTENT_SCHEMA_VERSION;
+  lessons: {
+    lesson: number;
+    vocabCount: number;
+    kanjiCount: number;
+    grammarCount: number;
+    verifiedCount: number;
+    fullyVerified: boolean;
+  }[];
+};

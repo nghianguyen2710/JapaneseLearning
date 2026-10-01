@@ -19,7 +19,8 @@ App học tiếng Nhật cá nhân (Minna 1–50, thi N5 tháng 7/2027). Là PWA
 ```
 content/raw/       nguồn gốc (xem docs/sources.md) — KHÔNG sửa tay
 content/overrides/ chỉnh sửa tay và trạng thái verified — chỉ sửa qua script hoặc theo hướng dẫn
-content/lessons/   JSON đã build (01.json … 50.json) — do script sinh, KHÔNG sửa tay
+content/lessons/   JSON đã build (01.json … 50.json, index.json) — do script sinh, KHÔNG sửa tay
+content/ids/       sổ ID từ vựng — chỉ thêm; chỉ sửa tay khoá khi build báo từ bị đổi cách viết (docs/schema.md mục 1)
 scripts/           script tải nguồn, build nội dung (scripts/prompts/ chứa prompt sinh ngữ pháp qua chat, D14)
 src/               mã nguồn app
 docs/              spec, decisions, sources, tasks, schema, notes
@@ -32,7 +33,8 @@ docs/              spec, decisions, sources, tasks, schema, notes
 | `./scripts/fetch-sources.sh` | Tải lại nguồn nặng vào `content/raw/` (máy mới) |
 | `npm run dev` / `build` / `lint` | Chạy dev server / build production / ESLint |
 | `npm test` / `npm run format` | Vitest / Prettier (không định dạng file `.md`) |
-| `npm run content:build` | Sinh `content/lessons/*.json` kèm báo cáo _(Module 1.3)_ |
+| `npm run content:build` | Sinh `content/lessons/*.json`, `content/ids/vocab.json`, báo cáo `content/report.md` |
+| `npm run content:verify -- --lessons 1-5` | Đánh dấu `verified: true` cho cả bài đã kiểm tra (thêm `--undo` để bỏ), rồi build lại |
 
 ## Quy tắc
 

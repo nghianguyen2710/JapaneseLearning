@@ -1,0 +1,848 @@
+{
+  "schemaVersion": 1,
+  "lesson": 24,
+  "vocab": [
+    {
+      "id": "w1030",
+      "lesson": 24,
+      "order": 1,
+      "kana": "くれます",
+      "meaningVi": "cho, tặng (tôi)",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1269130",
+        "dictForm": "くれる",
+        "pos": [
+          "v1-s",
+          "vt",
+          "aux-v"
+        ],
+        "glossEn": [
+          "to give",
+          "to let (one) have",
+          "to give",
+          "to do for one"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1031",
+      "lesson": 24,
+      "order": 2,
+      "kana": "つれていきます",
+      "kanji": "連れて行きます",
+      "hanViet": "LIÊN HÀNH",
+      "meaningVi": "dẫn đi",
+      "kanjiChars": [
+        "連",
+        "行"
+      ],
+      "jmdict": {
+        "id": "1598220",
+        "dictForm": "連れて行く",
+        "pos": [
+          "v5k-s",
+          "vt"
+        ],
+        "glossEn": [
+          "to take (someone to a place)",
+          "to take (someone) with one",
+          "to take along",
+          "to lead away"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1032",
+      "lesson": 24,
+      "order": 3,
+      "kana": "つれてきます",
+      "kanji": "連れて来ます",
+      "hanViet": "LIÊN LAI",
+      "meaningVi": "dẫn đến",
+      "kanjiChars": [
+        "連",
+        "来"
+      ],
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1033",
+      "lesson": 24,
+      "order": 4,
+      "kana": "[ひとを～]おくります",
+      "kanji": "[人を～]送ります",
+      "hanViet": "NHÂN TỐNG",
+      "meaningVi": "đưa đi, đưa đến, tiễn [một ai đó]",
+      "kanjiChars": [
+        "人",
+        "送"
+      ],
+      "jmdict": {
+        "id": "1402730",
+        "dictForm": "送る",
+        "pos": [
+          "v5r",
+          "vt"
+        ],
+        "glossEn": [
+          "to send",
+          "to dispatch",
+          "to forward",
+          "to transmit"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1034",
+      "lesson": 24,
+      "order": 5,
+      "kana": "しょうかいします",
+      "kanji": "紹介します",
+      "hanViet": "THIỆU GIỚI",
+      "meaningVi": "giới thiệu",
+      "kanjiChars": [
+        "紹",
+        "介"
+      ],
+      "jmdict": {
+        "id": "1351430",
+        "dictForm": "紹介する",
+        "pos": [
+          "n",
+          "vs",
+          "vt"
+        ],
+        "glossEn": [
+          "introduction",
+          "presentation",
+          "referral",
+          "showcase (of a product)"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1035",
+      "lesson": 24,
+      "order": 6,
+      "kana": "あんないします",
+      "kanji": "案内します",
+      "hanViet": "ÁN NỘI",
+      "meaningVi": "hướng dẫn, giới thiệu, dẫn đường",
+      "kanjiChars": [
+        "案",
+        "内"
+      ],
+      "jmdict": {
+        "id": "1154860",
+        "dictForm": "案内する",
+        "pos": [
+          "n",
+          "vs",
+          "vt"
+        ],
+        "glossEn": [
+          "guidance",
+          "leading (the way)",
+          "showing around",
+          "information"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1036",
+      "lesson": 24,
+      "order": 7,
+      "kana": "せつめいします",
+      "kanji": "説明します",
+      "hanViet": "THUYẾT MINH",
+      "meaningVi": "giải thích, trình bày",
+      "kanjiChars": [
+        "説",
+        "明"
+      ],
+      "jmdict": {
+        "id": "1386460",
+        "dictForm": "説明する",
+        "pos": [
+          "n",
+          "vs",
+          "vt"
+        ],
+        "glossEn": [
+          "explanation",
+          "exposition",
+          "description",
+          "account"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1037",
+      "lesson": 24,
+      "order": 8,
+      "kana": "[コーヒーを～]いれます",
+      "meaningVi": "pha [cà-phê]",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1465610",
+        "dictForm": "いれる",
+        "pos": [
+          "v1",
+          "vt"
+        ],
+        "glossEn": [
+          "to put in",
+          "to let in",
+          "to take in",
+          "to bring in"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1038",
+      "lesson": 24,
+      "order": 9,
+      "kana": "おじいさん／おじいちゃん",
+      "meaningVi": "ông nội, ông ngoại, ông",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1002320",
+        "dictForm": "おじいさん",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "grandfather",
+          "male senior-citizen",
+          "old man"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1039",
+      "lesson": 24,
+      "order": 10,
+      "kana": "おばあさん／おばあちゃん",
+      "meaningVi": "bà nội, bà ngoại, bà",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1002330",
+        "dictForm": "おばあさん",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "grandmother",
+          "old woman",
+          "female senior citizen"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1040",
+      "lesson": 24,
+      "order": 11,
+      "kana": "じゅんび",
+      "kanji": "準備",
+      "hanViet": "CHUẨN BỊ",
+      "meaningVi": "chuẩn bị [～します:chuẩn bị]",
+      "kanjiChars": [
+        "準",
+        "備"
+      ],
+      "jmdict": {
+        "id": "1341670",
+        "dictForm": "準備",
+        "pos": [
+          "n",
+          "vs",
+          "vt"
+        ],
+        "glossEn": [
+          "preparation",
+          "arrangements",
+          "getting ready",
+          "provision"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1041",
+      "lesson": 24,
+      "order": 12,
+      "kana": "いみ",
+      "kanji": "意味",
+      "hanViet": "Ý VỊ",
+      "meaningVi": "ý nghĩa",
+      "kanjiChars": [
+        "意",
+        "味"
+      ],
+      "jmdict": {
+        "id": "1156800",
+        "dictForm": "意味",
+        "pos": [
+          "n",
+          "vs",
+          "vt"
+        ],
+        "glossEn": [
+          "meaning",
+          "significance",
+          "sense"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1042",
+      "lesson": 24,
+      "order": 13,
+      "kana": "[お]かし",
+      "kanji": "[お]菓子",
+      "hanViet": "QUẢ TỬ",
+      "meaningVi": "bánh kẹo",
+      "kanjiChars": [
+        "菓",
+        "子"
+      ],
+      "jmdict": {
+        "id": "1195670",
+        "dictForm": "菓子",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "confectionery",
+          "sweets",
+          "candy",
+          "cake"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1043",
+      "lesson": 24,
+      "order": 14,
+      "kana": "ぜんぶ",
+      "kanji": "全部",
+      "hanViet": "TOÀN BỘ",
+      "meaningVi": "toàn bộ, tất cả",
+      "kanjiChars": [
+        "全",
+        "部"
+      ],
+      "jmdict": {
+        "id": "1396130",
+        "dictForm": "全部",
+        "pos": [
+          "n",
+          "adj-no",
+          "adv"
+        ],
+        "glossEn": [
+          "all",
+          "entire",
+          "whole",
+          "altogether"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1044",
+      "lesson": 24,
+      "order": 15,
+      "kana": "じぶんで",
+      "kanji": "自分で",
+      "hanViet": "TỰ PHÂN",
+      "meaningVi": "tự (mình)",
+      "kanjiChars": [
+        "自",
+        "分"
+      ],
+      "jmdict": {
+        "id": "2830519",
+        "dictForm": "自分で",
+        "pos": [
+          "exp"
+        ],
+        "glossEn": [
+          "by myself",
+          "in person",
+          "by oneself"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1045",
+      "lesson": 24,
+      "order": 16,
+      "kana": "ほかに",
+      "meaningVi": "ngoài ra, bên cạnh đó",
+      "kanjiChars": [],
+      "jmdict": {
+        "id": "1203280",
+        "dictForm": "ほかに",
+        "pos": [
+          "exp",
+          "adv"
+        ],
+        "glossEn": [
+          "else",
+          "in addition",
+          "besides"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1046",
+      "lesson": 24,
+      "order": 17,
+      "kana": "ワゴンしゃ",
+      "kanji": "ワゴン車",
+      "hanViet": "XA",
+      "meaningVi": "xe ô-tô kiểu Wagon (có thùng đóng kín)",
+      "kanjiChars": [
+        "車"
+      ],
+      "jmdict": {
+        "id": "2258070",
+        "dictForm": "ワゴン車",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "station wagon",
+          "estate car",
+          "minivan",
+          "people carrier"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1047",
+      "lesson": 24,
+      "order": 18,
+      "kana": "「お」べんとう",
+      "kanji": "[お]弁当",
+      "hanViet": "BIỆN ĐƯƠNG",
+      "meaningVi": "cơm hộp",
+      "kanjiChars": [
+        "弁",
+        "当"
+      ],
+      "jmdict": {
+        "id": "1513060",
+        "dictForm": "弁当",
+        "pos": [
+          "n"
+        ],
+        "glossEn": [
+          "bento",
+          "Japanese box lunch"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "w1048",
+      "lesson": 24,
+      "order": 19,
+      "kana": "ははのひ",
+      "kanji": "母の日",
+      "hanViet": "MẪU NHẬT",
+      "meaningVi": "ngày Mẹ",
+      "kanjiChars": [
+        "母",
+        "日"
+      ],
+      "jmdict": {
+        "id": "1515000",
+        "dictForm": "母の日",
+        "pos": [
+          "exp",
+          "n"
+        ],
+        "glossEn": [
+          "Mother's Day (2nd Sunday of May)"
+        ]
+      },
+      "seeAlso": [],
+      "source": "deck",
+      "overridden": [],
+      "verified": false
+    }
+  ],
+  "kanji": [
+    {
+      "id": "連",
+      "firstLesson": 24,
+      "hanViet": [
+        "LIÊN"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "レン"
+      ],
+      "kun": [
+        "つら.なる",
+        "つら.ねる",
+        "つ.れる",
+        "-づ.れ"
+      ],
+      "glossEn": [
+        "take along",
+        "lead",
+        "join",
+        "connect",
+        "party",
+        "gang",
+        "clique"
+      ],
+      "strokes": 10,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "紹",
+      "firstLesson": 24,
+      "hanViet": [
+        "THIỆU"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [],
+      "glossEn": [
+        "introduce",
+        "inherit",
+        "help"
+      ],
+      "strokes": 11,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "介",
+      "firstLesson": 24,
+      "hanViet": [
+        "GIỚI"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "カイ"
+      ],
+      "kun": [],
+      "glossEn": [
+        "jammed in",
+        "shellfish",
+        "mediate",
+        "concern oneself with"
+      ],
+      "strokes": 4,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "案",
+      "firstLesson": 24,
+      "hanViet": [
+        "ÁN"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "アン"
+      ],
+      "kun": [
+        "つくえ"
+      ],
+      "glossEn": [
+        "plan",
+        "suggestion",
+        "draft",
+        "ponder",
+        "fear",
+        "proposition",
+        "idea",
+        "expectation",
+        "worry",
+        "table",
+        "bench"
+      ],
+      "strokes": 10,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "説",
+      "firstLesson": 24,
+      "hanViet": [
+        "THUYẾT"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "セツ",
+        "ゼイ"
+      ],
+      "kun": [
+        "と.く"
+      ],
+      "glossEn": [
+        "opinion",
+        "theory",
+        "explanation",
+        "rumor"
+      ],
+      "strokes": 14,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "準",
+      "firstLesson": 24,
+      "hanViet": [
+        "CHUẨN"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "ジュン"
+      ],
+      "kun": [
+        "じゅん.じる",
+        "じゅん.ずる",
+        "なぞら.える",
+        "のり",
+        "ひと.しい",
+        "みずもり"
+      ],
+      "glossEn": [
+        "semi-",
+        "correspond to",
+        "proportionate to",
+        "conform",
+        "imitate"
+      ],
+      "strokes": 13,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "備",
+      "firstLesson": 24,
+      "hanViet": [
+        "BỊ"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "ビ"
+      ],
+      "kun": [
+        "そな.える",
+        "そな.わる",
+        "つぶさ.に"
+      ],
+      "glossEn": [
+        "equip",
+        "provision",
+        "preparation"
+      ],
+      "strokes": 12,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "菓",
+      "firstLesson": 24,
+      "hanViet": [
+        "QUẢ"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "カ"
+      ],
+      "kun": [],
+      "glossEn": [
+        "candy",
+        "cakes",
+        "fruit"
+      ],
+      "strokes": 11,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "弁",
+      "firstLesson": 24,
+      "hanViet": [
+        "BIỆN"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "ベン",
+        "ヘン"
+      ],
+      "kun": [
+        "かんむり",
+        "わきま.える",
+        "わ.ける",
+        "はなびら",
+        "あらそ.う"
+      ],
+      "glossEn": [
+        "valve",
+        "petal",
+        "braid",
+        "speech",
+        "dialect",
+        "discrimination",
+        "dispose of",
+        "distinguish",
+        "conical cap"
+      ],
+      "strokes": 5,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "当",
+      "firstLesson": 24,
+      "hanViet": [
+        "ĐƯƠNG"
+      ],
+      "hanVietSource": "deck",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "あ.たる",
+        "あ.たり",
+        "あ.てる",
+        "あ.て",
+        "まさ.に",
+        "まさ.にべし"
+      ],
+      "glossEn": [
+        "hit",
+        "right",
+        "appropriate",
+        "himself"
+      ],
+      "strokes": 6,
+      "source": "kanjidic",
+      "overridden": [],
+      "verified": false
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g24-01",
+      "lesson": 24,
+      "order": 1,
+      "pattern": "くれます",
+      "meaningVi": "(ai đó) cho tôi",
+      "source": "ai",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "g24-02",
+      "lesson": 24,
+      "order": 2,
+      "pattern": "V て あげます／もらいます／くれます",
+      "meaningVi": "làm V cho / được làm cho",
+      "source": "ai",
+      "overridden": [],
+      "verified": false
+    },
+    {
+      "id": "g24-03",
+      "lesson": 24,
+      "order": 3,
+      "pattern": "N（người）が V",
+      "meaningVi": "chủ ngữ là người thực hiện (hành động cho/nhận)",
+      "source": "ai",
+      "overridden": [],
+      "verified": false
+    }
+  ]
+}
