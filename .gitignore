@@ -1,0 +1,17 @@
+# Nguồn nặng, tải lại bằng scripts/fetch-sources.sh
+content/raw/jmdict/
+content/raw/unihan/
+content/raw/tatoeba/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+coverage/
+
+# Secret
+.env
+.env*.local
+
+# OS / editor
+.DS_Store

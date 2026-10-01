@@ -1,0 +1,2253 @@
+#separator:tab
+#html:true
+#deck column:1
+#tags column:10
+Từ vựng Minna	Bài 01 - 01	Bài 01	わたし	私	TƯ	tôi			
+Từ vựng Minna	Bài 01 - 02	Bài 01	わたしたち	私たち	TƯ	chúng tôi, chúng ta			
+Từ vựng Minna	Bài 01 - 03	Bài 01	あなた			anh/ chị/ ông/ bà,			
+Từ vựng Minna	Bài 01 - 04	Bài 01	あのひと	あの人	NHÂN	người kia, người đó			
+Từ vựng Minna	Bài 01 - 05	Bài 01	あのかた	あの方	PHƯƠNG	vị kia			
+Từ vựng Minna	Bài 01 - 06	Bài 01	みなさん	皆さん	GIAI	các anh chị, các ông bà, các bạn, quý vị			
+Từ vựng Minna	Bài 01 - 07	Bài 01	～さん			anh, chị, ông, bà			
+Từ vựng Minna	Bài 01 - 08	Bài 01	～ちゃん			(hậu tố thêm vào sau tên của trẻ em thay cho 「～さん」)			
+Từ vựng Minna	Bài 01 - 09	Bài 01	～くん	～君	QUÂN	(hậu tố thêm vào sau tên của em trai)			
+Từ vựng Minna	Bài 01 - 10	Bài 01	～じん	～人	NHÂN	người (nước)~”; ví dụ 「アメリカじん」: người Mỹ)			
+Từ vựng Minna	Bài 01 - 11	Bài 01	せんせい	先生	TIÊN SINH	thầy/ cô			
+Từ vựng Minna	Bài 01 - 12	Bài 01	きょうし	教師	GIÁO SƯ	giáo viên			
+Từ vựng Minna	Bài 01 - 13	Bài 01	がくせい	学生	HỌC SINH	học sinh, sinh viên			
+Từ vựng Minna	Bài 01 - 14	Bài 01	かいしゃいん	会社員	HỘI XÃ VIÊN	nhân viên công ty			
+Từ vựng Minna	Bài 01 - 15	Bài 01	しゃいん	社員	XÃ VIÊN	nhân viên công ty ~			
+Từ vựng Minna	Bài 01 - 16	Bài 01	ぎんこういん	銀行員	NGÂN HÀNH VIÊN	nhân viên ngân hàng			
+Từ vựng Minna	Bài 01 - 17	Bài 01	いしゃ	医者	Y GIẢ	bác sĩ			
+Từ vựng Minna	Bài 01 - 18	Bài 01	けんきゅうしゃ	研究者	NGHIÊN CỨU GIẢ	nhà nghiên cứu			
+Từ vựng Minna	Bài 01 - 19	Bài 01	エンジニア			kỹ sư			
+Từ vựng Minna	Bài 01 - 20	Bài 01	だいがく	大学	ĐẠI HỌC	đại học, trường đại học			
+Từ vựng Minna	Bài 01 - 21	Bài 01	びょういん	病院	BỆNH VIỆN	bệnh viện			
+Từ vựng Minna	Bài 01 - 22	Bài 01	でんき	電気	ĐIỆN KHÍ	điện, đèn điện			
+Từ vựng Minna	Bài 01 - 23	Bài 01	だれ（どなた）			ai (vị nào)			
+Từ vựng Minna	Bài 01 - 24	Bài 01	―さい	－歳	NHẤT TUẾ	―tuổi			
+Từ vựng Minna	Bài 01 - 25	Bài 01	なんさい（おいくつ）	何歳	HÀ TUẾ	mấy tuổi, bao nhiêu tuổi			
+Từ vựng Minna	Bài 01 - 26	Bài 01	はい			vâng, dạ			
+Từ vựng Minna	Bài 01 - 27	Bài 01	いいえ			không			
+Từ vựng Minna	Bài 01 - 28	Bài 01	しつれいですが	失礼ですが	THẤT LỄ	xin lỗi,…			
+Từ vựng Minna	Bài 01 - 29	Bài 01	おなまえは？	お名前は？	DANH TIỀN	Tên anh/chị là gì?			
+Từ vựng Minna	Bài 01 - 30	Bài 01	はじめまして。	初めまして。	SƠ	Rất hân hạnh được gặp anh/chị			
+Từ vựng Minna	Bài 01 - 31	Bài 01	どうぞよろしく[おねがいします]。			Rất mong được sự giúp đỡ của anh/chị.			
+Từ vựng Minna	Bài 01 - 32	Bài 01	こちらは～さんです。			Đây là anh/chị/ông/bà ~.			
+Từ vựng Minna	Bài 01 - 33	Bài 01	～からきました。	～から来ました。	LAI	(tôi) đến từ ~.			
+Từ vựng Minna	Bài 01 - 34	Bài 01	アメリカ			Mỹ			
+Từ vựng Minna	Bài 01 - 35	Bài 01	イギリス			Anh			
+Từ vựng Minna	Bài 01 - 36	Bài 01	インド			Ấn Độ			
+Từ vựng Minna	Bài 01 - 37	Bài 01	インドネシア			Indonesia			
+Từ vựng Minna	Bài 01 - 38	Bài 01	かんこく	韓国	HÀN QUỐC	Hàn Quốc			
+Từ vựng Minna	Bài 01 - 39	Bài 01	タイ			Thái Lan			
+Từ vựng Minna	Bài 01 - 40	Bài 01	ちゅうごく	中国	TRUNG QUỐC	Trung Quốc			
+Từ vựng Minna	Bài 01 - 41	Bài 01	ドイツ			Đức			
+Từ vựng Minna	Bài 01 - 42	Bài 01	にほん	日本	NHẬT BẢN	Nhật Bản			
+Từ vựng Minna	Bài 01 - 43	Bài 01	フランス			Pháp			
+Từ vựng Minna	Bài 01 - 44	Bài 01	ブラジル			Braxin			
+Từ vựng Minna	Bài 01 - 45	Bài 01	さくらだいがく	さくら大学	ĐẠI HỌC	Đại học Sakura(giả tưởng)			
+Từ vựng Minna	Bài 01 - 46	Bài 01	ふじだいがく	富士大学	PHÚ SĨ ĐẠI HỌC	Đại học Phú Sĩ(giả tưởng)			
+Từ vựng Minna	Bài 01 - 47	Bài 01	ＩＭＣ ／ パワーでんき ／ブラジルエアー			tên các công ty (giả tưởng)			
+Từ vựng Minna	Bài 01 - 48	Bài 01	ＡＫＣ			tên một tổ chức (giả tưởng)			
+Từ vựng Minna	Bài 01 - 49	Bài 01	こうべびょういん	神戸病院	THẦN HỘ BỆNH VIỆN	tên một bệnh viện (giả tưởng)			
+Từ vựng Minna	Bài 02 - 01	Bài 02	これ			cái này, đây (vật ở gần người nói)			
+Từ vựng Minna	Bài 02 - 02	Bài 02	それ			cái đó, đó (vật ở gần người nghe)			
+Từ vựng Minna	Bài 02 - 03	Bài 02	あれ			cái kia, kia (vật ở xa cả người nói và người nghe)			
+Từ vựng Minna	Bài 02 - 04	Bài 02	この～			~ này			
+Từ vựng Minna	Bài 02 - 05	Bài 02	その～			~ đó			
+Từ vựng Minna	Bài 02 - 06	Bài 02	あの～			~ kia			
+Từ vựng Minna	Bài 02 - 07	Bài 02	ほん	本	BẢN/BỔN	sách			
+Từ vựng Minna	Bài 02 - 08	Bài 02	じしょ	辞書	TỪ THƯ	từ điển			
+Từ vựng Minna	Bài 02 - 09	Bài 02	ざっし	雑誌	TẠP CHÍ	tạp chí			
+Từ vựng Minna	Bài 02 - 10	Bài 02	しんぶん	新聞	TÂN VĂN	báo			
+Từ vựng Minna	Bài 02 - 11	Bài 02	ノート			vở			
+Từ vựng Minna	Bài 02 - 12	Bài 02	てちょう	手帳	THỦ TRƯƠNG	sổ tay			
+Từ vựng Minna	Bài 02 - 13	Bài 02	めいし	名刺	DANH THÍCH	danh thiếp			
+Từ vựng Minna	Bài 02 - 14	Bài 02	カード			thẻ, cạc			
+Từ vựng Minna	Bài 02 - 15	Bài 02	テレホンカード			thẻ điện thoại			
+Từ vựng Minna	Bài 02 - 16	Bài 02	えんぴつ	鉛筆	DUYÊN BÚT	bút chì			
+Từ vựng Minna	Bài 02 - 17	Bài 02	ボールペン			bút bi			
+Từ vựng Minna	Bài 02 - 18	Bài 02	シャープペンシル			bút chì kim, bút chì bấm			
+Từ vựng Minna	Bài 02 - 19	Bài 02	かぎ			chìa khóa			
+Từ vựng Minna	Bài 02 - 20	Bài 02	とけい	時計	THỜI KẾ	đồng hồ			
+Từ vựng Minna	Bài 02 - 21	Bài 02	かさ	傘	TẢN	ô, dù			
+Từ vựng Minna	Bài 02 - 22	Bài 02	かばん			cặp sách, túi sách			
+Từ vựng Minna	Bài 02 - 23	Bài 02	[カセット]テープ			băng [cát-xét]			
+Từ vựng Minna	Bài 02 - 24	Bài 02	テープレコーダー			máy ghi âm			
+Từ vựng Minna	Bài 02 - 25	Bài 02	テレビ			tivi			
+Từ vựng Minna	Bài 02 - 26	Bài 02	ラジオ			Radio			
+Từ vựng Minna	Bài 02 - 27	Bài 02	カメラ			máy ảnh			
+Từ vựng Minna	Bài 02 - 28	Bài 02	コンピューター			máy vi tính			
+Từ vựng Minna	Bài 02 - 29	Bài 02	じどうしゃ	自動車	TỰ ĐỘNG XA	ô tô, xe hơi			
+Từ vựng Minna	Bài 02 - 30	Bài 02	つくえ			cái bàn			
+Từ vựng Minna	Bài 02 - 31	Bài 02	いす			cái ghế			
+Từ vựng Minna	Bài 02 - 32	Bài 02	チョコレート			Socola			
+Từ vựng Minna	Bài 02 - 33	Bài 02	コーヒー			cà phê			
+Từ vựng Minna	Bài 02 - 34	Bài 02	えいご			tiếng anh			
+Từ vựng Minna	Bài 02 - 35	Bài 02	にほんご			tiếng nhật			
+Từ vựng Minna	Bài 02 - 36	Bài 02	なに			cái gì			
+Từ vựng Minna	Bài 02 - 37	Bài 02	なん			cái gì			
+Từ vựng Minna	Bài 02 - 38	Bài 02	そう			đúng rồi			
+Từ vựng Minna	Bài 02 - 39	Bài 02	ちがいます	違います	VI	không phải, không đúng, sai rồi			
+Từ vựng Minna	Bài 02 - 40	Bài 02	そうですか			thế à, vậy à			
+Từ vựng Minna	Bài 02 - 41	Bài 02	あのう			à, ờ			
+Từ vựng Minna	Bài 02 - 42	Bài 02	ほんのきもち	ほんの気持ち	KHÍ TRÌ	chỉ là chút lòng thành thôi			
+Từ vựng Minna	Bài 02 - 43	Bài 02	どうぞ			xin mời			
+Từ vựng Minna	Bài 02 - 44	Bài 02	どうも			cám ơn			
+Từ vựng Minna	Bài 02 - 45	Bài 02	どうもありがとうございます			xin chân thành cám ơn			
+Từ vựng Minna	Bài 02 - 46	Bài 02	これからおせわになります			từ nay tôi rất mong sự giúp đỡ của anh chị			
+Từ vựng Minna	Bài 02 - 47	Bài 02	こちらこそ　よろしく			chính tôi mới phải xin ông giúp đỡ cho			
+Từ vựng Minna	Bài 03 - 01	Bài 03	ここ			chỗ này, đây			
+Từ vựng Minna	Bài 03 - 02	Bài 03	そこ			chỗ đó, đó			
+Từ vựng Minna	Bài 03 - 03	Bài 03	あそこ			chỗ kia, kia			
+Từ vựng Minna	Bài 03 - 04	Bài 03	どこ			chỗ nào, đâu			
+Từ vựng Minna	Bài 03 - 05	Bài 03	こちら			phía này, đằng này, chỗ này, đây			
+Từ vựng Minna	Bài 03 - 06	Bài 03	そちら			phía đó, đằng đó, chỗ đó, đó			
+Từ vựng Minna	Bài 03 - 07	Bài 03	あちら			phía kia, đằng kia, chỗ kia, kia			
+Từ vựng Minna	Bài 03 - 08	Bài 03	どちら			phía nào, đằng nào, chỗ nào, đâu			
+Từ vựng Minna	Bài 03 - 09	Bài 03	きょうしつ	教室	GIÁO THẤT	lớp học, phòng học			
+Từ vựng Minna	Bài 03 - 10	Bài 03	しょくどう	食堂	THỰC ĐƯỜNG	nhà ăn			
+Từ vựng Minna	Bài 03 - 11	Bài 03	じむしょ	事務所	SỰ VỤ SỞ	văn phòng			
+Từ vựng Minna	Bài 03 - 12	Bài 03	かいぎしつ	会議室	HỘI NGHỊ THẤT	phòng họp			
+Từ vựng Minna	Bài 03 - 13	Bài 03	うけつけ	受付	THỤ PHÓ	bộ phận tiếp tân, phòng thường trực			
+Từ vựng Minna	Bài 03 - 14	Bài 03	ロビー			hành lang, đại sảnh			
+Từ vựng Minna	Bài 03 - 15	Bài 03	へや	部屋	BỘ ỐC	căn phòng			
+Từ vựng Minna	Bài 03 - 16	Bài 03	トイレ（おてあらい）	（お手洗い）	THỦ TẨY	nhà vệ sinh, phòng vệ sinh, toa-lét			
+Từ vựng Minna	Bài 03 - 17	Bài 03	かいだん	階段	GIAI ĐOẠN	cầu thang			
+Từ vựng Minna	Bài 03 - 18	Bài 03	エレベーター			thang máy			
+Từ vựng Minna	Bài 03 - 19	Bài 03	エスカレーター			thang cuốn			
+Từ vựng Minna	Bài 03 - 20	Bài 03	[お]くに	[お]国	QUỐC	đất nước (của anh/chị)			
+Từ vựng Minna	Bài 03 - 21	Bài 03	かいしゃ	会社	HỘI XÃ	công ty			
+Từ vựng Minna	Bài 03 - 22	Bài 03	うち			nhà			
+Từ vựng Minna	Bài 03 - 23	Bài 03	でんわ	電話	ĐIỆN THOẠI	máy điện thoại, điện thoại			
+Từ vựng Minna	Bài 03 - 24	Bài 03	くつ	靴	NGOA	giầy			
+Từ vựng Minna	Bài 03 - 25	Bài 03	ネクタイ			cà vạt			
+Từ vựng Minna	Bài 03 - 26	Bài 03	ワイン			rượu vang			
+Từ vựng Minna	Bài 03 - 27	Bài 03	たばこ			thuốc lá			
+Từ vựng Minna	Bài 03 - 28	Bài 03	うりば	売り場	MẠI TRƯỜNG	quầy bán (trong một cửa hàng bách hóa)			
+Từ vựng Minna	Bài 03 - 29	Bài 03	ちか	地下	ĐỊA HẠ	tầng hầm, dưới mặt đất			
+Từ vựng Minna	Bài 03 - 30	Bài 03	―かい（－がい）	－階	GIAI	tầng thứ -			
+Từ vựng Minna	Bài 03 - 31	Bài 03	なんがい	何階	HÀ GIAI	tầng mấy			
+Từ vựng Minna	Bài 03 - 32	Bài 03	―えん	―円	VIÊN	-yên			
+Từ vựng Minna	Bài 03 - 33	Bài 03	いくら			bao nhiêu tiền			
+Từ vựng Minna	Bài 03 - 34	Bài 03	ひゃく	百	BÁCH	trăm			
+Từ vựng Minna	Bài 03 - 35	Bài 03	せん	千	THIÊN	nghìn			
+Từ vựng Minna	Bài 03 - 36	Bài 03	まん	万	VẠN	mười nghìn, vạn			
+Từ vựng Minna	Bài 03 - 37	Bài 03	すみません			Xin lỗi			
+Từ vựng Minna	Bài 03 - 38	Bài 03	～でございます			(cách nói lịch sự của 「です」)			
+Từ vựng Minna	Bài 03 - 39	Bài 03	みせてください	[～を]見せてください	KIẾN	cho tôi xem [~]			
+Từ vựng Minna	Bài 03 - 40	Bài 03	じゃ			thế thì, vậy thì			
+Từ vựng Minna	Bài 03 - 41	Bài 03	[～を]ください			cho tôi [~]			
+Từ vựng Minna	Bài 03 - 42	Bài 03	しんおおさか	新大阪	TÂN ĐẠI PHẢN	tên một nhà ga ở Osaka			
+Từ vựng Minna	Bài 03 - 43	Bài 03	イタリア			Ý			
+Từ vựng Minna	Bài 03 - 44	Bài 03	スイス			Thụy Sĩ			
+Từ vựng Minna	Bài 03 - 45	Bài 03	ＭＴ/ヨーネン/アキックス			tên các công ty giả tưởng			
+Từ vựng Minna	Bài 04 - 01	Bài 04	おきます	起きます	KHỞI	dậy, thức dậy			
+Từ vựng Minna	Bài 04 - 02	Bài 04	ねます	寝ます	TẨM	ngủ, đi ngủ			
+Từ vựng Minna	Bài 04 - 03	Bài 04	はたらきます	働きます	ĐỘNG	làm việc			
+Từ vựng Minna	Bài 04 - 04	Bài 04	やすみます	休みます	HƯU	nghỉ, nghỉ ngơi			
+Từ vựng Minna	Bài 04 - 05	Bài 04	べんきょうします	勉強します	MIỄN CƯỜNG	học			
+Từ vựng Minna	Bài 04 - 06	Bài 04	おわります	終わります	CHUNG	hết, kết thúc, xong			
+Từ vựng Minna	Bài 04 - 07	Bài 04	デパート			bách hóa			
+Từ vựng Minna	Bài 04 - 08	Bài 04	ぎんこう	銀行	NGÂN HÀNH	ngân hàng			
+Từ vựng Minna	Bài 04 - 09	Bài 04	ゆうびんきょく	郵便局	BƯU TIỆN CỤC	bưu điện			
+Từ vựng Minna	Bài 04 - 10	Bài 04	としょかん	図書館	ĐỒ THƯ QUÁN	thư viện			
+Từ vựng Minna	Bài 04 - 11	Bài 04	びじゅつかん	美術館	MỸ THUẬT QUÁN	bảo tàng mỹ thuật			
+Từ vựng Minna	Bài 04 - 12	Bài 04	いま	今	KIM	bây giờ			
+Từ vựng Minna	Bài 04 - 13	Bài 04	―じ	－時	THỜI	-giờ			
+Từ vựng Minna	Bài 04 - 14	Bài 04	―ふん（－ぷん）	―分	PHÂN	- phút			
+Từ vựng Minna	Bài 04 - 15	Bài 04	はん	半	BÁN	rưỡi, nửa			
+Từ vựng Minna	Bài 04 - 16	Bài 04	なんじ	何時	HÀ THỜI	mấy giờ			
+Từ vựng Minna	Bài 04 - 17	Bài 04	なんぷん	何分	HÀ PHÂN	mấy phút			
+Từ vựng Minna	Bài 04 - 18	Bài 04	ごぜん	午前	NGỌ TIỀN	sáng, trước 12 giờ trưa			
+Từ vựng Minna	Bài 04 - 19	Bài 04	ごご	午後	NGỌ HẬU	chiều, sau 12 giờ trưa			
+Từ vựng Minna	Bài 04 - 20	Bài 04	あさ	朝	TRIỀU	buổi sáng, sáng			
+Từ vựng Minna	Bài 04 - 21	Bài 04	ひる	昼	TRÚ	buổi trưa, trưa			
+Từ vựng Minna	Bài 04 - 22	Bài 04	ばん（よる）	晩(夜)	VÃN(DẠ)	buổi tối, tối			
+Từ vựng Minna	Bài 04 - 23	Bài 04	おととい			hôm kia			
+Từ vựng Minna	Bài 04 - 24	Bài 04	きのう			hôm qua			
+Từ vựng Minna	Bài 04 - 25	Bài 04	きょう			hôm nay			
+Từ vựng Minna	Bài 04 - 26	Bài 04	あした			ngày mai			
+Từ vựng Minna	Bài 04 - 27	Bài 04	あさって			ngày kia			
+Từ vựng Minna	Bài 04 - 28	Bài 04	けさ			sáng nay			
+Từ vựng Minna	Bài 04 - 29	Bài 04	こんばん	今晩	KIM VÃN	tối nay			
+Từ vựng Minna	Bài 04 - 30	Bài 04	やすみ	休み	HƯU	nghỉ, nghỉ phép, ngày nghỉ			
+Từ vựng Minna	Bài 04 - 31	Bài 04	ひるやすみ	昼休み	TRÚ HƯU	nghỉ trưa			
+Từ vựng Minna	Bài 04 - 32	Bài 04	まいあさ	毎朝	MỖI TRIỀU	hàng sáng, mỗi sáng			
+Từ vựng Minna	Bài 04 - 33	Bài 04	まいばん	毎晩	MỖI VÃN	hàng tối, mỗi tối			
+Từ vựng Minna	Bài 04 - 34	Bài 04	まいにち	毎日	MỖI NHẬT	hàng ngày, mỗi ngày			
+Từ vựng Minna	Bài 04 - 35	Bài 04	げつようび	月曜日	NGUYỆT DIỆU NHẬT	thứ hai			
+Từ vựng Minna	Bài 04 - 36	Bài 04	かようび	火曜日	HỎA DIỆU NHẬT	thứ ba			
+Từ vựng Minna	Bài 04 - 37	Bài 04	すいようび	水曜日	THỦY DIỆU NHẬT	thứ tư			
+Từ vựng Minna	Bài 04 - 38	Bài 04	もくようび	木曜日	MỘC DIỆU NHẬT	thứ năm			
+Từ vựng Minna	Bài 04 - 39	Bài 04	きんようび	金曜日	KIM DIỆU NHẬT	thứ sáu			
+Từ vựng Minna	Bài 04 - 40	Bài 04	どようび	土曜日	THỔ DIỆU NHẬT	thứ bảy			
+Từ vựng Minna	Bài 04 - 41	Bài 04	にちようび	日曜日	NHẬT DIỆU NHẬT	chủ nhật			
+Từ vựng Minna	Bài 04 - 42	Bài 04	なんようび	何曜日	HÀ DIỆU NHẬT	thứ mấy			
+Từ vựng Minna	Bài 04 - 43	Bài 04	ばんごう	番号	PHIÊN HIỆU	số (số điện thoại, số phòng)			
+Từ vựng Minna	Bài 04 - 44	Bài 04	なんばん	何番	HÀ PHIÊN	số bao nhiêu, số mấy			
+Từ vựng Minna	Bài 04 - 45	Bài 04	～から			~ từ			
+Từ vựng Minna	Bài 04 - 46	Bài 04	～まで			~ đến			
+Từ vựng Minna	Bài 04 - 47	Bài 04	～と			~ và (dùng để nối hai danh từ)			
+Từ vựng Minna	Bài 04 - 48	Bài 04	そちら			phía đó, đằng đó, chỗ đó, đó			
+Từ vựng Minna	Bài 04 - 49	Bài 04	たいへんですね	大変ですね	ĐẠI BIẾN	Anh/chị vất vả quá.			
+Từ vựng Minna	Bài 04 - 50	Bài 04	えーと			ừ, à			
+Từ vựng Minna	Bài 04 - 51	Bài 04	104			Số điện thoại của dịch vụ hướng dẫn số điện thoại			
+Từ vựng Minna	Bài 04 - 52	Bài 04	おねがいします	お願いします	NGUYÊỆN	Nhờ anh/chị. Phiền anh/chị. Xin vui lòng giúp đỡ			
+Từ vựng Minna	Bài 04 - 53	Bài 04	かしこまりました			Tôi hiểu rồi ạ./ vâng, được rồi ạ.			
+Từ vựng Minna	Bài 04 - 54	Bài 04	おといあわせのばんごう	お問い合わせの番号	VẤN HỢP PHIÊN HIỆU	Số điện thoại mà ông/ bà muốn hỏi			
+Từ vựng Minna	Bài 04 - 55	Bài 04	[どうも]ありがとうございました。			Xin cám ơn ông/bà			
+Từ vựng Minna	Bài 04 - 56	Bài 04	ニューヨーク			New York			
+Từ vựng Minna	Bài 04 - 57	Bài 04	ペキン			Bắc Kinh			
+Từ vựng Minna	Bài 04 - 58	Bài 04	ロンドン			Luân Đôn			
+Từ vựng Minna	Bài 04 - 59	Bài 04	バンコク			Băng Cốc			
+Từ vựng Minna	Bài 04 - 60	Bài 04	ロサンゼルス			Los Angeles			
+Từ vựng Minna	Bài 04 - 61	Bài 04	やまとびじゅつかん	やまと美術館	MỸ THUẬT QUÁN	tên một bảo tàng Mỹ thuật (giả tưởng)			
+Từ vựng Minna	Bài 04 - 62	Bài 04	おおさかデパート	大阪デパート	ĐẠI PHẢN	tên một bách hóa (giả tưởng)			
+Từ vựng Minna	Bài 04 - 63	Bài 04	みどりとしょかん	みどり図書館	ĐỒ THƯ QUÁN	tên một thư viện (giả tưởng)			
+Từ vựng Minna	Bài 04 - 64	Bài 04	アップルぎんこう	アップル銀行	NGÂN HÀNH	tên một ngân hàng (giả tưởng)			
+Từ vựng Minna	Bài 05 - 01	Bài 05	いきます	行きます	HÀNH	đi			
+Từ vựng Minna	Bài 05 - 02	Bài 05	きます	来ます	LAI	đến			
+Từ vựng Minna	Bài 05 - 03	Bài 05	かえります	帰ります	QUY	về			
+Từ vựng Minna	Bài 05 - 04	Bài 05	がっこう	学校	HỌC HIỆU	trường học			
+Từ vựng Minna	Bài 05 - 05	Bài 05	スーパー			siêu thị			
+Từ vựng Minna	Bài 05 - 06	Bài 05	えき	駅	DỊCH	ga, nhà ga			
+Từ vựng Minna	Bài 05 - 07	Bài 05	ひこうき	飛行機	PHI HÀNH CƠ	máy bay			
+Từ vựng Minna	Bài 05 - 08	Bài 05	ふね	船	THUYỀN	thuyền, tàu thủy			
+Từ vựng Minna	Bài 05 - 09	Bài 05	でんしゃ	電車	ĐIỆN XA	tàu điện			
+Từ vựng Minna	Bài 05 - 10	Bài 05	ちかてつ	地下鉄	ĐỊA HẠ THIẾT	tàu điện ngầm			
+Từ vựng Minna	Bài 05 - 11	Bài 05	しんかんせん	新幹線	TÂN CÁN TUYẾN	tàu Shinkansen (tàu điện siêu tốc của Nhật)			
+Từ vựng Minna	Bài 05 - 12	Bài 05	バス			xe buýt			
+Từ vựng Minna	Bài 05 - 13	Bài 05	タクシー			tắc-xi			
+Từ vựng Minna	Bài 05 - 14	Bài 05	じてんしゃ	自転車	TỰ CHUYỂN XA	xe đạp			
+Từ vựng Minna	Bài 05 - 15	Bài 05	あるいて	歩いて	BỘ	đi bộ			
+Từ vựng Minna	Bài 05 - 16	Bài 05	ひと	人	NHÂN	người			
+Từ vựng Minna	Bài 05 - 17	Bài 05	ともだち	友達	HỮU ĐẠT	bạn, bạn bè			
+Từ vựng Minna	Bài 05 - 18	Bài 05	かれ	彼	BỈ	anh ấy, bạn trai			
+Từ vựng Minna	Bài 05 - 19	Bài 05	かのじょ	彼女	BỈ NỮ	chị ấy, bạn gái			
+Từ vựng Minna	Bài 05 - 20	Bài 05	かぞく	家族	GIA TỘC	gia đình			
+Từ vựng Minna	Bài 05 - 21	Bài 05	ひとりで	一人で	NHẤT NHÂN	một mình			
+Từ vựng Minna	Bài 05 - 22	Bài 05	せんしゅう	先週	TIÊN CHU	tuần trước			
+Từ vựng Minna	Bài 05 - 23	Bài 05	こんしゅう	今週	KIM CHU	tuần này			
+Từ vựng Minna	Bài 05 - 24	Bài 05	らいしゅう	来週	LAI CHU	tuần sau			
+Từ vựng Minna	Bài 05 - 25	Bài 05	こんげつ	今月	KIM NGUYỆT	tháng này			
+Từ vựng Minna	Bài 05 - 26	Bài 05	らいげつ	来月	LAI NGUYỆT	tháng sau			
+Từ vựng Minna	Bài 05 - 27	Bài 05	きょねん	去年	KHỨ NIÊN	năm ngoái			
+Từ vựng Minna	Bài 05 - 28	Bài 05	ことし			năm nay			
+Từ vựng Minna	Bài 05 - 29	Bài 05	らいねん	来年	LAI NIÊN	năm sau			
+Từ vựng Minna	Bài 05 - 30	Bài 05	―がつ	―月	NGUYỆT	tháng -			
+Từ vựng Minna	Bài 05 - 31	Bài 05	なんがつ	何月	HÀ NGUYỆT	tháng mấy			
+Từ vựng Minna	Bài 05 - 32	Bài 05	ついたち	１日	NHẬT	ngày mồng 1			
+Từ vựng Minna	Bài 05 - 33	Bài 05	ふつか	２日	NHẬT	ngày mồng 2, 2 ngày			
+Từ vựng Minna	Bài 05 - 34	Bài 05	みっか	３日	NHẬT	ngày mồng 3, 3 ngày			
+Từ vựng Minna	Bài 05 - 35	Bài 05	よっか	４日	NHẬT	ngày mồng 4, 4 ngày			
+Từ vựng Minna	Bài 05 - 36	Bài 05	いつか	５日	NHẬT	ngày mồng 5, 5 ngày			
+Từ vựng Minna	Bài 05 - 37	Bài 05	むいか	６日	NHẬT	ngày mồng 6, 6 ngày			
+Từ vựng Minna	Bài 05 - 38	Bài 05	なのか	７日	NHẬT	ngày mồng 7, 7 ngày			
+Từ vựng Minna	Bài 05 - 39	Bài 05	ようか	８日	NHẬT	ngày mồng 8, 8 ngày			
+Từ vựng Minna	Bài 05 - 40	Bài 05	ここのか	９日	NHẬT	ngày mồng 9, 9 ngày			
+Từ vựng Minna	Bài 05 - 41	Bài 05	とおか	１０日	NHẬT	ngày mồng 10, 10 ngày			
+Từ vựng Minna	Bài 05 - 42	Bài 05	じゅうよっか	１４日	NHẬT	ngày 14, 14 ngày			
+Từ vựng Minna	Bài 05 - 43	Bài 05	はつか	２０日	NHẬT	ngày 20, 20 ngày			
+Từ vựng Minna	Bài 05 - 44	Bài 05	にじゅうよっか	２４日	NHẬT	ngày 24, 24 ngày			
+Từ vựng Minna	Bài 05 - 45	Bài 05	―にち	―日	NHẬT	ngày -, - ngày			
+Từ vựng Minna	Bài 05 - 46	Bài 05	なんにち	何日	HÀ NHẬT	ngày mấy, ngày bao nhiêu, mấy ngày, bao nhiêu ngày			
+Từ vựng Minna	Bài 05 - 47	Bài 05	いつ			bao giờ, khi nào			
+Từ vựng Minna	Bài 05 - 48	Bài 05	たんじょうび	誕生日	ĐẢN SINH NHẬT	sinh nhật			
+Từ vựng Minna	Bài 05 - 49	Bài 05	ふつう	普通	PHỔ THÔNG	tàu thường (dừng cả ở các ga lẻ)			
+Từ vựng Minna	Bài 05 - 50	Bài 05	きゅうこう	急行	CẤP HÀNH	tàu tốc hành			
+Từ vựng Minna	Bài 05 - 51	Bài 05	とっきゅう	特急	ĐẶC CẤP	tàu tốc hành đặc biệt			
+Từ vựng Minna	Bài 05 - 52	Bài 05	つぎの	次の	THỨ	tiếp theo			
+Từ vựng Minna	Bài 05 - 53	Bài 05	どういたしまして			Không có gì.			
+Từ vựng Minna	Bài 05 - 54	Bài 05	―ばんせん	―番線	PHIÊN TUYẾN	sân ga số -			
+Từ vựng Minna	Bài 05 - 55	Bài 05	はかた	博多	BÁC ĐA	tên một khu phố ở Kyushu			
+Từ vựng Minna	Bài 05 - 56	Bài 05	ふしみ	伏見	PHỤC KIẾN	tên một khu phố ở Kyoto			
+Từ vựng Minna	Bài 05 - 57	Bài 05	こうしえん	甲子園	GIÁP TỬ VIÊN	tên một khu phố ở Osaka			
+Từ vựng Minna	Bài 05 - 58	Bài 05	おおさかじょう	大阪城	ĐẠI PHẢN THÀNH	Lâu đài Osaka, một lâu đài nổi tiếng ở Osaka			
+Từ vựng Minna	Bài 06 - 01	Bài 06	たべます	食べます	THỰC	ăn			
+Từ vựng Minna	Bài 06 - 02	Bài 06	のみます	飲みます	ẨM	uống			
+Từ vựng Minna	Bài 06 - 03	Bài 06	すいます	吸います	HẤP				
+Từ vựng Minna	Bài 06 - 04	Bài 06	[たばこを～]	[たばこを～]		hút [thuốc lá]			
+Từ vựng Minna	Bài 06 - 05	Bài 06	みます	見ます	KIẾN	xem, nhìn, trông			
+Từ vựng Minna	Bài 06 - 06	Bài 06	ききます	聞きます	VĂN	nghe			
+Từ vựng Minna	Bài 06 - 07	Bài 06	よみます	読みます	ĐỘC	đọc			
+Từ vựng Minna	Bài 06 - 08	Bài 06	かきます	書きます	THƯ	viết, vẽ			
+Từ vựng Minna	Bài 06 - 09	Bài 06	かいます	買います	MÃI	mua			
+Từ vựng Minna	Bài 06 - 10	Bài 06	とります[しゃしんを～]	撮ります[写真を～]	TOÁT TẢ CHÂN	chụp [ảnh]			
+Từ vựng Minna	Bài 06 - 11	Bài 06	します			làm			
+Từ vựng Minna	Bài 06 - 12	Bài 06	あいます[ともだちに～]	会います[友達に～]	HỘI HỮU ĐẠT	gặp [bạn]			
+Từ vựng Minna	Bài 06 - 13	Bài 06	ごはん			cơm, bữa ăn			
+Từ vựng Minna	Bài 06 - 14	Bài 06	あさごはん	朝ごはん	TRIỀU	cơm sáng			
+Từ vựng Minna	Bài 06 - 15	Bài 06	ひるごはん	昼ごはん	TRÚ	cơm trưa			
+Từ vựng Minna	Bài 06 - 16	Bài 06	ばんごはん	晩ごはん	VÃN	cơm tối			
+Từ vựng Minna	Bài 06 - 17	Bài 06	パン			bánh mì			
+Từ vựng Minna	Bài 06 - 18	Bài 06	たまご	卵	NOÃN	trứng			
+Từ vựng Minna	Bài 06 - 19	Bài 06	にく	肉	NHỤC	thịt			
+Từ vựng Minna	Bài 06 - 20	Bài 06	さかな	魚	NGƯ	cá			
+Từ vựng Minna	Bài 06 - 21	Bài 06	やさい	野菜	DÃ THÁI	rau			
+Từ vựng Minna	Bài 06 - 22	Bài 06	くだもの	果物	QUẢ VẬT	hoa quả, trái cây			
+Từ vựng Minna	Bài 06 - 23	Bài 06	みず	水	THỦY	nước			
+Từ vựng Minna	Bài 06 - 24	Bài 06	おちゃ	お茶	TRÀ	trà (nói chung)			
+Từ vựng Minna	Bài 06 - 25	Bài 06	こうちゃ	紅茶	HỒNG TRÀ	trà đen			
+Từ vựng Minna	Bài 06 - 26	Bài 06	ぎゅうにゅう	牛乳	NGƯU NHŨ	sữa bò			
+Từ vựng Minna	Bài 06 - 27	Bài 06	(ミルク)						
+Từ vựng Minna	Bài 06 - 28	Bài 06	ジュース			nước hoa quả			
+Từ vựng Minna	Bài 06 - 29	Bài 06	ビール			bia			
+Từ vựng Minna	Bài 06 - 30	Bài 06	[お]さけ	[お]酒	TỬU	rượu, rượu sake			
+Từ vựng Minna	Bài 06 - 31	Bài 06	ビデオ			video, băng video, đầu video			
+Từ vựng Minna	Bài 06 - 32	Bài 06	えいが	映画	ẢNH HỌA	phim, điện ảnh			
+Từ vựng Minna	Bài 06 - 33	Bài 06	ＣＤ			đĩa CD			
+Từ vựng Minna	Bài 06 - 34	Bài 06	てがみ	手紙	THỦ CHỈ	thư			
+Từ vựng Minna	Bài 06 - 35	Bài 06	レポート			báo cáo			
+Từ vựng Minna	Bài 06 - 36	Bài 06	しゃしん	写真	TẢ CHÂN	ảnh			
+Từ vựng Minna	Bài 06 - 37	Bài 06	みせ	店	ĐIẾM	cửa hàng, tiệm			
+Từ vựng Minna	Bài 06 - 38	Bài 06	レストラン			nhà hàng			
+Từ vựng Minna	Bài 06 - 39	Bài 06	にわ	庭	ĐÌNH	vườn			
+Từ vựng Minna	Bài 06 - 40	Bài 06	しゅくだい	宿題	TÚC ĐỀ	bài tập về nhà (～をします: làm bài tập)			
+Từ vựng Minna	Bài 06 - 41	Bài 06	テニス			quần vợt (～をします: đánh quần vợt)			
+Từ vựng Minna	Bài 06 - 42	Bài 06	サッカー			bóng đá (～をします: chơi bóng đá)			
+Từ vựng Minna	Bài 06 - 43	Bài 06	[お]はなみ	[お]花見	HOA KIẾN	việc ngắm hoa anh đào (～をします: ngắm hoa anh đào)			
+Từ vựng Minna	Bài 06 - 44	Bài 06	なに	何	HÀ	cái gì			
+Từ vựng Minna	Bài 06 - 45	Bài 06	いっしょに			cùng, cùng nhau			
+Từ vựng Minna	Bài 06 - 46	Bài 06	ちょっと			một chút			
+Từ vựng Minna	Bài 06 - 47	Bài 06	いつも			luôn luôn, lúc nào cũng			
+Từ vựng Minna	Bài 06 - 48	Bài 06	ときどき	時々	THÌ (KÉP)	thỉnh thoảng			
+Từ vựng Minna	Bài 06 - 49	Bài 06	それから			sau đó, tiếp theo			
+Từ vựng Minna	Bài 06 - 50	Bài 06	ええ			vâng, được (cách nói thân mật của 「はい」)			
+Từ vựng Minna	Bài 06 - 51	Bài 06	いいですね。			Được đấy nhỉ./ hay quá.			
+Từ vựng Minna	Bài 06 - 52	Bài 06	わかりました。			Tôi hiểu rồi/ vâng ạ.			
+Từ vựng Minna	Bài 06 - 53	Bài 06	（なんですか）	何ですか。	HÀ	Có gì đấy ạ?/ cái gì vậy?			
+Từ vựng Minna	Bài 06 - 54	Bài 06	じゃ、また[あした]。			Hẹn gặp lại [ngày mai].			
+Từ vựng Minna	Bài 06 - 55	Bài 06	メキシコ			Mexico			
+Từ vựng Minna	Bài 06 - 56	Bài 06	おおさかじょうこうえん	大阪城公園	ĐẠI PHẢN THÀNH CÔNG VIÊN	Công viên lâu đài Osaka			
+Từ vựng Minna	Bài 07 - 01	Bài 07	きります	切ります	THIẾT	cắt			
+Từ vựng Minna	Bài 07 - 02	Bài 07	おくります	送ります	TỐNG	gửi			
+Từ vựng Minna	Bài 07 - 03	Bài 07	あげます			cho, tặng			
+Từ vựng Minna	Bài 07 - 04	Bài 07	もらいます			nhận			
+Từ vựng Minna	Bài 07 - 05	Bài 07	かします	貸します	THẢI	cho mượn, cho vay			
+Từ vựng Minna	Bài 07 - 06	Bài 07	かります	借ります	TÁ	mượn, vay			
+Từ vựng Minna	Bài 07 - 07	Bài 07	おしえます	教えます	GIÁO	dạy			
+Từ vựng Minna	Bài 07 - 08	Bài 07	ならいます	習います	TẬP	học, tập			
+Từ vựng Minna	Bài 07 - 09	Bài 07	[でんわを～]かけます	[電話を～]かけます	ĐIỆN THOẠI	gọi [điện thoại]			
+Từ vựng Minna	Bài 07 - 10	Bài 07	て	手	THỦ	tay			
+Từ vựng Minna	Bài 07 - 11	Bài 07	はし			đũa			
+Từ vựng Minna	Bài 07 - 12	Bài 07	スプーン			thìa			
+Từ vựng Minna	Bài 07 - 13	Bài 07	ナイフ			dao			
+Từ vựng Minna	Bài 07 - 14	Bài 07	フォーク			nĩa			
+Từ vựng Minna	Bài 07 - 15	Bài 07	はさみ			kéo			
+Từ vựng Minna	Bài 07 - 16	Bài 07	ファクス			fax			
+Từ vựng Minna	Bài 07 - 17	Bài 07	ワープロ			máy đánh chữ			
+Từ vựng Minna	Bài 07 - 18	Bài 07	パソコン			máy vi tính cá nhân			
+Từ vựng Minna	Bài 07 - 19	Bài 07	パンチ			cái đục lỗ			
+Từ vựng Minna	Bài 07 - 20	Bài 07	ホッチキス			cái dập ghim			
+Từ vựng Minna	Bài 07 - 21	Bài 07	セロテープ			băng dính			
+Từ vựng Minna	Bài 07 - 22	Bài 07	けしゴム			cái tẩy			
+Từ vựng Minna	Bài 07 - 23	Bài 07	かみ	紙	CHỈ	giấy			
+Từ vựng Minna	Bài 07 - 24	Bài 07	はな	花	HOA	hoa			
+Từ vựng Minna	Bài 07 - 25	Bài 07	シャツ			áo sơ mi			
+Từ vựng Minna	Bài 07 - 26	Bài 07	プレゼント			quà tặng, tặng phẩm			
+Từ vựng Minna	Bài 07 - 27	Bài 07	にもつ	荷物	HÀ VẬT	đồ đạc, hành lý			
+Từ vựng Minna	Bài 07 - 28	Bài 07	おかね	お金	KIM	tiền			
+Từ vựng Minna	Bài 07 - 29	Bài 07	きっぷ	切符	THIẾT PHÙ	vé			
+Từ vựng Minna	Bài 07 - 30	Bài 07	クリスマス			Giáng sinh			
+Từ vựng Minna	Bài 07 - 31	Bài 07	ちち	父	PHỤ	bố (dùng khi nói về bố mình)			
+Từ vựng Minna	Bài 07 - 32	Bài 07	はは	母	MẪU	mẹ (dùng khi nói về mẹ mình)			
+Từ vựng Minna	Bài 07 - 33	Bài 07	おとうさん	お父さん	PHỤ	bố (dùng khi nói về bố người khác và dùng khi xưng hô với bố mình)			
+Từ vựng Minna	Bài 07 - 34	Bài 07	おかあさん	お母さん	MẪU	mẹ (dùng khi nói về mẹ người khác và dùng khi xưng hô với mẹ mình)			
+Từ vựng Minna	Bài 07 - 35	Bài 07	もう			đã, rồi			
+Từ vựng Minna	Bài 07 - 36	Bài 07	まだ			chưa			
+Từ vựng Minna	Bài 07 - 37	Bài 07	これから			từ bây giờ, sau đây			
+Từ vựng Minna	Bài 07 - 38	Bài 07	[～、]すてきですね。			[~] hay nhỉ./ đẹp nhỉ.			
+Từ vựng Minna	Bài 07 - 39	Bài 07	ごめんください。			Xin lỗi, có ai ở nhà không?/ Tôi có thể vào được chứ?			
+Từ vựng Minna	Bài 07 - 40	Bài 07	いらっしゃい。			Chào mừng anh/chị đã đến chơi.			
+Từ vựng Minna	Bài 07 - 41	Bài 07	どうぞ　おあがりください。			Mời anh/chị vào.			
+Từ vựng Minna	Bài 07 - 42	Bài 07	しつれいします。	失礼します。	THẤT LỄ	Xin thất lễ			
+Từ vựng Minna	Bài 07 - 43	Bài 07	[～は]いかがですか。			Anh/chị dùng [~] có được không?			
+Từ vựng Minna	Bài 07 - 44	Bài 07	いただきます。			Xin nhận ~. (cách nói dùng trước khi ăn hoặc uống)			
+Từ vựng Minna	Bài 07 - 45	Bài 07	りょこう	旅行	LỮ HÀNH	du lịch, chuyến du lịch (～をします: đi du lịch)			
+Từ vựng Minna	Bài 07 - 46	Bài 07	おみやげ	お土産	THỔ SẢN	quà			
+Từ vựng Minna	Bài 07 - 47	Bài 07	ヨーロッパ			Châu Âu			
+Từ vựng Minna	Bài 07 - 48	Bài 07	スペイン			Tây Ban Nha			
+Từ vựng Minna	Bài 08 - 01	Bài 08	ハンサム[な]			đẹp trai			
+Từ vựng Minna	Bài 08 - 02	Bài 08	きれい[な]			đẹp, sạch			
+Từ vựng Minna	Bài 08 - 03	Bài 08	しずか[な]	静か[な]	TĨNH	yên tĩnh			
+Từ vựng Minna	Bài 08 - 04	Bài 08	にぎやか[な]			náo nhiệt			
+Từ vựng Minna	Bài 08 - 05	Bài 08	ゆうめい[な]	有名[な]	HỮU DANH	nổi tiếng			
+Từ vựng Minna	Bài 08 - 06	Bài 08	しんせつ[な]	親切[な]	THÂN THIẾT	tốt bụng, thân thiện			
+Từ vựng Minna	Bài 08 - 07	Bài 08	げんき[な]	元気[な]	NGUYÊN KHÍ	khỏe			
+Từ vựng Minna	Bài 08 - 08	Bài 08	ひま[な]	暇[な]	HẠ	rảnh rỗi			
+Từ vựng Minna	Bài 08 - 09	Bài 08	べんり[な]	便利[な]	TIỆN LỢI	tiện lợi			
+Từ vựng Minna	Bài 08 - 10	Bài 08	すてき[な]			đẹp, hay			
+Từ vựng Minna	Bài 08 - 11	Bài 08	おおきい	大きい	ĐẠI	lớn, to			
+Từ vựng Minna	Bài 08 - 12	Bài 08	ちいさい	小さい	TIỂU	bé, nhỏ			
+Từ vựng Minna	Bài 08 - 13	Bài 08	あたらしい	新しい	TÂN	mới			
+Từ vựng Minna	Bài 08 - 14	Bài 08	ふるい	古い	CỔ	cũ			
+Từ vựng Minna	Bài 08 - 15	Bài 08	いい（よい）			tốt			
+Từ vựng Minna	Bài 08 - 16	Bài 08	わるい	悪い	ÁC	xấu			
+Từ vựng Minna	Bài 08 - 17	Bài 08	あつい	暑い, 熱い	THỬ, NHIỆT	nóng			
+Từ vựng Minna	Bài 08 - 18	Bài 08	さむい	寒い	HÀN	lạnh, rét (dùng cho thời tiết)			
+Từ vựng Minna	Bài 08 - 19	Bài 08	つめたい	冷たい	LÃNH	lạnh, buốt (dùng cho cảm giác)			
+Từ vựng Minna	Bài 08 - 20	Bài 08	むずかしい	難しい	NAN	khó			
+Từ vựng Minna	Bài 08 - 21	Bài 08	やさしい	易しい	DỊ	dễ			
+Từ vựng Minna	Bài 08 - 22	Bài 08	たかい	高い	CAO	đắt, cao			
+Từ vựng Minna	Bài 08 - 23	Bài 08	やすい	安い	AN	rẻ			
+Từ vựng Minna	Bài 08 - 24	Bài 08	ひくい	低い	ĐÊ	thấp			
+Từ vựng Minna	Bài 08 - 25	Bài 08	おもしろい			thú vị, hay			
+Từ vựng Minna	Bài 08 - 26	Bài 08	おいしい			ngon			
+Từ vựng Minna	Bài 08 - 27	Bài 08	いそがしい	忙しい	MANG	bận			
+Từ vựng Minna	Bài 08 - 28	Bài 08	たのしい	楽しい	LẠC, NHẠC	vui			
+Từ vựng Minna	Bài 08 - 29	Bài 08	しろい	白い	BẠCH	trắng			
+Từ vựng Minna	Bài 08 - 30	Bài 08	くろい	黒い	HẮC	đen			
+Từ vựng Minna	Bài 08 - 31	Bài 08	あかい	赤い	XÍCH	đỏ			
+Từ vựng Minna	Bài 08 - 32	Bài 08	あおい	青い	THANH	xanh da trời			
+Từ vựng Minna	Bài 08 - 33	Bài 08	さくら	桜	ANH	anh đào (hoa, cây)			
+Từ vựng Minna	Bài 08 - 34	Bài 08	やま	山	SƠN, SAN	núi			
+Từ vựng Minna	Bài 08 - 35	Bài 08	まち	町	ĐINH	thị trấn, thị xã, thành phố			
+Từ vựng Minna	Bài 08 - 36	Bài 08	たべもの	食べ物	THỰC VẬT	đồ ăn			
+Từ vựng Minna	Bài 08 - 37	Bài 08	くるま	車	XA	xe ô tô			
+Từ vựng Minna	Bài 08 - 38	Bài 08	ところ	所	SỞ	nơi, chỗ			
+Từ vựng Minna	Bài 08 - 39	Bài 08	りょう	寮	LIÊU	kí túc xá			
+Từ vựng Minna	Bài 08 - 40	Bài 08	べんきょう	勉強	MIỄN CƯỜNG	học			
+Từ vựng Minna	Bài 08 - 41	Bài 08	せいかつ	生活	SINH HOẠT	cuộc sống, sinh hoạt			
+Từ vựng Minna	Bài 08 - 42	Bài 08	[お]しごと	[お]仕事	SĨ SỰ	công việc (～をします：làm việc)			
+Từ vựng Minna	Bài 08 - 43	Bài 08	どう			thế nào			
+Từ vựng Minna	Bài 08 - 44	Bài 08	どんな～			~ như thế nào			
+Từ vựng Minna	Bài 08 - 45	Bài 08	どれ			cái nào			
+Từ vựng Minna	Bài 08 - 46	Bài 08	とても			rất, lắm			
+Từ vựng Minna	Bài 08 - 47	Bài 08	あまり			không ~ lắm			
+Từ vựng Minna	Bài 08 - 48	Bài 08	そして			và, thêm nữa (dùng để nối 2 câu)			
+Từ vựng Minna	Bài 08 - 49	Bài 08	～が、～			~, nhưng ~			
+Từ vựng Minna	Bài 08 - 50	Bài 08	おげんきですか。	お元気ですか。	NGUYÊN KHÍ	Anh/chị có khỏe không?			
+Từ vựng Minna	Bài 08 - 51	Bài 08	そうですね。			Thế à. Như vậy nhỉ			
+Từ vựng Minna	Bài 08 - 52	Bài 08	にほんのせいかつに なれましたか			Anh/Chị đã quen với cuộc sống ở Nhật chưa?			
+Từ vựng Minna	Bài 08 - 53	Bài 08	[～、]もういっぱいいかがですか。			Anh/ chị dùng thêm một chén [~] nữa được không ạ?			
+Từ vựng Minna	Bài 08 - 54	Bài 08	いいえ、けっこうです。			Không, đủ rồi ạ.			
+Từ vựng Minna	Bài 08 - 55	Bài 08	もう～です[ね]。			Đã ~ rồi nhỉ./ Đã ~ rồi, đúng không ạ?			
+Từ vựng Minna	Bài 08 - 56	Bài 08	そろそろしつれいします。			Sắp đến lúc tôi phải xin phép rồi.			
+Từ vựng Minna	Bài 08 - 57	Bài 08	また　いらっしゃってください。			Lần sau anh/ chị lại đến chơi nhé.			
+Từ vựng Minna	Bài 08 - 58	Bài 08	ふじさん	富士山	PHÚ SĨ SƠN/SAN	Núi Phú Sĩ (ngọn núi cao nhất Nhật Bản)			
+Từ vựng Minna	Bài 08 - 59	Bài 08	びわこ	琵琶湖	TỲ BÀ HỒ	Hồ Biwa			
+Từ vựng Minna	Bài 08 - 60	Bài 08	シャンハイ	上海	THƯỢNG HẢI	Thượng Hải			
+Từ vựng Minna	Bài 08 - 61	Bài 08	しちにんのさむらい	七人の侍	THẤT NHÂN THỊ	bảy chàng võ sĩ Samurai			
+Từ vựng Minna	Bài 08 - 62	Bài 08	きんかくじ	金閣寺	KIM CÁC TỰ	Chùa Kinkaku-ji (chùa vàng)			
+Từ vựng Minna	Bài 09 - 01	Bài 09	わかります			hiểu, nắm được			
+Từ vựng Minna	Bài 09 - 02	Bài 09	あります			có (sở hữu)			
+Từ vựng Minna	Bài 09 - 03	Bài 09	すき[な]	好き[な]	HIẾU/HẢO	thích			
+Từ vựng Minna	Bài 09 - 04	Bài 09	きらい[な]	嫌い[な]	HIỀM	ghét, không thích			
+Từ vựng Minna	Bài 09 - 05	Bài 09	じょうず[な]	上手[な]	THƯỢNG THỦ	giỏi, khéo			
+Từ vựng Minna	Bài 09 - 06	Bài 09	へた[な]	下手[な]	HẠ THỦ	kém			
+Từ vựng Minna	Bài 09 - 07	Bài 09	りょうり	料理	LIỆU LÝ	món ăn, việc nấu ăn			
+Từ vựng Minna	Bài 09 - 08	Bài 09	のみもの	飲み物	ẨM VẬT	đồ uống			
+Từ vựng Minna	Bài 09 - 09	Bài 09	スポーツ			thể thao (～をします：chơi thể thao)			
+Từ vựng Minna	Bài 09 - 10	Bài 09	やきゅう	野球	DÃ CẦU	bóng chày (～をします：chơi bóng chày)			
+Từ vựng Minna	Bài 09 - 11	Bài 09	ダンス			nhảy, khiêu vũ(～をします：nhảy, khiêu vũ)			
+Từ vựng Minna	Bài 09 - 12	Bài 09	おんがく	音楽	ÂM NHẠC/LẠC	âm nhạc			
+Từ vựng Minna	Bài 09 - 13	Bài 09	うた	歌	CA	bài hát			
+Từ vựng Minna	Bài 09 - 14	Bài 09	クラシック			nhạc cổ điển			
+Từ vựng Minna	Bài 09 - 15	Bài 09	ジャズ			nhạc jazz			
+Từ vựng Minna	Bài 09 - 16	Bài 09	コンサート			buổi hòa nhạc			
+Từ vựng Minna	Bài 09 - 17	Bài 09	カラオケ			karaoke			
+Từ vựng Minna	Bài 09 - 18	Bài 09	かぶき	歌舞伎	CA VŨ KỸ	Kabuki (một loại ca kịch truyền thống của Nhật)			
+Từ vựng Minna	Bài 09 - 19	Bài 09	え	絵	HỘI	tranh, hội họa			
+Từ vựng Minna	Bài 09 - 20	Bài 09	じ	字	TỰ	chữ			
+Từ vựng Minna	Bài 09 - 21	Bài 09	かんじ	漢字	HÁN TỰ	chữ hán			
+Từ vựng Minna	Bài 09 - 22	Bài 09	ひらがな			chữ Hiragana			
+Từ vựng Minna	Bài 09 - 23	Bài 09	かたかな			Chữ Katakana			
+Từ vựng Minna	Bài 09 - 24	Bài 09	ローマじ	ローマ字	TỰ	chữ La Mã			
+Từ vựng Minna	Bài 09 - 25	Bài 09	こまかいおかね	細かいお金	TẾ KIM	tiền lẻ			
+Từ vựng Minna	Bài 09 - 26	Bài 09	チケット			vé (xem hòa nhạc, xem phim)			
+Từ vựng Minna	Bài 09 - 27	Bài 09	じかん	時間	THÌ/THỜI GIAN	thời gian			
+Từ vựng Minna	Bài 09 - 28	Bài 09	ようじ	用事	DỤNG SỰ	việc bận, công chuyện			
+Từ vựng Minna	Bài 09 - 29	Bài 09	やくそく	約束	ƯỚC THÚC	cuộc hẹn, lời hứa			
+Từ vựng Minna	Bài 09 - 30	Bài 09	ごしゅじん	ご主人	CHỦ NHÂN	chồng (dùng khi nói về chồng người khác)			
+Từ vựng Minna	Bài 09 - 31	Bài 09	おっと/しゅじん	夫 /主人	PHU CHỦ NHÂN	chồng (dùng khi nói về chồng mình)			
+Từ vựng Minna	Bài 09 - 32	Bài 09	おくさん	奥さん	ÁO	vợ (dùng khi nói về vợ người khác)			
+Từ vựng Minna	Bài 09 - 33	Bài 09	つま/かない	妻/家内	THÊ GIA NỘI	vợ (dùng khi nói về vợ mình)			
+Từ vựng Minna	Bài 09 - 34	Bài 09	こども	子ども	TỬ	con cái			
+Từ vựng Minna	Bài 09 - 35	Bài 09	よく			tốt, rõ (chỉ mức độ)			
+Từ vựng Minna	Bài 09 - 36	Bài 09	だいたい			đại khái, đại thể			
+Từ vựng Minna	Bài 09 - 37	Bài 09	たくさん			nhiều			
+Từ vựng Minna	Bài 09 - 38	Bài 09	すこし	少し	THIẾU, THIỂU	ít, một ít			
+Từ vựng Minna	Bài 09 - 39	Bài 09	ぜんぜん	全然	TOÀN NHIÊN	hoàn toàn ~ không			
+Từ vựng Minna	Bài 09 - 40	Bài 09	はやく	早く, 速く	TẢO、TỐC	sớm, nhanh			
+Từ vựng Minna	Bài 09 - 41	Bài 09	～から			~ từ			
+Từ vựng Minna	Bài 09 - 42	Bài 09	どうして			tại sao			
+Từ vựng Minna	Bài 09 - 43	Bài 09	ざんねんです[ね]。	残念です[ね]。	TÀN NIỆM	Thật đáng tiếc nhỉ./ buồn nhỉ.			
+Từ vựng Minna	Bài 09 - 44	Bài 09	すみません。			Xin lỗi.			
+Từ vựng Minna	Bài 09 - 45	Bài 09	もしもし			a-lô			
+Từ vựng Minna	Bài 09 - 46	Bài 09	ああ			a (cách nói khi đã gặp được đúng người trên điện thoại)			
+Từ vựng Minna	Bài 09 - 47	Bài 09	いっしょにいかがですか。			Anh/chị cùng ~ (làm cái gì đó) với chúng tôi được không?			
+Từ vựng Minna	Bài 09 - 48	Bài 09	[～は]ちょっと…。			[~ thì] có lẽ không được rồi.			
+Từ vựng Minna	Bài 09 - 49	Bài 09	だめですか。			Không được à?			
+Từ vựng Minna	Bài 09 - 50	Bài 09	またこんどおねがいします	また今度お願いします	KIM ĐỘ NGUYỆN	Hẹn Anh/Chị lần sau vậy.			
+Từ vựng Minna	Bài 09 - 51	Bài 09	おざわせいじ	小沢征爾	TIỂU TRẠCH CHINH NHĨ	Ozawa Seiji (1935 ~ )			
+Từ vựng Minna	Bài 10 - 01	Bài 10	います			có, ở (tồn tại, dùng cho người và động vật)			
+Từ vựng Minna	Bài 10 - 02	Bài 10	あります			có (tồn tại, dùng cho đồ vật)			
+Từ vựng Minna	Bài 10 - 03	Bài 10	いろいろ[な]			nhiều, đa dạng			
+Từ vựng Minna	Bài 10 - 04	Bài 10	おとこのひと	男の人	NAM NHÂN	người đàn ông			
+Từ vựng Minna	Bài 10 - 05	Bài 10	おんなのひと	女の人	NỮ NHÂN	người đàn bà			
+Từ vựng Minna	Bài 10 - 06	Bài 10	おとこのこ	男の子	NAM TỬ	cậu con trai			
+Từ vựng Minna	Bài 10 - 07	Bài 10	おんなのこ	女の子	NỮ TỬ	cô con gái			
+Từ vựng Minna	Bài 10 - 08	Bài 10	いぬ	犬	KHUYỂN	chó			
+Từ vựng Minna	Bài 10 - 09	Bài 10	ねこ	猫	MIÊU	mèo			
+Từ vựng Minna	Bài 10 - 10	Bài 10	き	木	MỘC	cây, gỗ			
+Từ vựng Minna	Bài 10 - 11	Bài 10	もの	物	VẬT	vật, đồ vật			
+Từ vựng Minna	Bài 10 - 12	Bài 10	フィルム			phim			
+Từ vựng Minna	Bài 10 - 13	Bài 10	でんち	電池	ĐIỆN TRÌ	Pin			
+Từ vựng Minna	Bài 10 - 14	Bài 10	はこ	箱	TƯƠNG	hộp			
+Từ vựng Minna	Bài 10 - 15	Bài 10	スイッチ			công tắc			
+Từ vựng Minna	Bài 10 - 16	Bài 10	れいぞうこ	冷蔵庫	LÃNH TÀN KHỐ	tủ lạnh			
+Từ vựng Minna	Bài 10 - 17	Bài 10	テーブル			bàn			
+Từ vựng Minna	Bài 10 - 18	Bài 10	ベッド			giường			
+Từ vựng Minna	Bài 10 - 19	Bài 10	たな	棚	BẰNG	giá sách			
+Từ vựng Minna	Bài 10 - 20	Bài 10	ドア			cửa			
+Từ vựng Minna	Bài 10 - 21	Bài 10	まど	窓	SONG	cửa sổ			
+Từ vựng Minna	Bài 10 - 22	Bài 10	ポスト			hộp thư, hòm thư			
+Từ vựng Minna	Bài 10 - 23	Bài 10	ビル			toà nhà			
+Từ vựng Minna	Bài 10 - 24	Bài 10	こうえん	公園	CÔNG VIÊN	công viên			
+Từ vựng Minna	Bài 10 - 25	Bài 10	きっさてん	喫茶店	KHIẾT TRÀ ĐIẾM	quán giải khát, quán cà-phê			
+Từ vựng Minna	Bài 10 - 26	Bài 10	ほんや	本屋	BẢN ỐC	hiệu sách			
+Từ vựng Minna	Bài 10 - 27	Bài 10	～や	～屋	ỐC	hiệu ~, cửa hàng ~			
+Từ vựng Minna	Bài 10 - 28	Bài 10	のりば	乗り場	THỪA TRƯỜNG	bến xe, điểm lên xuống xe			
+Từ vựng Minna	Bài 10 - 29	Bài 10	けん	県	HUYỆN	tỉnh			
+Từ vựng Minna	Bài 10 - 30	Bài 10	うえ	上	THƯỢNG	trên			
+Từ vựng Minna	Bài 10 - 31	Bài 10	した	下	HẠ	dưới			
+Từ vựng Minna	Bài 10 - 32	Bài 10	まえ	前	TIỀN	trước			
+Từ vựng Minna	Bài 10 - 33	Bài 10	うしろ			sau			
+Từ vựng Minna	Bài 10 - 34	Bài 10	みぎ	右	HUỮ	phải			
+Từ vựng Minna	Bài 10 - 35	Bài 10	ひだり	左	TẢ	trái			
+Từ vựng Minna	Bài 10 - 36	Bài 10	なか	中	TRUNG	trong, giữa			
+Từ vựng Minna	Bài 10 - 37	Bài 10	そと	外	NGOẠI	ngoài			
+Từ vựng Minna	Bài 10 - 38	Bài 10	となり	隣	LÂN	bên cạnh			
+Từ vựng Minna	Bài 10 - 39	Bài 10	ちかく	近く	CẬN	gần			
+Từ vựng Minna	Bài 10 - 40	Bài 10	あいだ	間	GIAN	giữa			
+Từ vựng Minna	Bài 10 - 41	Bài 10	～や～[など] ~			~và ~, [v.v.]			
+Từ vựng Minna	Bài 10 - 42	Bài 10	いちばん～			~ nhất (いちばん うえ：vị trí cao nhất)			
+Từ vựng Minna	Bài 10 - 43	Bài 10	―だんめ	―段目	ĐOẠN MỤC	giá thứ -, tầng thứ			
+Từ vựng Minna	Bài 10 - 44	Bài 10	[どうも]すみません。			Cám ơn			
+Từ vựng Minna	Bài 10 - 45	Bài 10	チリソース			tương ớt (chili sauce)			
+Từ vựng Minna	Bài 10 - 46	Bài 10	おく	奥	ÁO	bên trong cùng, phía sâu bên trong			
+Từ vựng Minna	Bài 10 - 47	Bài 10	スパイス・コーナー			góc gia vị (sprice corner)			
+Từ vựng Minna	Bài 10 - 48	Bài 10	東京ディズニーランド		ĐÔNG KINH	Công viên Tokyo Disneyland			
+Từ vựng Minna	Bài 10 - 49	Bài 10	ユニューヤ・ストア			tên một siêu thị (giả tưởng)			
+Từ vựng Minna	Bài 11 - 01	Bài 11	[こどもが～] います	[子供が～]	TỬ CUNG	có [con]			
+Từ vựng Minna	Bài 11 - 02	Bài 11	[にほんに～] います	[日本に～]	NHẬT BẢN	ở [Nhật]			
+Từ vựng Minna	Bài 11 - 03	Bài 11	かかります			mất, tốn (thời gian, tiền bạc)			
+Từ vựng Minna	Bài 11 - 04	Bài 11	[かいしゃを～] やすみます	[会社を～]休みます	HỘI XÃ HƯU	nghỉ [làm việc]			
+Từ vựng Minna	Bài 11 - 05	Bài 11	ひとつ	１つ		một cái (dùng để đếm đồ vật)			
+Từ vựng Minna	Bài 11 - 06	Bài 11	ふたつ	２つ		hai cái			
+Từ vựng Minna	Bài 11 - 07	Bài 11	みっつ	３つ		ba cái			
+Từ vựng Minna	Bài 11 - 08	Bài 11	よっつ	４つ		bốn cái			
+Từ vựng Minna	Bài 11 - 09	Bài 11	いつつ	５つ		năm cái			
+Từ vựng Minna	Bài 11 - 10	Bài 11	むっつ	６つ		sáu cái			
+Từ vựng Minna	Bài 11 - 11	Bài 11	ななつ	７つ		bảy cái			
+Từ vựng Minna	Bài 11 - 12	Bài 11	やっつ	８つ		tám cái			
+Từ vựng Minna	Bài 11 - 13	Bài 11	ここのつ	９つ		chín cái			
+Từ vựng Minna	Bài 11 - 14	Bài 11	とお	10		mười cái			
+Từ vựng Minna	Bài 11 - 15	Bài 11	いくつ			mấy cái, bao nhiêu cái			
+Từ vựng Minna	Bài 11 - 16	Bài 11	ひとり	１人	NHÂN	một người			
+Từ vựng Minna	Bài 11 - 17	Bài 11	ふたり	２人	NHÂN	hai người			
+Từ vựng Minna	Bài 11 - 18	Bài 11	―にん	－人	NHÂN	- người			
+Từ vựng Minna	Bài 11 - 19	Bài 11	―だい	－台	ĐÀI	- cái (dùng để đếm máy móc, xe cộ v.v.)			
+Từ vựng Minna	Bài 11 - 20	Bài 11	―まい	－枚	MAI	- tờ, tấm			
+Từ vựng Minna	Bài 11 - 21	Bài 11	―かい	―回	HỒI	- lần			
+Từ vựng Minna	Bài 11 - 22	Bài 11	りんご			táo			
+Từ vựng Minna	Bài 11 - 23	Bài 11	みかん			quýt			
+Từ vựng Minna	Bài 11 - 24	Bài 11	サンドイッチ			bánh San Uých			
+Từ vựng Minna	Bài 11 - 25	Bài 11	カレー[ライス]			món [cơm] ca-ri			
+Từ vựng Minna	Bài 11 - 26	Bài 11	アイスクリーム			kem			
+Từ vựng Minna	Bài 11 - 27	Bài 11	きって	切手	THIẾT THỦ	tem			
+Từ vựng Minna	Bài 11 - 28	Bài 11	はがき			bưu thiếp			
+Từ vựng Minna	Bài 11 - 29	Bài 11	ふうとう	封筒	PHONG ĐỒNG	phong bì			
+Từ vựng Minna	Bài 11 - 30	Bài 11	そくたつ	速達	TỐC ĐẠT	(bưu phẩm) gửi nhanh			
+Từ vựng Minna	Bài 11 - 31	Bài 11	かきとめ	書留	THƯ LƯU	(bưu phẩm) gửi bảo đảm			
+Từ vựng Minna	Bài 11 - 32	Bài 11	エアメール			(Air Mail) thư chuyển bằng đường hàng khô			
+Từ vựng Minna	Bài 11 - 33	Bài 11	こうくうびん	航空便	HÀNG KHÔNG TIỆN	gửi bằng đường hàng không			
+Từ vựng Minna	Bài 11 - 34	Bài 11	ふなびん	船便	THUYỀN TIỆN	gửi bằng đường biển			
+Từ vựng Minna	Bài 11 - 35	Bài 11	りょうしん	両親	LƯỠNG THÂN	bố mẹ			
+Từ vựng Minna	Bài 11 - 36	Bài 11	きょうだい	兄弟	HUYNH ĐỆ	anh chị em			
+Từ vựng Minna	Bài 11 - 37	Bài 11	あに	兄	HUYNH	anh trai			
+Từ vựng Minna	Bài 11 - 38	Bài 11	おにいさん	お兄さん	HUYNH	anh trai (dùng cho người khác)			
+Từ vựng Minna	Bài 11 - 39	Bài 11	あね	姉	TỶ	chị gái			
+Từ vựng Minna	Bài 11 - 40	Bài 11	おねえさん	お姉さん	TỶ	chị gái (dùng cho người khác)			
+Từ vựng Minna	Bài 11 - 41	Bài 11	おとうと	弟	ĐỆ	em trai			
+Từ vựng Minna	Bài 11 - 42	Bài 11	おとうとさん	弟さん	ĐỆ	em trai (dùng cho người khác)			
+Từ vựng Minna	Bài 11 - 43	Bài 11	いもうと	妹	MUỘI	em gái			
+Từ vựng Minna	Bài 11 - 44	Bài 11	いもうとさん	妹さん	MUỘI	em gái (dùng cho người khác)			
+Từ vựng Minna	Bài 11 - 45	Bài 11	がいこく	外国	NGOẠI QUỐC	nước ngoài			
+Từ vựng Minna	Bài 11 - 46	Bài 11	―じかん	―時間	THỜI GIAN	- tiếng			
+Từ vựng Minna	Bài 11 - 47	Bài 11	―しゅうかん	―週間	CHU GIAN	- tuần			
+Từ vựng Minna	Bài 11 - 48	Bài 11	―かげつ	－か月	NGUYỆT	- tháng			
+Từ vựng Minna	Bài 11 - 49	Bài 11	―ねん	―年	NIÊN	- năm			
+Từ vựng Minna	Bài 11 - 50	Bài 11	～ぐらい			khoảng ~			
+Từ vựng Minna	Bài 11 - 51	Bài 11	どのくらい			bao lâu			
+Từ vựng Minna	Bài 11 - 52	Bài 11	ぜんぶで	全部で	TOÀN BỘ	tổng cộng			
+Từ vựng Minna	Bài 11 - 53	Bài 11	みんな			tất cả			
+Từ vựng Minna	Bài 11 - 54	Bài 11	～だけ			chỉ ~			
+Từ vựng Minna	Bài 11 - 55	Bài 11	いらっしゃいませ。			Xin mời vào./ xin chào quý khách.			
+Từ vựng Minna	Bài 11 - 56	Bài 11	いい[お]てんきですね。	いい[お]天気ですね。	THIÊN KHÍ	Trời đẹp nhỉ.			
+Từ vựng Minna	Bài 11 - 57	Bài 11	おでかけですか。	お出かけですか。	XUẤT	Anh/ chị đi ra ngoài đấy à?			
+Từ vựng Minna	Bài 11 - 58	Bài 11	ちょっと～まで。			Tôi đi ~ một chút.			
+Từ vựng Minna	Bài 11 - 59	Bài 11	いっていらっしゃい。	行っていらっしゃい。	HÀNH	Anh/chị đi nhé.			
+Từ vựng Minna	Bài 11 - 60	Bài 11	いってまいります	行ってまいります。	HÀNH	Tôi đi đây. (nguyên nghĩa: tôi đi rồi sẽ về.)			
+Từ vựng Minna	Bài 11 - 61	Bài 11	それから			sau đó, tiếp theo			
+Từ vựng Minna	Bài 11 - 62	Bài 11	オーストラリア			Úc			
+Từ vựng Minna	Bài 12 - 01	Bài 12	かんたん「な」	簡単「な」	GIẢN ĐƠN	đơn giản, dễ			
+Từ vựng Minna	Bài 12 - 02	Bài 12	ちかい	近い	CẬN	gần			
+Từ vựng Minna	Bài 12 - 03	Bài 12	とおい	遠い	VIỄN	xa			
+Từ vựng Minna	Bài 12 - 04	Bài 12	はやい	速い, 早い	TỐC、TẢO	nhanh, sớm			
+Từ vựng Minna	Bài 12 - 05	Bài 12	おそい	遅い	TRÌ	chậm, muộn			
+Từ vựng Minna	Bài 12 - 06	Bài 12	[ひとが～] おおい	[人が～]多い	NHÂN ĐA	nhiều [người]			
+Từ vựng Minna	Bài 12 - 07	Bài 12	[ひとが～]すくない	[人が～]少ない	NHÂN, THIỂU/THIẾU	ít [người]			
+Từ vựng Minna	Bài 12 - 08	Bài 12	あたたかい	温かい,暖かい	ÔN、NOÃN	ấm			
+Từ vựng Minna	Bài 12 - 09	Bài 12	すずしい	涼しい	LƯƠNG	mát			
+Từ vựng Minna	Bài 12 - 10	Bài 12	あまい	甘い	CAM	ngọt			
+Từ vựng Minna	Bài 12 - 11	Bài 12	からい	辛い	TÂN	cay			
+Từ vựng Minna	Bài 12 - 12	Bài 12	おもい	重い	TRỌNG	nặng			
+Từ vựng Minna	Bài 12 - 13	Bài 12	かるい	軽い	KHINH	nhẹ			
+Từ vựng Minna	Bài 12 - 14	Bài 12	[コーヒーが～]いい			thích, chọn, dùng [cafe]			
+Từ vựng Minna	Bài 12 - 15	Bài 12	きせつ	季節	QUÝ TIẾT	mùa			
+Từ vựng Minna	Bài 12 - 16	Bài 12	はる	春	XUÂN	mùa xuân			
+Từ vựng Minna	Bài 12 - 17	Bài 12	なつ	夏	HẠ	mùa hè			
+Từ vựng Minna	Bài 12 - 18	Bài 12	あき	秋	THU	mùa thu			
+Từ vựng Minna	Bài 12 - 19	Bài 12	ふゆ	冬	ĐÔNG	mùa đông			
+Từ vựng Minna	Bài 12 - 20	Bài 12	てんき	天気	THIÊN KHÍ	thời tiết			
+Từ vựng Minna	Bài 12 - 21	Bài 12	あめ	雨	VŨ	mưa			
+Từ vựng Minna	Bài 12 - 22	Bài 12	ゆき	雪	TUYẾT	tuyết			
+Từ vựng Minna	Bài 12 - 23	Bài 12	くもり	曇り	ĐÀM	có mây			
+Từ vựng Minna	Bài 12 - 24	Bài 12	ホテル			khách sạn			
+Từ vựng Minna	Bài 12 - 25	Bài 12	くうこう	空港	KHÔNG CẢNG	sân bay			
+Từ vựng Minna	Bài 12 - 26	Bài 12	うみ	海	HẢI	biển, đại dương			
+Từ vựng Minna	Bài 12 - 27	Bài 12	せかい	世界	THẾ GIỚI	thế giới			
+Từ vựng Minna	Bài 12 - 28	Bài 12	パーティー			tiệc (~をします：tổ chức tiệc)			
+Từ vựng Minna	Bài 12 - 29	Bài 12	「お」まつり	「お」祭り	TẾ	lễ hội			
+Từ vựng Minna	Bài 12 - 30	Bài 12	しけん	試験	THÍ NGHIỆM	kỳ thi, bài thi			
+Từ vựng Minna	Bài 12 - 31	Bài 12	すきやき	すき焼き	THIÊU	Sukiyaki (món thịt bò nấu rau)			
+Từ vựng Minna	Bài 12 - 32	Bài 12	さしみ	刺身	THÍCH THÂN	Sashimi (món gỏi cá sống)			
+Từ vựng Minna	Bài 12 - 33	Bài 12	「お」すし			Sushi			
+Từ vựng Minna	Bài 12 - 34	Bài 12	てんぷら			Tempura (món hải sản và rau chiên tẩm bột)			
+Từ vựng Minna	Bài 12 - 35	Bài 12	いけばな	生け花	SINH HOA	Nghệ thuật cắm hoa (～をします：cắm hoa)			
+Từ vựng Minna	Bài 12 - 36	Bài 12	もみじ	紅葉	HỒNG DIỆP	lá đỏ			
+Từ vựng Minna	Bài 12 - 37	Bài 12	どちら			phía nào, đằng nào, chỗ nào, đâu			
+Từ vựng Minna	Bài 12 - 38	Bài 12	どちらも			cả hai			
+Từ vựng Minna	Bài 12 - 39	Bài 12	ずっと			(hơn) hẳn			
+Từ vựng Minna	Bài 12 - 40	Bài 12	はじめて	初めて	SƠ	lần đầu tiên			
+Từ vựng Minna	Bài 12 - 41	Bài 12	ただいま。			Tôi đã về đây. (dùng nói khi về đến nhà)			
+Từ vựng Minna	Bài 12 - 42	Bài 12	おかえりなさい。	お帰りなさい。	QUY	Anh/Chị đã về đấy à.			
+Từ vựng Minna	Bài 12 - 43	Bài 12	すごいですね。			Ghê quá nhỉ./ hay quá nhỉ.			
+Từ vựng Minna	Bài 12 - 44	Bài 12	でも			Nhưng			
+Từ vựng Minna	Bài 12 - 45	Bài 12	つかれました。	疲れました。	BÌ	Tôi mệt rồi			
+Từ vựng Minna	Bài 12 - 46	Bài 12	ぎおんまつり	祗園祭	KỲ VIÊN TẾ	Lễ hội Gi-ôn (lễ hội nổi tiếng nhất ở Kyoto)			
+Từ vựng Minna	Bài 12 - 47	Bài 12	ホンコン	香港	HƯƠNG CẢNG	Hồng Kông			
+Từ vựng Minna	Bài 12 - 48	Bài 12	シンガポール			Singapore			
+Từ vựng Minna	Bài 12 - 49	Bài 12	まいにちや	毎日屋	MỖI NHẬT ỐC	tên một siêu thị (giả tưởng)			
+Từ vựng Minna	Bài 12 - 50	Bài 12	ＡＣＢストア			tên một siêu thị (giả tưởng)			
+Từ vựng Minna	Bài 12 - 51	Bài 12	ジャパン			tên một siêu thị (giả tưởng)			
+Từ vựng Minna	Bài 13 - 01	Bài 13	あそびます	遊びます	DU	chơi			
+Từ vựng Minna	Bài 13 - 02	Bài 13	およぎます	泳ぎます	VỊNH	bơi			
+Từ vựng Minna	Bài 13 - 03	Bài 13	むかえます	迎えます	NGHINH	đón			
+Từ vựng Minna	Bài 13 - 04	Bài 13	つかれます	疲れます	BÌ	mệt			
+Từ vựng Minna	Bài 13 - 05	Bài 13	[てがみを～]だします	[手紙を～]出します	THỦ CHỈ XUẤT	gửi[thư]			
+Từ vựng Minna	Bài 13 - 06	Bài 13	[きっさてんに～]はいります	[喫茶店に～]入ります	KHIẾT TRÀ ĐIẾM NHẬP	vào [quán giải khát]			
+Từ vựng Minna	Bài 13 - 07	Bài 13	[きっさてんを～]でます	[喫茶店を～]出ます	KHIẾT TRÀ ĐIẾM XUẤT	ra, ra khỏi [quán giải khát]			
+Từ vựng Minna	Bài 13 - 08	Bài 13	けっこんします	結婚します	KẾT HÔN	kết hôn, lập gia đình, cưới			
+Từ vựng Minna	Bài 13 - 09	Bài 13	かいものします	買い物します	MÃI VẬT	mua hàng			
+Từ vựng Minna	Bài 13 - 10	Bài 13	しょくじします	食事します	THỰC SỰ	ăn cơm			
+Từ vựng Minna	Bài 13 - 11	Bài 13	[こうえんを～]さんぽします	[公園を～]散歩します	CÔNG VIÊN TÁN BỘ	đi dạo [ở công viên]			
+Từ vựng Minna	Bài 13 - 12	Bài 13	たいへん「な」	大変「な」	ĐẠI BIẾN	vất vả, khó khăn, khổ			
+Từ vựng Minna	Bài 13 - 13	Bài 13	ほしい	欲しい	DỤC	muốn có			
+Từ vựng Minna	Bài 13 - 14	Bài 13	さびしい	寂しい	TỊCH	buồn, cô đơn			
+Từ vựng Minna	Bài 13 - 15	Bài 13	ひろい	広い	QUẢNG	rộng			
+Từ vựng Minna	Bài 13 - 16	Bài 13	せまい	狭い	HIỆP	chật, hẹp			
+Từ vựng Minna	Bài 13 - 17	Bài 13	しやくしょ	市役所	THỊ DỊCH SỞ	văn phòng hành chính quận, thành phố			
+Từ vựng Minna	Bài 13 - 18	Bài 13	プール			bể bơi			
+Từ vựng Minna	Bài 13 - 19	Bài 13	かわ	川	XUYÊN	sông			
+Từ vựng Minna	Bài 13 - 20	Bài 13	けいざい	経済	KINH TẾ	kinh tế			
+Từ vựng Minna	Bài 13 - 21	Bài 13	びじゅつ	美術	MỸ THUẬT	mỹ thuật			
+Từ vựng Minna	Bài 13 - 22	Bài 13	つり	釣り	ĐIẾU	việc câu cá (~をします：câu cá)			
+Từ vựng Minna	Bài 13 - 23	Bài 13	スキー			việc trượt tuyết (~をします：trượt tuyết)			
+Từ vựng Minna	Bài 13 - 24	Bài 13	かいぎ	会議	HỘI NGHỊ	họp, cuộc họp (~をします: họp, tổ chức cuộc họp)			
+Từ vựng Minna	Bài 13 - 25	Bài 13	とうろく	登録	ĐĂNG LỤC	việc đăng ký (~をします：đăng ký)			
+Từ vựng Minna	Bài 13 - 26	Bài 13	しゅうまつ	週末	CHU MẠT	cuối tuần			
+Từ vựng Minna	Bài 13 - 27	Bài 13	～ごろ			khoảng ~ (dùng cho thời gian)			
+Từ vựng Minna	Bài 13 - 28	Bài 13	なにか	何か	HÀ	cái gì đó			
+Từ vựng Minna	Bài 13 - 29	Bài 13	どこか			đâu đó, chỗ nào đó			
+Từ vựng Minna	Bài 13 - 30	Bài 13	おなかが　すきました。			(tôi) đói rồi.			
+Từ vựng Minna	Bài 13 - 31	Bài 13	おなかが　いっぱいです。			(tôi) no rồi.			
+Từ vựng Minna	Bài 13 - 32	Bài 13	のどが　かわきました。			(tôi) khát.			
+Từ vựng Minna	Bài 13 - 33	Bài 13	そうですね。			Thế à. Như vậy nhỉ			
+Từ vựng Minna	Bài 13 - 34	Bài 13	そうしましょう。			Nhất trí./ Chúng ta thống nhất như thế.			
+Từ vựng Minna	Bài 13 - 35	Bài 13	ごちゅうもん	ご注文は？	CHÚ VĂN	Anh/Chị dùng món gì ạ			
+Từ vựng Minna	Bài 13 - 36	Bài 13	ていしょく			cơm suất, cơm phần			
+Từ vựng Minna	Bài 13 - 37	Bài 13	ぎゅうどん	牛どん	NGƯU	món cơm thịt bò			
+Từ vựng Minna	Bài 13 - 38	Bài 13	「しょうしょう」おまちください	[少々] お待ちください。	THIỂU ĐÃI	Xin anh/chị vui lòng đợi [một chút].			
+Từ vựng Minna	Bài 13 - 39	Bài 13	べつべつに	別々に	BIỆT	riêng ra/ để riêng			
+Từ vựng Minna	Bài 13 - 40	Bài 13	ロシア			Nga			
+Từ vựng Minna	Bài 13 - 41	Bài 13	つるや			tên một nhà hàng (giả tưởng)			
+Từ vựng Minna	Bài 13 - 42	Bài 13	おはようテレビ			tên một chương trình truyền hình (giả tưởng)			
+Từ vựng Minna	Bài 14 - 01	Bài 14	つけます			bật (điện, máy điều hòa)			
+Từ vựng Minna	Bài 14 - 02	Bài 14	けします	消します	TIÊU	tắt (điện, máy điều hòa)			
+Từ vựng Minna	Bài 14 - 03	Bài 14	あけます	開けます	KHAI	mở (cửa, cửa sổ)			
+Từ vựng Minna	Bài 14 - 04	Bài 14	しめます	閉めます	BẾ	đóng (cửa, cửa sổ)			
+Từ vựng Minna	Bài 14 - 05	Bài 14	いそぎます	急ぎます	CẤP	vội, gấp			
+Từ vựng Minna	Bài 14 - 06	Bài 14	まちます	待ちます	ĐÃI	đợi, chờ			
+Từ vựng Minna	Bài 14 - 07	Bài 14	とめます	止めます	CHỈ	dừng (băng, ôt ô), đỗ (ôtô)			
+Từ vựng Minna	Bài 14 - 08	Bài 14	[みぎへ～] まがります	[右へ～]曲がります	HỮU KHÚC	rẽ, quẹo [phải]			
+Từ vựng Minna	Bài 14 - 09	Bài 14	もちます	持ちます	TRÌ	mang, cầm			
+Từ vựng Minna	Bài 14 - 10	Bài 14	とります	取ります	THỦ	lấy (muối)			
+Từ vựng Minna	Bài 14 - 11	Bài 14	てつだいます	手伝います	THỦ TRUYỀN	giúp (làm việc)			
+Từ vựng Minna	Bài 14 - 12	Bài 14	よびます	呼びます	HÔ	gọi (taxi, tên)			
+Từ vựng Minna	Bài 14 - 13	Bài 14	はなします	話します	THOẠI	nói, nói chuyện			
+Từ vựng Minna	Bài 14 - 14	Bài 14	みせます	見せます	KIẾN	cho xem, trình			
+Từ vựng Minna	Bài 14 - 15	Bài 14	[じゅうしょを～]おしえます	[住所を～]教えます	TRÚ SỞ GIÁO	nói, cho biết [địa chỉ]			
+Từ vựng Minna	Bài 14 - 16	Bài 14	はじめます	始めます	THỦY	bắt đầu			
+Từ vựng Minna	Bài 14 - 17	Bài 14	[あめが～] ふります	[雨が～]降ります	VŨ GIÁNG/ HÀNG	rơi [mưa, tuyết~]			
+Từ vựng Minna	Bài 14 - 18	Bài 14	コピーします			copy			
+Từ vựng Minna	Bài 14 - 19	Bài 14	エアコン			máy điều hòa			
+Từ vựng Minna	Bài 14 - 20	Bài 14	パスポート			hộ chiếu			
+Từ vựng Minna	Bài 14 - 21	Bài 14	なまえ	名前	DANH TIỀN	tên			
+Từ vựng Minna	Bài 14 - 22	Bài 14	じゅうしょ	住所	TRÚ SỞ	địa chỉ			
+Từ vựng Minna	Bài 14 - 23	Bài 14	ちず	地図	ĐỊA ĐỒ	bản đồ			
+Từ vựng Minna	Bài 14 - 24	Bài 14	しお	塩	DIÊM	muối			
+Từ vựng Minna	Bài 14 - 25	Bài 14	さとう	砂糖	SA ĐƯỜNG	đường			
+Từ vựng Minna	Bài 14 - 26	Bài 14	よみかた	読み方	ĐỘC PHƯƠNG	cách đọc			
+Từ vựng Minna	Bài 14 - 27	Bài 14	～かた	～方	PHƯƠNG	cách ~			
+Từ vựng Minna	Bài 14 - 28	Bài 14	ゆっくり			chậm, thong thả, thoải mái			
+Từ vựng Minna	Bài 14 - 29	Bài 14	すぐ			ngay, lập tức			
+Từ vựng Minna	Bài 14 - 30	Bài 14	また			lại (~đến)			
+Từ vựng Minna	Bài 14 - 31	Bài 14	あとで			sau			
+Từ vựng Minna	Bài 14 - 32	Bài 14	もう　すこし	もう少し	THIẾU	thêm một chút nữa thôi			
+Từ vựng Minna	Bài 14 - 33	Bài 14	もう～			thêm~			
+Từ vựng Minna	Bài 14 - 34	Bài 14	いいですよ。			Được chứ./được ạ.			
+Từ vựng Minna	Bài 14 - 35	Bài 14	さあ			thôi,/nào			
+Từ vựng Minna	Bài 14 - 36	Bài 14	あれ？			Ô!			
+Từ vựng Minna	Bài 14 - 37	Bài 14	しんごうをみぎへまがってください	信号を右へ曲がってください	TÍN HIỆU HỮU KHÚC	Anh/ Chị rẽ phải ở chổ đèn tín hiệu.			
+Từ vựng Minna	Bài 14 - 38	Bài 14	まっすぐ			thẳng			
+Từ vựng Minna	Bài 14 - 39	Bài 14	これでおねがいします。	これでお願いします。	NGUYỆN	Gởi anh tiền này.			
+Từ vựng Minna	Bài 14 - 40	Bài 14	おつり	お釣り	ĐIẾU	tiền lẻ			
+Từ vựng Minna	Bài 14 - 41	Bài 14	うめだ	梅田	MAI ĐIỀN	Umeda, tên một địa phương ở Osaka			
+Từ vựng Minna	Bài 15 - 01	Bài 15	たちます	立ちます	LẬP	đứng			
+Từ vựng Minna	Bài 15 - 02	Bài 15	すわります	座ります	TỌA	ngồi			
+Từ vựng Minna	Bài 15 - 03	Bài 15	つかいます	使います	SỬ, SỨ	dùng, sử dụng			
+Từ vựng Minna	Bài 15 - 04	Bài 15	おきます	置きます	TRÍ	dậy, thức dậy			
+Từ vựng Minna	Bài 15 - 05	Bài 15	つくります	作ります, 造ります	TÁC TẠO	làm, chế tạo, sản xuất			
+Từ vựng Minna	Bài 15 - 06	Bài 15	うります	売ります	MẠI	bán			
+Từ vựng Minna	Bài 15 - 07	Bài 15	しります	知ります	TRI	biết			
+Từ vựng Minna	Bài 15 - 08	Bài 15	すみます	住みます	TRÚ, TRỤ	sống, ở			
+Từ vựng Minna	Bài 15 - 09	Bài 15	けんきゅうします	研究します	NGHIÊN CỬU	nghiên cứu			
+Từ vựng Minna	Bài 15 - 10	Bài 15	しって　います	知って　います	TRI	biết			
+Từ vựng Minna	Bài 15 - 11	Bài 15	[おおさかに～]すんで　います	[大阪に～]住んで　います	ĐẠI PHẢN TRÚ/TRỤ	sống [ở Osaka]			
+Từ vựng Minna	Bài 15 - 12	Bài 15	しりょう	資料	TƯ LIỆU	tài liệu, tư liệu			
+Từ vựng Minna	Bài 15 - 13	Bài 15	カタログ			ca-ta-lô			
+Từ vựng Minna	Bài 15 - 14	Bài 15	じこくひょう	時刻表	THỜI KHẮC BIỂU	bảng giờ tàu chạy			
+Từ vựng Minna	Bài 15 - 15	Bài 15	ふく	服	PHỤC	quần áo			
+Từ vựng Minna	Bài 15 - 16	Bài 15	せいひん	製品	CHẾ PHẨM	sản phẩm			
+Từ vựng Minna	Bài 15 - 17	Bài 15	ソフト			phần mềm			
+Từ vựng Minna	Bài 15 - 18	Bài 15	せんもん	専門	CHUYÊN MÔN	chuyên môn			
+Từ vựng Minna	Bài 15 - 19	Bài 15	はいしゃ	歯医者	XỈ Y GIẢ	nha sĩ			
+Từ vựng Minna	Bài 15 - 20	Bài 15	とこや	床屋	SÀNG ỐC	hiệu cắt tóc			
+Từ vựng Minna	Bài 15 - 21	Bài 15	プレイガイド			quầy bán vé (trong nhà hát)			
+Từ vựng Minna	Bài 15 - 22	Bài 15	どくしん	独身	ĐỘC THÂN	độc thân			
+Từ vựng Minna	Bài 15 - 23	Bài 15	とくに	特に	ĐẶC	đặc biệt			
+Từ vựng Minna	Bài 15 - 24	Bài 15	おもいだします	思い出します	TƯ XUẤT	nhớ lại, hồi tưởng			
+Từ vựng Minna	Bài 15 - 25	Bài 15	ごかぞく	ご家族	GIA TỘC	gia đình (dùng cho người khác)			
+Từ vựng Minna	Bài 15 - 26	Bài 15	いらっしゃいます			thể kính trọng của 「います」			
+Từ vựng Minna	Bài 15 - 27	Bài 15	こうこう	高校	CAO HIỆU	trường trung học phổ thông			
+Từ vựng Minna	Bài 15 - 28	Bài 15	にっぽんばし	日本橋	NHẬT BẢN KIỀU	tên một khu phố buôn bán ở Osaka			
+Từ vựng Minna	Bài 16 - 01	Bài 16	[でんしゃに～] のります	[電車に～]乗ります	ĐIỆN XA THỪA	đi, lên [tàu]			
+Từ vựng Minna	Bài 16 - 02	Bài 16	[でんしゃを～]おります	[電車を～]降ります	ĐIỆN XA GIÁNG/HÀNG	xuống [tàu]			
+Từ vựng Minna	Bài 16 - 03	Bài 16	のりかえます	乗り換えます	THỪA HOÁN	chuyển, đổi (tàu)			
+Từ vựng Minna	Bài 16 - 04	Bài 16	[シャワーを～]あびます	[シャワーを～]浴びます	DỤC	tắm [vòi hoa sen]			
+Từ vựng Minna	Bài 16 - 05	Bài 16	いれます	入れます	NHẬP	cho vào, bỏ vào			
+Từ vựng Minna	Bài 16 - 06	Bài 16	だします	出します	XUẤT	lấy ra, rút (tiền)			
+Từ vựng Minna	Bài 16 - 07	Bài 16	[だいがくに～] はいります	[大学に～]入ります	ĐẠI HỌC NHẬP	vào, nhập học [đại học]			
+Từ vựng Minna	Bài 16 - 08	Bài 16	[だいがくを～] でます	[大学を～]出ます	ĐẠI HỌC XUẤT	ra, tốt nghiệp [đại học]			
+Từ vựng Minna	Bài 16 - 09	Bài 16	[かいしゃを～]やめます	[会社を～]やめます	HỘI XÃ	bỏ, thôi [việc công ty]			
+Từ vựng Minna	Bài 16 - 10	Bài 16	おします	押します	ÁP	bấm, ấn (nút)			
+Từ vựng Minna	Bài 16 - 11	Bài 16	わかい	若い	NHƯỢC	trẻ			
+Từ vựng Minna	Bài 16 - 12	Bài 16	ながい	長い	TRƯỜNG	dài			
+Từ vựng Minna	Bài 16 - 13	Bài 16	みじかい	短い	ĐOẢN	ngắn			
+Từ vựng Minna	Bài 16 - 14	Bài 16	あかるい	明るい	MINH	sáng			
+Từ vựng Minna	Bài 16 - 15	Bài 16	くらい	暗い	ÁM	tối			
+Từ vựng Minna	Bài 16 - 16	Bài 16	せが　たかい	背が　高い	BỐI CAO	cao (dùng cho người)			
+Từ vựng Minna	Bài 16 - 17	Bài 16	あたまが　いい	頭が　いい	ĐẦU	thông minh			
+Từ vựng Minna	Bài 16 - 18	Bài 16	からだ	体	THỂ	người, cơ thể			
+Từ vựng Minna	Bài 16 - 19	Bài 16	あたま	頭	ĐẦU	đầu			
+Từ vựng Minna	Bài 16 - 20	Bài 16	かみ	髪	PHÁT	giấy			
+Từ vựng Minna	Bài 16 - 21	Bài 16	かお	顔	NHAN	mặt			
+Từ vựng Minna	Bài 16 - 22	Bài 16	め	目	MỤC	mắt			
+Từ vựng Minna	Bài 16 - 23	Bài 16	みみ	耳	NHĨ	tai			
+Từ vựng Minna	Bài 16 - 24	Bài 16	くち	口	KHẨU	miệng			
+Từ vựng Minna	Bài 16 - 25	Bài 16	は	歯	XỈ	răng			
+Từ vựng Minna	Bài 16 - 26	Bài 16	おなか			bụng			
+Từ vựng Minna	Bài 16 - 27	Bài 16	あし	足	TÚC	chân			
+Từ vựng Minna	Bài 16 - 28	Bài 16	サービス			dịch vụ			
+Từ vựng Minna	Bài 16 - 29	Bài 16	ジョギング			việc chạy bộ (~をします: chạy bộ)			
+Từ vựng Minna	Bài 16 - 30	Bài 16	シャワー			vòi hoa sen			
+Từ vựng Minna	Bài 16 - 31	Bài 16	みどり	緑	LỤC	màu xanh lá cây			
+Từ vựng Minna	Bài 16 - 32	Bài 16	[お]てら	[お]寺	TỰ	chùa			
+Từ vựng Minna	Bài 16 - 33	Bài 16	じんじゃ	神社	THẦN XÃ	đền thờ đạo thần			
+Từ vựng Minna	Bài 16 - 34	Bài 16	りゅうがくせい	留学生	LƯU HỌC SINH	lưu học sinh, du học sinh			
+Từ vựng Minna	Bài 16 - 35	Bài 16	一ばん	一番	PHIÊN	số ―			
+Từ vựng Minna	Bài 16 - 36	Bài 16	どうやって			làm thế nào~			
+Từ vựng Minna	Bài 16 - 37	Bài 16	どの～			cái nào~ (dùng với trường hợp từ ba thứ trở lên)			
+Từ vựng Minna	Bài 16 - 38	Bài 16	[いいえ、]まだまだです。			[không,] tôi còn kém lắm.			
+Từ vựng Minna	Bài 16 - 39	Bài 16	おひきだしですか	お引き出しですか	DẪN XUẤT	Anh/ chị rút tiền ạ?			
+Từ vựng Minna	Bài 16 - 40	Bài 16	まず			trước hết, đầu tiên			
+Từ vựng Minna	Bài 16 - 41	Bài 16	キャッシュカード			thẻ ngân hàng, thẻ ATM			
+Từ vựng Minna	Bài 16 - 42	Bài 16	あんしょうばんごう	暗証番号	ÁM CHỨNG PHIÊN HIỆU	mã số bí mật (mật khẩu)			
+Từ vựng Minna	Bài 16 - 43	Bài 16	つぎに	次に	THỨ	tiếp theo			
+Từ vựng Minna	Bài 16 - 44	Bài 16	きんがく	金額	KIM NGẠCH	số tiền, khoản tiền			
+Từ vựng Minna	Bài 16 - 45	Bài 16	かくにん	確認	XÁC NHẬN	sự xác nhận, sự kiểm tra (~します：xác nhận)			
+Từ vựng Minna	Bài 16 - 46	Bài 16	ボタン			nút			
+Từ vựng Minna	Bài 16 - 47	Bài 16	ＪＲ			công ty đường sắt Nhật Bản			
+Từ vựng Minna	Bài 16 - 48	Bài 16	アジア			châu Á			
+Từ vựng Minna	Bài 16 - 49	Bài 16	バンドン			Bandung (ở Indonesia)			
+Từ vựng Minna	Bài 16 - 50	Bài 16	ベラクルス			Veracruz (ở Mexico)			
+Từ vựng Minna	Bài 16 - 51	Bài 16	フランケン			Franken (ở Đức)			
+Từ vựng Minna	Bài 16 - 52	Bài 16	ベトナム			Việt Nam			
+Từ vựng Minna	Bài 16 - 53	Bài 16	フェ			Huế			
+Từ vựng Minna	Bài 16 - 54	Bài 16	だいがくまえ	大学前	ĐẠI HỌC TIỀN	tên một điểm dừng xe buýt (giả tưởng)			
+Từ vựng Minna	Bài 17 - 01	Bài 17	おぼえます	覚えます	GIÁC	nhớ			
+Từ vựng Minna	Bài 17 - 02	Bài 17	わすれます	忘れます	VONG	quên			
+Từ vựng Minna	Bài 17 - 03	Bài 17	なくします			mất, đánh mất			
+Từ vựng Minna	Bài 17 - 04	Bài 17	[レポートを～]だします	[レポートを～]出します	XUẤT	nộp[bản/bài báo cáo]			
+Từ vựng Minna	Bài 17 - 05	Bài 17	はらいます	払います	PHẤT	trả tiền			
+Từ vựng Minna	Bài 17 - 06	Bài 17	かえします	返します	PHẢN	trả lại			
+Từ vựng Minna	Bài 17 - 07	Bài 17	でかけます	出かけます	XUẤT	ra ngoài			
+Từ vựng Minna	Bài 17 - 08	Bài 17	ぬぎます	脱ぎます	THOÁT	cởi (quần áo, giầy)			
+Từ vựng Minna	Bài 17 - 09	Bài 17	もっていきます	持って行きます	TRÌ HÀNH	mang đi, mang theo			
+Từ vựng Minna	Bài 17 - 10	Bài 17	もってきます	持って来ます	TRÌ LAI	mang đến			
+Từ vựng Minna	Bài 17 - 11	Bài 17	しんぱいします	心配します	TÂM PHỐI	lo lắng			
+Từ vựng Minna	Bài 17 - 12	Bài 17	ざんぎょうします	残業します	TÀN NGHIỆP	làm thêm, làm quá giờ			
+Từ vựng Minna	Bài 17 - 13	Bài 17	しゅっちょうします	出張します	XUẤT TRƯƠNG	đi công tác			
+Từ vựng Minna	Bài 17 - 14	Bài 17	[くすりを～]のみます	[薬を～]飲みます	DƯỢC ẨM	uống [thuốc]			
+Từ vựng Minna	Bài 17 - 15	Bài 17	[おふろに～]はいります	[おふろに～]入ります	NHẬP	tắm bồn [vào bồn tắm]			
+Từ vựng Minna	Bài 17 - 16	Bài 17	たいせつ[な]	大切[な]	ĐẠI THIẾT	quan trọng, quý giá			
+Từ vựng Minna	Bài 17 - 17	Bài 17	だいじょうぶ[な]	大丈夫[な]	ĐẠI TRƯỢNG PHU	không sao, không có vấn đề gì			
+Từ vựng Minna	Bài 17 - 18	Bài 17	あぶない	危ない	NGUY	nguy hiểm			
+Từ vựng Minna	Bài 17 - 19	Bài 17	もんだい	問題	VẤN ĐỀ	vấn đề			
+Từ vựng Minna	Bài 17 - 20	Bài 17	こたえ	答え	ĐÁP	câu trả lời			
+Từ vựng Minna	Bài 17 - 21	Bài 17	きんえん	禁煙	CẤM YÊN	cấm hút thuốc			
+Từ vựng Minna	Bài 17 - 22	Bài 17	[けんこう]ほけんしょう	[健康]保険証	KIỆN KHANG	thẻ bảo hiểm [y tế]			
+Từ vựng Minna	Bài 17 - 23	Bài 17	かぜ			cảm, cúm			
+Từ vựng Minna	Bài 17 - 24	Bài 17	ねつ	熱	NHIỆT	sốt			
+Từ vựng Minna	Bài 17 - 25	Bài 17	びょうき	病気	BỆNH KHÍ	ốm, bệnh			
+Từ vựng Minna	Bài 17 - 26	Bài 17	くすり	薬	DƯỢC	thuốc			
+Từ vựng Minna	Bài 17 - 27	Bài 17	[お]ふろ			bồn tắm			
+Từ vựng Minna	Bài 17 - 28	Bài 17	うわぎ	上着	THƯỢNG TRƯỚC	áo khoác			
+Từ vựng Minna	Bài 17 - 29	Bài 17	したぎ	下着	HẠ TRƯỚC	quần áo lót			
+Từ vựng Minna	Bài 17 - 30	Bài 17	せんせい	先生	TIÊN SINH	thầy/ cô			
+Từ vựng Minna	Bài 17 - 31	Bài 17	２，３にち	２，３日	NHẬT	vài ngày			
+Từ vựng Minna	Bài 17 - 32	Bài 17	２，３～			vài~ (“~” là hậu tố chỉ cách đếm)			
+Từ vựng Minna	Bài 17 - 33	Bài 17	～までに			trước ~ (chỉ thời hạn)			
+Từ vựng Minna	Bài 17 - 34	Bài 17	ですから			vì thế, vì vậy, do đó			
+Từ vựng Minna	Bài 17 - 35	Bài 17	どうしましたか。			Có vần đề gì?/Anh/chị bị làm sao?			
+Từ vựng Minna	Bài 17 - 36	Bài 17	「のどが」いたいです。	「のどが」痛いです。	THỐNG	Tôi bị đau [~họng].			
+Từ vựng Minna	Bài 17 - 37	Bài 17	おだいじに	お大事に。	ĐẠI SỰ	Anh/chị nhớ giữ gìn sức khỏe.			
+Từ vựng Minna	Bài 18 - 01	Bài 18	できます			có thể			
+Từ vựng Minna	Bài 18 - 02	Bài 18	あらいます	洗います	TẨY	rửa			
+Từ vựng Minna	Bài 18 - 03	Bài 18	ひきます	弾きます	ĐÀN, ĐẠN	chơi (nhạc cụ)			
+Từ vựng Minna	Bài 18 - 04	Bài 18	うたいます	歌います	CA	hát			
+Từ vựng Minna	Bài 18 - 05	Bài 18	あつめます	集めます	TẬP	sưu tầm, thu thập			
+Từ vựng Minna	Bài 18 - 06	Bài 18	すてます	捨てます	XẢ	vứt, bỏ đi			
+Từ vựng Minna	Bài 18 - 07	Bài 18	かえます	換えます	HOÁN	đổi			
+Từ vựng Minna	Bài 18 - 08	Bài 18	うんてんします	運転します	VẬN CHUYỂN	lái			
+Từ vựng Minna	Bài 18 - 09	Bài 18	よやくします	予約します	DỰ ƯỚC	đặt chỗ, đặt trước			
+Từ vựng Minna	Bài 18 - 10	Bài 18	けんがくします	見学します	KIẾN HỌC	thăm quan với mục đích học tập			
+Từ vựng Minna	Bài 18 - 11	Bài 18	ピアノ			đàn Piano			
+Từ vựng Minna	Bài 18 - 12	Bài 18	―メートル			―　mét			
+Từ vựng Minna	Bài 18 - 13	Bài 18	こくさい～	国際～	QUỐC TẾ ~	quốc tế			
+Từ vựng Minna	Bài 18 - 14	Bài 18	げんきん	現金	HIỆN KIM	tiền mặt			
+Từ vựng Minna	Bài 18 - 15	Bài 18	しゅみ	趣味	THÚ VỊ	sở thích, thú vui			
+Từ vựng Minna	Bài 18 - 16	Bài 18	にっき	日記	NHẬT KÝ	nhật ký			
+Từ vựng Minna	Bài 18 - 17	Bài 18	[お]いのり	[お]祈り	KỲ	việc cầu nguyện (～をします：cầu nguyện)			
+Từ vựng Minna	Bài 18 - 18	Bài 18	かちょう	課長	KHOA TRƯỞNG	tổ trưởng			
+Từ vựng Minna	Bài 18 - 19	Bài 18	ぶちょう	部長	BỘ TRƯỞNG	trưởng phòng			
+Từ vựng Minna	Bài 18 - 20	Bài 18	しゃちょう	社長	XÃ TRƯỞNG	giám đốc			
+Từ vựng Minna	Bài 18 - 21	Bài 18	どうぶつ	動物	ĐỘNG VẬT	động vật			
+Từ vựng Minna	Bài 18 - 22	Bài 18	うま	馬	MÃ	ngựa			
+Từ vựng Minna	Bài 18 - 23	Bài 18	へえ			thế à!			
+Từ vựng Minna	Bài 18 - 24	Bài 18	それはおもしろいですね。			Hay thật nhỉ.			
+Từ vựng Minna	Bài 18 - 25	Bài 18	なかなか			khó mà~, không dễ, mãi mà (dùng với thể phủ định)			
+Từ vựng Minna	Bài 18 - 26	Bài 18	ぼくじょう	牧場	MỤC TRƯỜNG	trang trại chăn nuôi			
+Từ vựng Minna	Bài 18 - 27	Bài 18	ほんとうですか。			Thật không ạ?			
+Từ vựng Minna	Bài 18 - 28	Bài 18	ぜひ			nhất định, rất			
+Từ vựng Minna	Bài 18 - 29	Bài 18	ビートルズ			Beatles, một băng nhạc nỗi tiếng nước Anh			
+Từ vựng Minna	Bài 19 - 01	Bài 19	[やまに～]のぼります	[山に～]登ります	SƠN ĐĂNG	leo [núi]			
+Từ vựng Minna	Bài 19 - 02	Bài 19	[ホテルに～]とまります	[ホテルに～]泊まります	BẠC	trọ [ở khách sạn]			
+Từ vựng Minna	Bài 19 - 03	Bài 19	そうじします	掃除します	TẢO TRỪ	dọn vệ sinh			
+Từ vựng Minna	Bài 19 - 04	Bài 19	せんたくします	洗濯します	TẨY TRẠC	giặt			
+Từ vựng Minna	Bài 19 - 05	Bài 19	れんしゅうします	練習します	LUYỆN TẬP	luyện tập, thực hành			
+Từ vựng Minna	Bài 19 - 06	Bài 19	なります			trở thành, trở nên			
+Từ vựng Minna	Bài 19 - 07	Bài 19	ねむい	眠い	MIÊN	buồn ngủ			
+Từ vựng Minna	Bài 19 - 08	Bài 19	つよい	強い	CƯỜNG	mạnh			
+Từ vựng Minna	Bài 19 - 09	Bài 19	よわい	弱い	NHƯỢC	yếu			
+Từ vựng Minna	Bài 19 - 10	Bài 19	ちょうしが　いい	調子が　いい	ĐIỀU TỬ	trong tình trạng tốt			
+Từ vựng Minna	Bài 19 - 11	Bài 19	ちょうしが　わるい	調子が　わるい	ĐIỀU TỬ	trong tình trạng xấu			
+Từ vựng Minna	Bài 19 - 12	Bài 19	ちょうし	調子	ĐIỀU TỬ	tình trạng, trạng thái			
+Từ vựng Minna	Bài 19 - 13	Bài 19	ゴルフ			gôn (～をします:chơi gôn)			
+Từ vựng Minna	Bài 19 - 14	Bài 19	すもう	相撲	TƯƠNG PHÁC	vật Sumo			
+Từ vựng Minna	Bài 19 - 15	Bài 19	パチンコ			trò chơi Pachinko (～をします: chơi trò chơi Pachinko)			
+Từ vựng Minna	Bài 19 - 16	Bài 19	おちゃ	お茶	TRÀ	trà (nói chung)			
+Từ vựng Minna	Bài 19 - 17	Bài 19	ひ	日	NHẬT	ngày			
+Từ vựng Minna	Bài 19 - 18	Bài 19	いちど	一度	NHẤT ĐỘ	một lần			
+Từ vựng Minna	Bài 19 - 19	Bài 19	いちども	一度も	NHẤT ĐỘ	chưa lần nào			
+Từ vựng Minna	Bài 19 - 20	Bài 19	だんだん			dần dần			
+Từ vựng Minna	Bài 19 - 21	Bài 19	もうすぐ			sắp			
+Từ vựng Minna	Bài 19 - 22	Bài 19	おかげさまで			cám ơn anh/ chị (dùng để bày tỏ sự cám ơn khi nhận được sự giúp đỡ của ai đó)			
+Từ vựng Minna	Bài 19 - 23	Bài 19	かんぱい	乾杯	CAN BỘI	nâng cốc!/cạn chén			
+Từ vựng Minna	Bài 19 - 24	Bài 19	じつは	実は	THỰC	thật ra là/sự tình là			
+Từ vựng Minna	Bài 19 - 25	Bài 19	ダイエット			việc ăn kiêng, chế độ giảm cân (～をします:ăn kiêng)			
+Từ vựng Minna	Bài 19 - 26	Bài 19	なんかいも	何回も	HÀ HỒI	nhiều lần			
+Từ vựng Minna	Bài 19 - 27	Bài 19	しかし			nhưng, tuy nhiên			
+Từ vựng Minna	Bài 19 - 28	Bài 19	むり「な」	無理[な]	VÔ LÝ	không thể, quá sức			
+Từ vựng Minna	Bài 19 - 29	Bài 19	からだにいい	体にいい	THỂ	tốt cho sức khỏe			
+Từ vựng Minna	Bài 19 - 30	Bài 19	ケーキ			bánh ga-tô, bánh ngọt			
+Từ vựng Minna	Bài 19 - 31	Bài 19	かつしかほくさい	葛飾北斎	CÁT SỨC BẮC TRAI	Katsushika Hokusai (1760-1849), một họa sĩ nổi tiếng thời Edo			
+Từ vựng Minna	Bài 20 - 01	Bài 20	[ビザが～]いります	[ビザが～]要ります	YẾU	cần [thị thực (visa)]			
+Từ vựng Minna	Bài 20 - 02	Bài 20	しらべます	調べます	ĐIỀU	tìm hiểu, điều tra, xem			
+Từ vựng Minna	Bài 20 - 03	Bài 20	なおします	直します	TRỰC	sửa, chữa			
+Từ vựng Minna	Bài 20 - 04	Bài 20	しゅうりします	修理します	TU LÝ	sửa chữa, tu sửa			
+Từ vựng Minna	Bài 20 - 05	Bài 20	でんわします	電話します	ĐIỆN THOẠI	gọi điện thoại			
+Từ vựng Minna	Bài 20 - 06	Bài 20	ぼく	僕	BỘC	tớ			
+Từ vựng Minna	Bài 20 - 07	Bài 20	きみ	君	QUÂN	cậu, bạn			
+Từ vựng Minna	Bài 20 - 08	Bài 20	～くん	～君	QUÂN	(hậu tố thêm vào sau tên của em trai)			
+Từ vựng Minna	Bài 20 - 09	Bài 20	うん			ừ (cách nói thân mật của 「はい」)			
+Từ vựng Minna	Bài 20 - 10	Bài 20	ううん			không (cách nói thân mật của 「いいえ」)			
+Từ vựng Minna	Bài 20 - 11	Bài 20	サラリーマン			người làm việc cho các công ty			
+Từ vựng Minna	Bài 20 - 12	Bài 20	ことば			từ, tiếng			
+Từ vựng Minna	Bài 20 - 13	Bài 20	ぶっか	物価	VẬT GIÁ	giá cả, mức giá, vật giá			
+Từ vựng Minna	Bài 20 - 14	Bài 20	きもの	着物	TRƯỚC VẬT	Kimono (trang phục truyền thống của Nhật Bản)			
+Từ vựng Minna	Bài 20 - 15	Bài 20	ビザ			thị thực, Visa			
+Từ vựng Minna	Bài 20 - 16	Bài 20	はじめ	始め	THỦY	ban đầu, đầu tiên			
+Từ vựng Minna	Bài 20 - 17	Bài 20	おわり	終わり	CHUNG	kết thúc			
+Từ vựng Minna	Bài 20 - 18	Bài 20	こっち			phía này, chỗ này (cách nói thân mật của 「こちら」)			
+Từ vựng Minna	Bài 20 - 19	Bài 20	そっち			phía đó, chỗ đó (cách nói thân mật của 「そちら」)			
+Từ vựng Minna	Bài 20 - 20	Bài 20	あっち			phía kia, chỗ kia (cách nói thân mật của 「あちら」)			
+Từ vựng Minna	Bài 20 - 21	Bài 20	どっち			cái nào, phía nào, đâu (cách nói thân mật của 「どちら」)			
+Từ vựng Minna	Bài 20 - 22	Bài 20	このあいだ	この間	GIAN	vừa rồi, hôm nọ			
+Từ vựng Minna	Bài 20 - 23	Bài 20	みんなで			mọi người cùng			
+Từ vựng Minna	Bài 20 - 24	Bài 20	～けど			nhưng (cách nói thân mật của 「が」)			
+Từ vựng Minna	Bài 20 - 25	Bài 20	くにへかえるの？	国へ帰るの？	QUỐC QUY	Anh/chị có về nước không?			
+Từ vựng Minna	Bài 20 - 26	Bài 20	どうするの？			Anh/ chị tính sao? Anh/chị sẽ làm gì?			
+Từ vựng Minna	Bài 20 - 27	Bài 20	どうしようかな。			Tính sao đây nhỉ?/để tôi xem.			
+Từ vựng Minna	Bài 20 - 28	Bài 20	よかったら			Nếu anh/chị thích thì			
+Từ vựng Minna	Bài 20 - 29	Bài 20	いろいろ			nhiều thứ			
+Từ vựng Minna	Bài 21 - 01	Bài 21	おもいます	思います	TƯ	nghĩ			
+Từ vựng Minna	Bài 21 - 02	Bài 21	いいます	言います	NGÔN	nói			
+Từ vựng Minna	Bài 21 - 03	Bài 21	たります	足ります	TÚC	đủ			
+Từ vựng Minna	Bài 21 - 04	Bài 21	かちます	勝ちます	THẮNG	thắng			
+Từ vựng Minna	Bài 21 - 05	Bài 21	まけます	負けます	PHỤ	thua			
+Từ vựng Minna	Bài 21 - 06	Bài 21	[おまつりが～] あります	[お祭りが～]あります	TẾ	được tổ chức, diễn ra, có [lễ hội~]			
+Từ vựng Minna	Bài 21 - 07	Bài 21	やくにたちます	役に立ちます	DỊCH LẬP	giúp ích			
+Từ vựng Minna	Bài 21 - 08	Bài 21	むだ[な]			lãng phí, vô ích			
+Từ vựng Minna	Bài 21 - 09	Bài 21	ふべん[な]	不便[な]	BẤT TIỆN	bất tiện			
+Từ vựng Minna	Bài 21 - 10	Bài 21	おなじ			giống			
+Từ vựng Minna	Bài 21 - 11	Bài 21	すごい			ghê quá, giỏi quá			
+Từ vựng Minna	Bài 21 - 12	Bài 21	しゅしょう	首相	THỦ TƯỚNG	thủ tướng			
+Từ vựng Minna	Bài 21 - 13	Bài 21	だいとうりょう	大統領	ĐẠI THỐNG LÃNH	tổng thống			
+Từ vựng Minna	Bài 21 - 14	Bài 21	せいじ	政治	CHÍNH TRỊ	chính trị			
+Từ vựng Minna	Bài 21 - 15	Bài 21	ニュース			tin tức, bản tin			
+Từ vựng Minna	Bài 21 - 16	Bài 21	スピーチ			bài diễn thuyết, bài phát biểu (～をします: diễn thuyết)			
+Từ vựng Minna	Bài 21 - 17	Bài 21	しあい	試合	THÍ HỢP	trận đấu			
+Từ vựng Minna	Bài 21 - 18	Bài 21	アルバイト			công việc làm thêm (～をします: làm thêm)			
+Từ vựng Minna	Bài 21 - 19	Bài 21	いけん	意見	Ý KIẾN	ý kiến			
+Từ vựng Minna	Bài 21 - 20	Bài 21	[お]はなし	[お]話	THOẠI	I câu chuyện, bài nói chuyện (～をします: Nói chuyện)			
+Từ vựng Minna	Bài 21 - 21	Bài 21	ユーモア			hài hước			
+Từ vựng Minna	Bài 21 - 22	Bài 21	むだ			sự lãng phí			
+Từ vựng Minna	Bài 21 - 23	Bài 21	デザイン			thiết kế			
+Từ vựng Minna	Bài 21 - 24	Bài 21	こうつう	交通	GIAO THÔNG	giao thông, đi lại			
+Từ vựng Minna	Bài 21 - 25	Bài 21	ラッシュ			giờ cao điểm			
+Từ vựng Minna	Bài 21 - 26	Bài 21	さいきん	最近	TỐI CẬN	gần đây			
+Từ vựng Minna	Bài 21 - 27	Bài 21	たぶん			chắc, có thể			
+Từ vựng Minna	Bài 21 - 28	Bài 21	きっと			chắc chắn, nhất định			
+Từ vựng Minna	Bài 21 - 29	Bài 21	ほんとうに			thật sự			
+Từ vựng Minna	Bài 21 - 30	Bài 21	そんなに			(không)~ lắm			
+Từ vựng Minna	Bài 21 - 31	Bài 21	～について			về~			
+Từ vựng Minna	Bài 21 - 32	Bài 21	しかたが　ありません。			Không có cách nào khác./đành chịu vậy/ Chuyện đã rồi.			
+Từ vựng Minna	Bài 21 - 33	Bài 21	しばらくですね。			Lâu không gặp nhỉ.			
+Từ vựng Minna	Bài 21 - 34	Bài 21	～でものみませんか。	～でも飲みませんか。	ẤM	Anh/chị uống~ (cà-phê, rựu hay cái gì đó) nhé.			
+Từ vựng Minna	Bài 21 - 35	Bài 21	みないと…。	見ないと…。	KIẾN	Tôi phải xem			
+Từ vựng Minna	Bài 21 - 36	Bài 21	もちろん			tất nhiên			
+Từ vựng Minna	Bài 21 - 37	Bài 21	カンガルー			con kăng-gu-ru, chuột túi			
+Từ vựng Minna	Bài 21 - 38	Bài 21	キャプテン・クック			thuyền trưởng Cook (James Cook 1728 – 79)			
+Từ vựng Minna	Bài 22 - 01	Bài 22	[シャツを～]きます	[シャツを～]着ます	TRƯỚC	mặc [áo sơ mi, v.v.]			
+Từ vựng Minna	Bài 22 - 02	Bài 22	[くつを～] はきます	[靴を～]	NGOA	đi, mặc [giầy, quần âu, v.v.]			
+Từ vựng Minna	Bài 22 - 03	Bài 22	[ぼうしを～]かぶります	[帽子を～]	MẠO TỬ	đội [mũ, v.v.]			
+Từ vựng Minna	Bài 22 - 04	Bài 22	[めがねを～]かけます	[眼鏡を～]	NHÃN KÍNH	đeo [kính]			
+Từ vựng Minna	Bài 22 - 05	Bài 22	うまれます	生まれます	SINH	sinh ra			
+Từ vựng Minna	Bài 22 - 06	Bài 22	コート			áo khoác			
+Từ vựng Minna	Bài 22 - 07	Bài 22	スーツ			com-lê			
+Từ vựng Minna	Bài 22 - 08	Bài 22	セーター			áo len			
+Từ vựng Minna	Bài 22 - 09	Bài 22	ぼうし	帽子	MẠO TỬ	mũ			
+Từ vựng Minna	Bài 22 - 10	Bài 22	めがね	眼鏡	NHÃN KÍNH	kính			
+Từ vựng Minna	Bài 22 - 11	Bài 22	よく			tốt, rõ (chỉ mức độ)			
+Từ vựng Minna	Bài 22 - 12	Bài 22	おめでとう　ございます。			Chúc mừng.			
+Từ vựng Minna	Bài 22 - 13	Bài 22	こちら			phía này, đằng này, chỗ này, đây			
+Từ vựng Minna	Bài 22 - 14	Bài 22	やちん	家賃	GIA NHẪM	tiền thuê nhà			
+Từ vựng Minna	Bài 22 - 15	Bài 22	うーん。			ừ~./ Để tôi xem./ Thế nào nhỉ.			
+Từ vựng Minna	Bài 22 - 16	Bài 22	ダイニングキチン			bếp kèm phòng ăn			
+Từ vựng Minna	Bài 22 - 17	Bài 22	わしつ	和室	HÒA THẤT	phòng kiểu Nhật			
+Từ vựng Minna	Bài 22 - 18	Bài 22	おしいれ	押入れ	ÁP NHẬP	Chổ để chăn gối trong một căn phòng kiểu Nhật			
+Từ vựng Minna	Bài 22 - 19	Bài 22	ふとん	布団	BỐ ĐOÀN	chăn, đệm			
+Từ vựng Minna	Bài 22 - 20	Bài 22	アパート			nhà chung cư			
+Từ vựng Minna	Bài 22 - 21	Bài 22	パリ			Pari			
+Từ vựng Minna	Bài 22 - 22	Bài 22	ばんりのちょうじょう	万里の長城	VẠN LÝ TRƯỜNG THÀNH	Vạn Lý Trường Thành			
+Từ vựng Minna	Bài 22 - 23	Bài 22	よかかいはつセンター	余暇開発センター	DƯ HẠ KHAI PHÁT	Trung tâm phát triển hoạt động giải trí cho người dân			
+Từ vựng Minna	Bài 22 - 24	Bài 22	レジャーはくしょ	レジャー白書	BẠCH THƯ	sách trắng về sử dụng thời gian rảnh rỗi			
+Từ vựng Minna	Bài 23 - 01	Bài 23	[せんせいに～]ききます	[先生に～]聞きます	TIÊN SINH VĂN	hỏi [giáo viên]			
+Từ vựng Minna	Bài 23 - 02	Bài 23	まわします	回します	HỒI	vặn (núm)			
+Từ vựng Minna	Bài 23 - 03	Bài 23	ひきます	引きます	DẪN	chơi (nhạc cụ)			
+Từ vựng Minna	Bài 23 - 04	Bài 23	かえます	変えます	BIẾN	đổi			
+Từ vựng Minna	Bài 23 - 05	Bài 23	[ドアに～]さわります	触ります	XÚC	sờ, chạm vào [cửa]			
+Từ vựng Minna	Bài 23 - 06	Bài 23	[おつりが～]でます	[お釣りが～]出ます	ĐIẾU XUẤT	ra, đi ra [tiền thừa ~]			
+Từ vựng Minna	Bài 23 - 07	Bài 23	[とけいが～] うごきます	[時計が～]動きます	THỜI KẾ ĐỘNG	chuyển động, chạy [đồng hồ ~]			
+Từ vựng Minna	Bài 23 - 08	Bài 23	[みちを～]あるきます	[道を～]歩きます	ĐẠO BỘ	đi bộ [trên đường]			
+Từ vựng Minna	Bài 23 - 09	Bài 23	[はしを～]わたります	[橋を～]渡ります	KIỀU ĐỘ	qua, đi qua [cầu]			
+Từ vựng Minna	Bài 23 - 10	Bài 23	[くるまに～]きを　つけます	[車に～]気をつけます	XA KHÍ	chú ý, cẩn thận [với ô-tô]			
+Từ vựng Minna	Bài 23 - 11	Bài 23	ひっこしします	引っ越しします	DẪN VIỆT	chuyển nhà			
+Từ vựng Minna	Bài 23 - 12	Bài 23	でんきや	電気屋	ĐIỆN KHÍ ỐC	cửa hàng đồ điện			
+Từ vựng Minna	Bài 23 - 13	Bài 23	～や	～屋	ỐC	cửa hàng ~			
+Từ vựng Minna	Bài 23 - 14	Bài 23	サイズ			cỡ, kích thước			
+Từ vựng Minna	Bài 23 - 15	Bài 23	おと	音	ÂM	âm thanh			
+Từ vựng Minna	Bài 23 - 16	Bài 23	きかい	機械	CƠ GIỚI	máy, máy móc			
+Từ vựng Minna	Bài 23 - 17	Bài 23	つまみ			núm vặn			
+Từ vựng Minna	Bài 23 - 18	Bài 23	こしょう	故障	CỐ CHƯỚNG	hỏng (~します：bị hỏng)			
+Từ vựng Minna	Bài 23 - 19	Bài 23	みち	道	ĐẠO	đường			
+Từ vựng Minna	Bài 23 - 20	Bài 23	こうさてん	交差点	GIAO SAI ĐIỂM	ngã tư			
+Từ vựng Minna	Bài 23 - 21	Bài 23	しんごう	信号	TÍN HIỆU	đèn tín hiệu			
+Từ vựng Minna	Bài 23 - 22	Bài 23	かど	角	GIÁC	góc			
+Từ vựng Minna	Bài 23 - 23	Bài 23	はし	橋	KIỀU	đũa			
+Từ vựng Minna	Bài 23 - 24	Bài 23	ちゅうしゃじょう	駐車場	TRÚ XA TRƯỜNG	bãi đỗ xe			
+Từ vựng Minna	Bài 23 - 25	Bài 23	―め	―目	MỤC	thứ - , số - (biểu thị thứ tự)			
+Từ vựng Minna	Bài 23 - 26	Bài 23	[お]しょうがつ	[お]正月	CHÍNH NGUYỆT	Tết (Dương lịch)			
+Từ vựng Minna	Bài 23 - 27	Bài 23	ごちそうさま[でした]。			Xin cám ơn anh/chị đã đãi tôi bữa cơm.			
+Từ vựng Minna	Bài 23 - 28	Bài 23	たてもの	建物	KIẾN VẬT	tòa nhà			
+Từ vựng Minna	Bài 23 - 29	Bài 23	がいこくじんとうろくしょう	外国人登録証	NGOẠI QUỐC NHÂN	thẻ đăng ký người nước ngoài,			
+Từ vựng Minna	Bài 23 - 30	Bài 23	しょうとくたいし	聖徳太子	THÁNH ĐỨC THÁI TỬ	Thái tử Shotoku (574 – 622)			
+Từ vựng Minna	Bài 23 - 31	Bài 23	ほうりゅうじ	法隆寺	PHÁP LONG TỰ	Chùa Horyu-ji			
+Từ vựng Minna	Bài 23 - 32	Bài 23	げんきちゃ	元気茶	NGUYÊN KHÍ TRÀ	tên một loại trà (giả tưởng)			
+Từ vựng Minna	Bài 23 - 33	Bài 23	ほんだえき	本田駅	BẢN ĐIỀN DỊCH	tên một nhà ga (giả tưởng)			
+Từ vựng Minna	Bài 23 - 34	Bài 23	としょかんまえ	図書館前	ĐỒ THƯ QUÁN TIỀN	tên một bến xe buýt (giả tưởng			
+Từ vựng Minna	Bài 24 - 01	Bài 24	くれます			cho, tặng (tôi)			
+Từ vựng Minna	Bài 24 - 02	Bài 24	つれていきます	連れて行きます	LIÊN HÀNH	dẫn đi			
+Từ vựng Minna	Bài 24 - 03	Bài 24	つれてきます	連れて来ます	LIÊN LAI	dẫn đến			
+Từ vựng Minna	Bài 24 - 04	Bài 24	[ひとを～]おくります	[人を～]送ります	NHÂN TỐNG	đưa đi, đưa đến, tiễn [một ai đó]			
+Từ vựng Minna	Bài 24 - 05	Bài 24	しょうかいします	紹介します	THIỆU GIỚI	giới thiệu			
+Từ vựng Minna	Bài 24 - 06	Bài 24	あんないします	案内します	ÁN NỘI	hướng dẫn, giới thiệu, dẫn đường			
+Từ vựng Minna	Bài 24 - 07	Bài 24	せつめいします	説明します	THUYẾT MINH	giải thích, trình bày			
+Từ vựng Minna	Bài 24 - 08	Bài 24	[コーヒーを～]いれます			pha [cà-phê]			
+Từ vựng Minna	Bài 24 - 09	Bài 24	おじいさん／おじいちゃん			ông nội, ông ngoại, ông			
+Từ vựng Minna	Bài 24 - 10	Bài 24	おばあさん／おばあちゃん			bà nội, bà ngoại, bà			
+Từ vựng Minna	Bài 24 - 11	Bài 24	じゅんび	準備	CHUẨN BỊ	chuẩn bị [～します:chuẩn bị]			
+Từ vựng Minna	Bài 24 - 12	Bài 24	いみ	意味	Ý VỊ	ý nghĩa			
+Từ vựng Minna	Bài 24 - 13	Bài 24	[お]かし	[お]菓子	QUẢ TỬ	bánh kẹo			
+Từ vựng Minna	Bài 24 - 14	Bài 24	ぜんぶ	全部	TOÀN BỘ	toàn bộ, tất cả			
+Từ vựng Minna	Bài 24 - 15	Bài 24	じぶんで	自分で	TỰ PHÂN	tự (mình)			
+Từ vựng Minna	Bài 24 - 16	Bài 24	ほかに			ngoài ra, bên cạnh đó			
+Từ vựng Minna	Bài 24 - 17	Bài 24	ワゴンしゃ	ワゴン車	XA	xe ô-tô kiểu Wagon (có thùng đóng kín)			
+Từ vựng Minna	Bài 24 - 18	Bài 24	「お」べんとう	[お]弁当	BIỆN ĐƯƠNG	cơm hộp			
+Từ vựng Minna	Bài 24 - 19	Bài 24	ははのひ	母の日	MẪU NHẬT	ngày Mẹ			
+Từ vựng Minna	Bài 25 - 01	Bài 25	かんがえます	考えます	KHẢO	nghĩ, suy nghĩ			
+Từ vựng Minna	Bài 25 - 02	Bài 25	[えきに～] つきます	[駅に～]着きます	DỊCH TRƯỚC	đến [ga]			
+Từ vựng Minna	Bài 25 - 03	Bài 25	りゅうがくします	留学します	LƯU HỌC	du học			
+Từ vựng Minna	Bài 25 - 04	Bài 25	[としを～]とります	[年を～]取ります	NIÊN THỦ	thêm [tuổi]			
+Từ vựng Minna	Bài 25 - 05	Bài 25	いなか	田舎	ĐIỀN XÁ	quê, nông thôn			
+Từ vựng Minna	Bài 25 - 06	Bài 25	たいしかん	大使館	ĐẠI SỨ QUÁN	đại sứ quán			
+Từ vựng Minna	Bài 25 - 07	Bài 25	グループ			nhóm, đoàn			
+Từ vựng Minna	Bài 25 - 08	Bài 25	チャンス			cơ hội			
+Từ vựng Minna	Bài 25 - 09	Bài 25	おく	億	ỨC	bên trong cùng, phía sâu bên trong			
+Từ vựng Minna	Bài 25 - 10	Bài 25	もし[～たら]			nếu [~ thì]			
+Từ vựng Minna	Bài 25 - 11	Bài 25	いくら[～ても]			cho dù, thế nào [~ đi nữa]			
+Từ vựng Minna	Bài 25 - 12	Bài 25	てんきん	転勤	CHUYỂN CẦN	việc chuyển địa điểm làm việc			
+Từ vựng Minna	Bài 25 - 13	Bài 25	こと			việc (~の　こと: việc ~)			
+Từ vựng Minna	Bài 25 - 14	Bài 25	いっぱいのみましょう	一杯飲みましょう。	NHẤT BÔI ẨM	Chúng ta cùng uống nhé.			
+Từ vựng Minna	Bài 25 - 15	Bài 25	「いろいろおせわになりました	[いろいろ]お世話になりました。	THẾ THOẠI	Anh/chị đã giúp tôi (nhiều).			
+Từ vựng Minna	Bài 25 - 16	Bài 25	がんばります	頑張ります	NGOAN TRƯƠNG	cố, cố gắng			
+Từ vựng Minna	Bài 25 - 17	Bài 25	どうぞおげんきで	どうぞお元気で。	NGUYÊN KHÍ	Chúc anh/chị mạnh khỏe.			
+Từ vựng Minna	Bài 26 - 01	Bài 26	みます	見ます, 診ます	KIẾN, CHẨN	xem, khám bệnh			
+Từ vựng Minna	Bài 26 - 02	Bài 26	さがします	探します,捜します	THÁM、SƯU	tìm, tìm kiếm			
+Từ vựng Minna	Bài 26 - 03	Bài 26	[じかんに～] おくれます	[時間に～]遅れます	THỜI GIAN TRÌ	chậm, muộn [cuộc hẹn,v.v.]			
+Từ vựng Minna	Bài 26 - 04	Bài 26	やります			làm			
+Từ vựng Minna	Bài 26 - 05	Bài 26	[パーティーに～]さんかします	[パーティーに～]参加します	THAM GIA	tham gia, dự [buổi tiệc]			
+Từ vựng Minna	Bài 26 - 06	Bài 26	もうしこみます	申し込みます	THÂN VÀO	đăng ký			
+Từ vựng Minna	Bài 26 - 07	Bài 26	つごうが　いい	都合が　いい	ĐÔ HỢP	có thời gian, thuận tiện			
+Từ vựng Minna	Bài 26 - 08	Bài 26	つごうが　わるい	都合が　悪い	ĐÔ HỢP ÁC	không có thời gian, bận, không thuận tiện			
+Từ vựng Minna	Bài 26 - 09	Bài 26	きぶんがいい	気分がいい	KHÍ PHÂN	cảm thấy tốt, cảm thấy khỏe			
+Từ vựng Minna	Bài 26 - 10	Bài 26	きぶんがわるい	気分が悪い	KHÍ PHÂN ÁC	cảm thấy không tốt, cảm thấy mệt			
+Từ vựng Minna	Bài 26 - 11	Bài 26	しんぶんしゃ	新聞社	TÂN VĂN XÃ	công ty phát hành báo, tòa soạn báo			
+Từ vựng Minna	Bài 26 - 12	Bài 26	じゅうどう	柔道	NHU ĐẠO	Judo (nhu đạo)			
+Từ vựng Minna	Bài 26 - 13	Bài 26	うんどうかい	運動会	VẬN ĐỘNG HỘI	hội thi thể thao			
+Từ vựng Minna	Bài 26 - 14	Bài 26	ばしょ	場所	TRƯỜNG SỞ	địa điểm			
+Từ vựng Minna	Bài 26 - 15	Bài 26	ボランティア			tình nguyện viên			
+Từ vựng Minna	Bài 26 - 16	Bài 26	～べん	～弁	BIỆN	tiếng ~, giọng ~			
+Từ vựng Minna	Bài 26 - 17	Bài 26	こんど	今度	KIM ĐỘ	lần tới			
+Từ vựng Minna	Bài 26 - 18	Bài 26	ずいぶん			khá, tương đối			
+Từ vựng Minna	Bài 26 - 19	Bài 26	ちょくせつ	直接	TRỰC TIẾP	trực tiếp			
+Từ vựng Minna	Bài 26 - 20	Bài 26	いつでも			lúc nào cũng			
+Từ vựng Minna	Bài 26 - 21	Bài 26	どこでも			ở đâu cũng			
+Từ vựng Minna	Bài 26 - 22	Bài 26	だれでも			ai cũng			
+Từ vựng Minna	Bài 26 - 23	Bài 26	なんでも	何でも	HÀ	cái gì cũng			
+Từ vựng Minna	Bài 26 - 24	Bài 26	こんな～			~ như thế này			
+Từ vựng Minna	Bài 26 - 25	Bài 26	そんな～			~ như thế đó (gần người nghe)			
+Từ vựng Minna	Bài 26 - 26	Bài 26	あんな～			~ như thế kia (xa cả người nói và người nghe)			
+Từ vựng Minna	Bài 26 - 27	Bài 26	ＮＨＫ			Nippon Hoso Kyokai (hãng phát thanh truyền hình)			
+Từ vựng Minna	Bài 26 - 28	Bài 26	こどものひ	こどもの日	NHẬT	ngày trẻ em			
+Từ vựng Minna	Bài 26 - 29	Bài 26	エドヤストア			tên một cửa hàng (giả tưởng)			
+Từ vựng Minna	Bài 26 - 30	Bài 26	[にもつが～] かたづきます	[荷物が～] 片付きます	HÀ VẬT PHIẾN PHÓ	được dọn dẹp ngăn nắp, gọn gàng [đồ đạc ~]			
+Từ vựng Minna	Bài 26 - 31	Bài 26	ごみ			rác			
+Từ vựng Minna	Bài 26 - 32	Bài 26	だします	[ごみを～] 出します	XUẤT	đổ, để [rác]			
+Từ vựng Minna	Bài 26 - 33	Bài 26	もえます	[ごみが～] 燃えます	NHIÊN	cháy được [rác ~]			
+Từ vựng Minna	Bài 26 - 34	Bài 26	げっ・すい・きん	月・水・金	NGUYỆT THỦY KIM	thứ hai, thứ tư, thứ sáu			
+Từ vựng Minna	Bài 26 - 35	Bài 26	おきば	置き場	TRÍ TRƯỜNG	nơi để			
+Từ vựng Minna	Bài 26 - 36	Bài 26	よこ	横	HOÀNH	bên cạnh			
+Từ vựng Minna	Bài 26 - 37	Bài 26	びん	瓶	BÌNH	cái chai			
+Từ vựng Minna	Bài 26 - 38	Bài 26	かん	缶	PHẪU	cái lon, hộp kim loại			
+Từ vựng Minna	Bài 26 - 39	Bài 26	「お」ゆ	[お]湯	THANG	nước nóng			
+Từ vựng Minna	Bài 26 - 40	Bài 26	ガス			ga			
+Từ vựng Minna	Bài 26 - 41	Bài 26	～がいしゃ	～会社	HỘI XÃ	công ty ~			
+Từ vựng Minna	Bài 26 - 42	Bài 26	れんらくします	連絡します	LIÊN LẠC	liên lạc			
+Từ vựng Minna	Bài 26 - 43	Bài 26	こまったなあ。	困ったなあ。	KHỐN	Làm thế nào đây!/ căng quá nhỉ!/ gay quá!			
+Từ vựng Minna	Bài 26 - 44	Bài 26	でんしメール	電子メール	ĐIỆN TỬ	thư điện tử, e-mail			
+Từ vựng Minna	Bài 26 - 45	Bài 26	うちゅう	宇宙	VŨ TRỤ	vũ trụ			
+Từ vựng Minna	Bài 26 - 46	Bài 26	こわい	怖い	BỐ	sợ			
+Từ vựng Minna	Bài 26 - 47	Bài 26	うちゅうせん	宇宙船	VŨ TRỤ THUYỀN	tàu vũ trụ			
+Từ vựng Minna	Bài 26 - 48	Bài 26	べつの	別の	BIỆT	khác			
+Từ vựng Minna	Bài 26 - 49	Bài 26	うちゅうひこうし	宇宙飛行士	VŨ TRỤ PHI HÀNH SĨ	nhà du hành vũ trụ			
+Từ vựng Minna	Bài 26 - 50	Bài 26	どいたかお	土井隆雄	THỔ TỈNH LONG HÙNG	nhà du hành vũ trụ người Nhật (1954- )			
+Từ vựng Minna	Bài 27 - 01	Bài 27	かいます	飼います	TỰ	nuôi (động vật)			
+Từ vựng Minna	Bài 27 - 02	Bài 27	たてます	建てます	KIẾN	xây, xây dựng			
+Từ vựng Minna	Bài 27 - 03	Bài 27	[みちを～]はしります	[道を～]走ります	ĐẠO TẨU	chạy [trên đường]			
+Từ vựng Minna	Bài 27 - 04	Bài 27	[やすみを～]とります	[休みを～]取ります	HƯU THỦ	xin [nghỉ]			
+Từ vựng Minna	Bài 27 - 05	Bài 27	[やまが～] みえます	[山が～]見えます	SƠN/SAN KIẾN	nhìn thấy, có thể nhìn thấy [núi]			
+Từ vựng Minna	Bài 27 - 06	Bài 27	[おとが～]きこえます	[音が～]聞こえます	ÂM VĂN	nghe thấy, có thể nghe thấy [âm thanh]			
+Từ vựng Minna	Bài 27 - 07	Bài 27	[くうこうが～]できます	[空港が～]	KHÔNG CẢNG	được xây dựng lên, hoàn thành [sân bay]			
+Từ vựng Minna	Bài 27 - 08	Bài 27	[きょうしつを～]ひらきます	[教室を～]開きます	GIÁO THẤT KHAI	mở [lớp học]			
+Từ vựng Minna	Bài 27 - 09	Bài 27	ペット			động vật cảnh (pet)			
+Từ vựng Minna	Bài 27 - 10	Bài 27	とり	鳥	ĐIẾU	chim			
+Từ vựng Minna	Bài 27 - 11	Bài 27	こえ	声	THANH	tiếng nói, giọng nói			
+Từ vựng Minna	Bài 27 - 12	Bài 27	なみ	波	BA	sóng			
+Từ vựng Minna	Bài 27 - 13	Bài 27	はなび	花火	HOA HỎA	pháo hoa			
+Từ vựng Minna	Bài 27 - 14	Bài 27	けしき	景色	CẢNH SẮC	phong cảnh			
+Từ vựng Minna	Bài 27 - 15	Bài 27	ひるま	昼間	TRÚ GIAN	thời gian ban ngày			
+Từ vựng Minna	Bài 27 - 16	Bài 27	むかし	昔	TÍCH	ngày xưa, trước đây			
+Từ vựng Minna	Bài 27 - 17	Bài 27	どうぐ	道具	ĐẠO CỤ	dụng cụ, công cụ			
+Từ vựng Minna	Bài 27 - 18	Bài 27	じどうはんばいき	自動販売機	TỰ ĐỘNG PHIẾN MẠI CƠ	máy bán tự động			
+Từ vựng Minna	Bài 27 - 19	Bài 27	つうしんはんばい	通信販売	THÔNG TÍN PHIẾN MẠI	thương mại viễn thông (mua bán hàng qua các phương tiện truyền thông)			
+Từ vựng Minna	Bài 27 - 20	Bài 27	クリーニング			giặt ủi			
+Từ vựng Minna	Bài 27 - 21	Bài 27	マンション			nhà chung cư			
+Từ vựng Minna	Bài 27 - 22	Bài 27	だいどころ	台所	ĐÀI SỞ	bếp			
+Từ vựng Minna	Bài 27 - 23	Bài 27	～きょうしつ	～教室	GIÁO THẤT	lớp học ~			
+Từ vựng Minna	Bài 27 - 24	Bài 27	パーティールーム			phòng tiệc			
+Từ vựng Minna	Bài 27 - 25	Bài 27	～ご	～後	HẬU	~ sau (khoảng thời gian)			
+Từ vựng Minna	Bài 27 - 26	Bài 27	～しか			chỉ ~ (dùng với thể phủ định)			
+Từ vựng Minna	Bài 27 - 27	Bài 27	ほかの			khác			
+Từ vựng Minna	Bài 27 - 28	Bài 27	はっきり			rõ, rõ ràng			
+Từ vựng Minna	Bài 27 - 29	Bài 27	ほとんど			hầu hết, hầu như			
+Từ vựng Minna	Bài 27 - 30	Bài 27	かんさいくうこう	関西空港	QUAN TÂY KHÔNG CẢNG	sân bay (quốc tế) Kansai			
+Từ vựng Minna	Bài 27 - 31	Bài 27	あきはばら	秋葉原	THU DIỆP NGUYÊN	tên một khu phố bán đồ điện tử nổi tiếng ở Tokyo			
+Từ vựng Minna	Bài 27 - 32	Bài 27	いず	伊豆	Y ĐẬU	một bán đảo thuộc tỉnh Shizuoka			
+Từ vựng Minna	Bài 27 - 33	Bài 27	にちようだいく	日曜大工	NHẬT DIỆU ĐẠI CÔNG	làm thợ mộc chủ nhật			
+Từ vựng Minna	Bài 27 - 34	Bài 27	ほんだな	本棚	BỔN BẰNG	giá sách			
+Từ vựng Minna	Bài 27 - 35	Bài 27	ゆめ	夢	MỘNG	giấc mơ, ước mơ (~　をします：mơ, mơ ước)			
+Từ vựng Minna	Bài 27 - 36	Bài 27	いつか			một ngày nào đó, một lúc nào đó			
+Từ vựng Minna	Bài 27 - 37	Bài 27	いえ	家	GIA	nhà			
+Từ vựng Minna	Bài 27 - 38	Bài 27	すばらしい			tuyệt vời			
+Từ vựng Minna	Bài 27 - 39	Bài 27	こどもたち	子どもたち	TỬ/TÝ	trẻ em, trẻ con, con cái			
+Từ vựng Minna	Bài 27 - 40	Bài 27	だいすき「な」	大好き[な]	ĐẠI HẢO	rất thích			
+Từ vựng Minna	Bài 27 - 41	Bài 27	まんが	漫画	MẠN HỌA	truyện tranh			
+Từ vựng Minna	Bài 27 - 42	Bài 27	しゅじんこう	主人公	CHỦ NHÂN CÔNG	nhân vật chính			
+Từ vựng Minna	Bài 27 - 43	Bài 27	かたち	形	HÌNH	hình, dạng			
+Từ vựng Minna	Bài 27 - 44	Bài 27	ロボット			người máy, Rô-bốt			
+Từ vựng Minna	Bài 27 - 45	Bài 27	ふしぎ「な」	不思議[な]	BẤT TƯ NGHỊ	bí ẩn, kỳ thú			
+Từ vựng Minna	Bài 27 - 46	Bài 27	ポケット			túi áo, túi quần (Pocket)			
+Từ vựng Minna	Bài 27 - 47	Bài 27	たとえば	例えば	LỆ	ví dụ (như)			
+Từ vựng Minna	Bài 27 - 48	Bài 27	つけます	付けます	PHÓ	lắp, ghép thêm			
+Từ vựng Minna	Bài 27 - 49	Bài 27	じゆうに	自由に	TỰ DO	tự do, tùy thích			
+Từ vựng Minna	Bài 27 - 50	Bài 27	そら	空	KHÔNG	bầu trời			
+Từ vựng Minna	Bài 27 - 51	Bài 27	とびます	飛びます	PHI	bay			
+Từ vựng Minna	Bài 27 - 52	Bài 27	じぶん	自分	TỰ PHÂN	bản thân, mình			
+Từ vựng Minna	Bài 27 - 53	Bài 27	しょうらい	将来	TƯƠNG LAI	tương lai			
+Từ vựng Minna	Bài 27 - 54	Bài 27	ドラえもん			tên một nhân vật trong phim hoạt hình (Doremon)			
+Từ vựng Minna	Bài 28 - 01	Bài 28	[パンが～] うれます	[パンが～] 売れます	MẠI	bán chạy, được bán [bánh mì ~]			
+Từ vựng Minna	Bài 28 - 02	Bài 28	おどります	踊ります	DŨNG	nhảy, khiêu vũ			
+Từ vựng Minna	Bài 28 - 03	Bài 28	かみます			nhai			
+Từ vựng Minna	Bài 28 - 04	Bài 28	えらびます	選びます	TUYỂN	chọn			
+Từ vựng Minna	Bài 28 - 05	Bài 28	ちがいます	違います	VI	khác			
+Từ vựng Minna	Bài 28 - 06	Bài 28	[だいがくに～] かよいます	[大学に～]通います	ĐẠI HỌC THÔNG	đi đi về về [trường đại học]			
+Từ vựng Minna	Bài 28 - 07	Bài 28	メモします			ghi chép			
+Từ vựng Minna	Bài 28 - 08	Bài 28	まじめ[な]			nghiêm túc, nghiêm chỉnh			
+Từ vựng Minna	Bài 28 - 09	Bài 28	ねっしん[な]	熱心[な]	NHIỆT TÂM	nhiệt tâm, nhiệt tình, hết lòng			
+Từ vựng Minna	Bài 28 - 10	Bài 28	やさしい	優しい	ƯU	tình cảm, hiền lành			
+Từ vựng Minna	Bài 28 - 11	Bài 28	えらい	偉い	VĨ	vĩ đại, đáng kính, đáng khâm phục			
+Từ vựng Minna	Bài 28 - 12	Bài 28	ちょうどいい			vừa đủ, vừa đúng			
+Từ vựng Minna	Bài 28 - 13	Bài 28	しゅうかん	習慣	TẬP QUÁN	tập quán			
+Từ vựng Minna	Bài 28 - 14	Bài 28	けいけん	経験	KINH NGHIỆM	kinh nghiệm			
+Từ vựng Minna	Bài 28 - 15	Bài 28	ちから	力	LỰC	sức lực, năng lực			
+Từ vựng Minna	Bài 28 - 16	Bài 28	[がくせいに]にんきがあります	[がくせいに]人気があります	NHÂN KHÍ	sự hâm mộ, được [sinh viên] hâm mộ			
+Từ vựng Minna	Bài 28 - 17	Bài 28	かたち	形	HÌNH	hình, hình dáng			
+Từ vựng Minna	Bài 28 - 18	Bài 28	いろ	色	SẮC	màu			
+Từ vựng Minna	Bài 28 - 19	Bài 28	あじ	味	VỊ	vị			
+Từ vựng Minna	Bài 28 - 20	Bài 28	ガム			kẹo cao su			
+Từ vựng Minna	Bài 28 - 21	Bài 28	しなもの	品物	PHẨM VẬT	hàng hóa, mặt hàng			
+Từ vựng Minna	Bài 28 - 22	Bài 28	ねだん	値段	TRỊ ĐOẠN	giá			
+Từ vựng Minna	Bài 28 - 23	Bài 28	きゅうりょう	給料	CẤP LIỆU	lương			
+Từ vựng Minna	Bài 28 - 24	Bài 28	ボーナス			thưởng			
+Từ vựng Minna	Bài 28 - 25	Bài 28	ばんぐみ	番組	PHIÊN TỔ	chương trình (phát thanh, truyền hình)			
+Từ vựng Minna	Bài 28 - 26	Bài 28	ドラマ			kịch, phim truyền hình			
+Từ vựng Minna	Bài 28 - 27	Bài 28	しょうせつ	小説	TIỂU THUYẾT	tiểu thuyết			
+Từ vựng Minna	Bài 28 - 28	Bài 28	しょうせつか	小説家	TIỂU THUYẾT GIA	tiểu thuyết gia, nhà văn			
+Từ vựng Minna	Bài 28 - 29	Bài 28	かしゅ	歌手	CA THỦ	ca sĩ			
+Từ vựng Minna	Bài 28 - 30	Bài 28	かんりにん	管理人	QUẢN LÝ NHÂN	người quản lý			
+Từ vựng Minna	Bài 28 - 31	Bài 28	むすこ	息子	TỨC TỬ	con trai (dùng cho mình)			
+Từ vựng Minna	Bài 28 - 32	Bài 28	むすこさん	息子さん	TỨC TỬ	con trai (dùng cho người khác)			
+Từ vựng Minna	Bài 28 - 33	Bài 28	むすめ	娘	NƯƠNG	con gái (dùng cho mình)			
+Từ vựng Minna	Bài 28 - 34	Bài 28	むすめさん	娘さん	NƯƠNG	con gái (dùng cho người khác)			
+Từ vựng Minna	Bài 28 - 35	Bài 28	じぶん	自分	TỰ PHÂN	bản thân, mình			
+Từ vựng Minna	Bài 28 - 36	Bài 28	しょうらい	将来	TƯƠNG LAI	tương lai			
+Từ vựng Minna	Bài 28 - 37	Bài 28	しばらく			một khoảng thời gian ngắn, một lúc, một lát			
+Từ vựng Minna	Bài 28 - 38	Bài 28	たいてい			thường, thông thường			
+Từ vựng Minna	Bài 28 - 39	Bài 28	それに			thêm nữa là, thêm vào đó là			
+Từ vựng Minna	Bài 28 - 40	Bài 28	それで			thế thì, thế nên			
+Từ vựng Minna	Bài 28 - 41	Bài 28	[ちょっと]おねがいがあるんですが。	[ちょっと]お願いがあるんですが。	NGUYỆN	Tôi có (chút) việc muốn nhờ anh/ chị.			
+Từ vựng Minna	Bài 28 - 42	Bài 28	ホームステイ			homestay			
+Từ vựng Minna	Bài 28 - 43	Bài 28	おしゃべりします			nói chuyện, tán chuyện			
+Từ vựng Minna	Bài 28 - 44	Bài 28	おしらせ	お知らせ	TRI	thông báo			
+Từ vựng Minna	Bài 28 - 45	Bài 28	ひにち	日にち	NHẬT	ngày			
+Từ vựng Minna	Bài 28 - 46	Bài 28	ど	土	THỔ	thứ bảy			
+Từ vựng Minna	Bài 28 - 47	Bài 28	たいいくかん	体育館	THỂ DỤC QUÁN	nhà tập, nhà thi đấu thể thao			
+Từ vựng Minna	Bài 28 - 48	Bài 28	むりょう	無料	VÔ LIỆU	miễn phí			
+Từ vựng Minna	Bài 29 - 01	Bài 29	[ドアが～]あきます	[ドアが～]開きます	KHAI	mở [cửa ~]			
+Từ vựng Minna	Bài 29 - 02	Bài 29	[ドアが～]しまります	[ドアが～]閉まります	BẾ	đóng [cửa ~]			
+Từ vựng Minna	Bài 29 - 03	Bài 29	[でんきが～] つきます	[電気が～]	ĐIỆN KHÍ	sáng [điện ~]			
+Từ vựng Minna	Bài 29 - 04	Bài 29	[でんきが～]きえます	[電気が～]消えます	ĐIỆN KHÍ TIÊU	tắt [điện ~]			
+Từ vựng Minna	Bài 29 - 05	Bài 29	[みちが～]こみます	[道が～]込みます	ĐẠO VÀO	đông, tắc [đường ~]			
+Từ vựng Minna	Bài 29 - 06	Bài 29	[みちが～] すきます	[道が～]	ĐẠO	vắng, thoáng [đường ~]			
+Từ vựng Minna	Bài 29 - 07	Bài 29	[いすが～]こわれます	[いすが～]壊れます	HOẠI	hỏng [cái ghế bị ~]			
+Từ vựng Minna	Bài 29 - 08	Bài 29	[コップが～]われます	[コップが～]　割れます	CÁT	vỡ [cái cốc bị ~]			
+Từ vựng Minna	Bài 29 - 09	Bài 29	[きが～] おれます	[木が～]折れます	MỘC TRIẾT	gãy [cái cây bị ~]			
+Từ vựng Minna	Bài 29 - 10	Bài 29	[かみが～]やぶれます	[紙が～]破れます	CHỈ PHÁ	rách [tờ giấy bị ~]			
+Từ vựng Minna	Bài 29 - 11	Bài 29	[ふくが～]よごれます	[服が～]汚れます	PHỤC Ô	bẩn [quần áo bị ~]			
+Từ vựng Minna	Bài 29 - 12	Bài 29	[ポケットが～]つきます	[ポケットが～]付きます	PHÓ	có, có gắn, có kèm theo [túi]			
+Từ vựng Minna	Bài 29 - 13	Bài 29	[ボタンが～]はずれます	[ボタンが～]外れます	NGOẠI	tuột, bung [cái cúc bị ~]			
+Từ vựng Minna	Bài 29 - 14	Bài 29	[エレベーターが～]とまります	[エレベーターが～]止まります	CHỈ	dừng [thang máy ~]			
+Từ vựng Minna	Bài 29 - 15	Bài 29	まちがえます			nhầm, sai			
+Từ vựng Minna	Bài 29 - 16	Bài 29	おとします	落とします	LẠC	đánh rơi			
+Từ vựng Minna	Bài 29 - 17	Bài 29	[かぎが～]かかります	[かぎが～]掛かります	QUẢI	khóa [chìa khóa ~]			
+Từ vựng Minna	Bài 29 - 18	Bài 29	[お]さら	[お]皿	MÃNH	cái đĩa			
+Từ vựng Minna	Bài 29 - 19	Bài 29	[お]ちゃわん			cái bát			
+Từ vựng Minna	Bài 29 - 20	Bài 29	コップ			cái cốc			
+Từ vựng Minna	Bài 29 - 21	Bài 29	ガラス			thủy tinh (glass)			
+Từ vựng Minna	Bài 29 - 22	Bài 29	ふくろ	袋	ĐẠI	cái túi			
+Từ vựng Minna	Bài 29 - 23	Bài 29	さいふ	財布	TÀI BỐ	cái ví			
+Từ vựng Minna	Bài 29 - 24	Bài 29	えだ	枝	CHI	cành cây			
+Từ vựng Minna	Bài 29 - 25	Bài 29	えきいん	駅員	DỊCH VIÊN	nhân viên nhà ga			
+Từ vựng Minna	Bài 29 - 26	Bài 29	このへん	この辺	BIẾN	xung quanh đây, gần đây			
+Từ vựng Minna	Bài 29 - 27	Bài 29	～へん	～辺	BIẾN	xung quanh ~, chỗ ~			
+Từ vựng Minna	Bài 29 - 28	Bài 29	このぐらい			khoảng ngần này, cỡ khoảng như thế này			
+Từ vựng Minna	Bài 29 - 29	Bài 29	おさきにどうぞ。	お先にどうぞ。	TIÊN	Xin mời anh/chị đi trước.			
+Từ vựng Minna	Bài 29 - 30	Bài 29	[ああ、]よかった。			ồ, may quá.			
+Từ vựng Minna	Bài 29 - 31	Bài 29	いまのでんしゃ	今の電車	KIM ĐIỆN XA	đoàn tàu vừa rồi			
+Từ vựng Minna	Bài 29 - 32	Bài 29	わすれもの	忘れ物	VONG VẬT	vật để quên			
+Từ vựng Minna	Bài 29 - 33	Bài 29	～がわ	～側	TRẮC	phía ~, bên ~			
+Từ vựng Minna	Bài 29 - 34	Bài 29	ポケット			túi áo, túi quần (pocket)			
+Từ vựng Minna	Bài 29 - 35	Bài 29	おぼえていません	覚えていません。	GIÁC	Tôi không nhớ.			
+Từ vựng Minna	Bài 29 - 36	Bài 29	あみだな	網棚	VÕNG BẰNG	giá lưới, giá hành lý (trên tàu)			
+Từ vựng Minna	Bài 29 - 37	Bài 29	たしか	確か	XÁC	nếu không lầm thì			
+Từ vựng Minna	Bài 29 - 38	Bài 29	よつや	四ツ谷	TỨ CỐC	tên một nhà ga ở Tokyo			
+Từ vựng Minna	Bài 29 - 39	Bài 29	じしん	地震	ĐỊA CHẤN	động đất			
+Từ vựng Minna	Bài 29 - 40	Bài 29	かべ	壁	BÍCH	bức tường			
+Từ vựng Minna	Bài 29 - 41	Bài 29	はり	針	CHÂM	kim đồng hồ			
+Từ vựng Minna	Bài 29 - 42	Bài 29	さします	指します	CHỈ	chỉ			
+Từ vựng Minna	Bài 29 - 43	Bài 29	えきまえ	駅前	DỊCH TIỀN	khu vực trước nhà ga			
+Từ vựng Minna	Bài 29 - 44	Bài 29	たおれます	倒れます	ĐẢO	đổ			
+Từ vựng Minna	Bài 29 - 45	Bài 29	にし	西	TÂY	tây, phía tây			
+Từ vựng Minna	Bài 29 - 46	Bài 29	ほう	方	PHƯƠNG	hướng, phương hướng			
+Từ vựng Minna	Bài 29 - 47	Bài 29	さんのみや	三宮	TAM CUNG	tên một địa điểm ở Kobe			
+Từ vựng Minna	Bài 30 - 01	Bài 30	はります			dán, dán lên			
+Từ vựng Minna	Bài 30 - 02	Bài 30	かけます	掛けます	QUẢI	treo			
+Từ vựng Minna	Bài 30 - 03	Bài 30	かざります	飾ります	SỨC	trang trí			
+Từ vựng Minna	Bài 30 - 04	Bài 30	ならべます	並べます	TỊNH	xếp thành hàng			
+Từ vựng Minna	Bài 30 - 05	Bài 30	うえます	植えます	THỰC	trồng (cây)			
+Từ vựng Minna	Bài 30 - 06	Bài 30	もどします	戻します	LỆ	đưa về, trả về, để lại vị trí ban đầu			
+Từ vựng Minna	Bài 30 - 07	Bài 30	まとめます			nhóm lại, tóm tắt			
+Từ vựng Minna	Bài 30 - 08	Bài 30	かたづけます	片づけます	PHIẾN	dọn dẹp, sắp xếp			
+Từ vựng Minna	Bài 30 - 09	Bài 30	しまいます			cất vào, để vào			
+Từ vựng Minna	Bài 30 - 10	Bài 30	きめます	決めます	QUYẾT	quyết định			
+Từ vựng Minna	Bài 30 - 11	Bài 30	しらせます	知らせます	TRI	thông báo, báo			
+Từ vựng Minna	Bài 30 - 12	Bài 30	そうだんします	相談します	TƯƠNG ĐÀM	trao đổi, bàn bạc, tư vấn			
+Từ vựng Minna	Bài 30 - 13	Bài 30	よしゅうします	予習します	DỰ TẬP	chuẩn bị bài mới			
+Từ vựng Minna	Bài 30 - 14	Bài 30	ふくしゅうします	復習します	PHỤC TẬP	ôn bài cũ			
+Từ vựng Minna	Bài 30 - 15	Bài 30	そのままにします			để nguyên như thế			
+Từ vựng Minna	Bài 30 - 16	Bài 30	おこさん	お子さん	TỬ	con (dùng đối với người khác)			
+Từ vựng Minna	Bài 30 - 17	Bài 30	じゅぎょう	授業	THỤ NGHIỆP	giờ học			
+Từ vựng Minna	Bài 30 - 18	Bài 30	こうぎ	講義	GIẢNG NGHĨA	bài giảng			
+Từ vựng Minna	Bài 30 - 19	Bài 30	ミーティング			cuộc họp			
+Từ vựng Minna	Bài 30 - 20	Bài 30	よてい	予定	DỰ ĐỊNH	kế hoạch, dự định			
+Từ vựng Minna	Bài 30 - 21	Bài 30	おしらせ	お知らせ	TRI	bản thông báo			
+Từ vựng Minna	Bài 30 - 22	Bài 30	あんないしょ	案内書	ÁN NỘI THƯ	sách/tài liệu hướng dẫn			
+Từ vựng Minna	Bài 30 - 23	Bài 30	カレンダー			lịch, tờ lịch			
+Từ vựng Minna	Bài 30 - 24	Bài 30	ポスター			tờ pa-nô, áp phích, tờ quảng cáo			
+Từ vựng Minna	Bài 30 - 25	Bài 30	ごみばこ	ごみ箱	TƯƠNG	thùng rác			
+Từ vựng Minna	Bài 30 - 26	Bài 30	にんぎょう	人形	NHÂN HÌNH	con búp bê, con rối			
+Từ vựng Minna	Bài 30 - 27	Bài 30	かびん	花瓶	HOA BÌNH	lọ hoa			
+Từ vựng Minna	Bài 30 - 28	Bài 30	かがみ	鏡	KÍNH	cái gương			
+Từ vựng Minna	Bài 30 - 29	Bài 30	ひきだし	引き出し	DẪN XUẤT	ngăn kéo			
+Từ vựng Minna	Bài 30 - 30	Bài 30	げんかん	玄関	HUYỀN QUAN	cửa vào			
+Từ vựng Minna	Bài 30 - 31	Bài 30	ろうか	廊下	LANG HẠ	hành lang			
+Từ vựng Minna	Bài 30 - 32	Bài 30	かべ	壁	BÍCH	bức tường			
+Từ vựng Minna	Bài 30 - 33	Bài 30	いけ	池	TRÌ	cái ao			
+Từ vựng Minna	Bài 30 - 34	Bài 30	こうばん	交番	GIAO PHIÊN	trạm/bốt cảnh sát			
+Từ vựng Minna	Bài 30 - 35	Bài 30	もとのところ	元の所	NGUYÊN SỞ	địa điểm ban đầu, địa điểm gốc			
+Từ vựng Minna	Bài 30 - 36	Bài 30	まわり	周り	CHU	xung quanh			
+Từ vựng Minna	Bài 30 - 37	Bài 30	まんなか	真ん中	CHÂN TRUNG	giữa, trung tâm			
+Từ vựng Minna	Bài 30 - 38	Bài 30	すみ	隅	NGUNG	góc			
+Từ vựng Minna	Bài 30 - 39	Bài 30	まだ			chưa			
+Từ vựng Minna	Bài 30 - 40	Bài 30	～ほど			khoảng ~, chừng ~			
+Từ vựng Minna	Bài 30 - 41	Bài 30	よていひょう	予定表	DỰ ĐỊNH BIỂU	lịch, thời khóa biểu			
+Từ vựng Minna	Bài 30 - 42	Bài 30	ごくろうさま	ご苦労さま。	KHỔ LAO	Anh/chị đã làm việc vất vả./cám ơn anh/chị. (câu nói dùng để bày tỏ sự cám ơn hoặc thông cảm với sự vất vả khi ai đó làm xong một việc gì)			
+Từ vựng Minna	Bài 30 - 43	Bài 30	きぼう	希望	HY VỌNG	hi vọng, nguyện vọng			
+Từ vựng Minna	Bài 30 - 44	Bài 30	なにかごきぼうがありますか	なにかご希望がありますか。	HY VỌNG	Anh/chị có nguyện vọng gì không?/ anh/chị có yêu cầu gì không?			
+Từ vựng Minna	Bài 30 - 45	Bài 30	ミュージカル			ca kịch			
+Từ vựng Minna	Bài 30 - 46	Bài 30	それはいいですね。			Điều đó được đấy nhỉ./ Hay quá nhỉ			
+Từ vựng Minna	Bài 30 - 47	Bài 30	ブロードウェイ			Broadway			
+Từ vựng Minna	Bài 30 - 48	Bài 30	まるい	丸い	HOÀN	tròn			
+Từ vựng Minna	Bài 30 - 49	Bài 30	つき	月	NGUYỆT	mặt trăng, trăng			
+Từ vựng Minna	Bài 30 - 50	Bài 30	ある～			có ~, một ~			
+Từ vựng Minna	Bài 30 - 51	Bài 30	ちきゅう	地球	ĐỊA CẦU	trái đất			
+Từ vựng Minna	Bài 30 - 52	Bài 30	うれしい			vui			
+Từ vựng Minna	Bài 30 - 53	Bài 30	いや「な」	嫌[な]	HIỀM	chán, ghét, không chấp nhận được			
+Từ vựng Minna	Bài 30 - 54	Bài 30	すると			sau đó, tiếp đó, rồi, khi ~ như vậy thì			
+Từ vựng Minna	Bài 30 - 55	Bài 30	めが　さめます	目が覚めます	MỤC GIÁC	tỉnh giấc, mở mắt			
+Từ vựng Minna	Bài 31 - 01	Bài 31	[しきが～]はじまります	[式が～]始まります	THỨC THỦY	bắt đầu [buổi lễ ~]			
+Từ vựng Minna	Bài 31 - 02	Bài 31	つづけます	続けます	TỤC	tiếp tục			
+Từ vựng Minna	Bài 31 - 03	Bài 31	みつけます	見つけます	KIẾN	tìm, tìm thấy			
+Từ vựng Minna	Bài 31 - 04	Bài 31	[しけんを～]うけます	[試験を～]受けます	THÍ NGHIỆM THỤ/THỌ	thi [kỳ thi]			
+Từ vựng Minna	Bài 31 - 05	Bài 31	[だいがくに～] にゅうがくします	[大学に～]入学します	ĐẠI HỌC NHẬP HỌC	nhập học, vào [(trường) đại học]			
+Từ vựng Minna	Bài 31 - 06	Bài 31	[だいがくを～]そつぎょうします	[大学を～]卒業します	ĐẠI HỌC TỐT NGHIỆP	tốt nghiệp [(trường) đại học]			
+Từ vựng Minna	Bài 31 - 07	Bài 31	[かいぎに～] しゅっせきします	[会議に～]出席します	HỘI NGHỊ XUẤT TỊCH	tham dự, tham gia [cuộc họp]			
+Từ vựng Minna	Bài 31 - 08	Bài 31	きゅうけいします	休憩します	HƯU KHẾ	nghỉ, giải lao			
+Từ vựng Minna	Bài 31 - 09	Bài 31	れんきゅう	連休	LIÊN HƯU	ngày nghỉ liền nhau			
+Từ vựng Minna	Bài 31 - 10	Bài 31	さくぶん	作文	TÁC VĂN	bài văn			
+Từ vựng Minna	Bài 31 - 11	Bài 31	てんらんかい	展覧会	TRIỂN LÃM HỘI	triển lãm			
+Từ vựng Minna	Bài 31 - 12	Bài 31	けっこんしき	結婚式	KẾT HÔN THỨC	lễ cưới, đám cưới			
+Từ vựng Minna	Bài 31 - 13	Bài 31	[お]そうしき	[お]葬式	TÁNG THỨC	lễ tang, đám tang			
+Từ vựng Minna	Bài 31 - 14	Bài 31	しき	式	THỨC	lễ, đám			
+Từ vựng Minna	Bài 31 - 15	Bài 31	ほんしゃ	本社	BẢN XÃ	trụ sở chính			
+Từ vựng Minna	Bài 31 - 16	Bài 31	してん	支店	CHI ĐIẾM	chi nhánh			
+Từ vựng Minna	Bài 31 - 17	Bài 31	きょうかい	教会	GIÁO HỘI	nhà thờ			
+Từ vựng Minna	Bài 31 - 18	Bài 31	だいがくいん	大学院	ĐẠI HỌC VIỆN	cao học, sở giáo dục trên đại học			
+Từ vựng Minna	Bài 31 - 19	Bài 31	どうぶつえん	動物園	ĐỘNG VẬT VIÊN	vườn thú, vườn bách thú			
+Từ vựng Minna	Bài 31 - 20	Bài 31	おんせん	温泉	ÔN TUYỀN	suối nước nóng			
+Từ vựng Minna	Bài 31 - 21	Bài 31	おきゃく[さん]	お客[さん]	KHÁCH	khách hàng			
+Từ vựng Minna	Bài 31 - 22	Bài 31	だれか			ai đó			
+Từ vựng Minna	Bài 31 - 23	Bài 31	～のほう	～の方	PHƯƠNG	phía ~, hướng ~			
+Từ vựng Minna	Bài 31 - 24	Bài 31	ずっと			suốt, liền			
+Từ vựng Minna	Bài 31 - 25	Bài 31	ピカソ			Pablo Picasso, danh họa người Tây Ban Nha (1881-1973)			
+Từ vựng Minna	Bài 31 - 26	Bài 31	うえのこうえん	上野公園	THƯỢNG DÃ CÔNG VIÊN	Công viên Ueno (ở Tokyo)			
+Từ vựng Minna	Bài 31 - 27	Bài 31	のこります	残ります	TÀN	ở lại			
+Từ vựng Minna	Bài 31 - 28	Bài 31	つきに	月に	NGUYỆT	một tháng			
+Từ vựng Minna	Bài 31 - 29	Bài 31	ふつうの	普通の	PHỔ THÔNG	thường, thông thường			
+Từ vựng Minna	Bài 31 - 30	Bài 31	インターネット			Internet			
+Từ vựng Minna	Bài 31 - 31	Bài 31	むら	村	THÔN	làng			
+Từ vựng Minna	Bài 31 - 32	Bài 31	えいがかん	映画館	ẢNH HỌA QUÁN	rạp chiếu phim			
+Từ vựng Minna	Bài 31 - 33	Bài 31	いや「な」	嫌[な]	HIỀM	chán, ghét, không chấp nhận được			
+Từ vựng Minna	Bài 31 - 34	Bài 31	そら	空	KHÔNG	bầu trời			
+Từ vựng Minna	Bài 31 - 35	Bài 31	とじます	閉じます	BẾ	đóng, nhắm			
+Từ vựng Minna	Bài 31 - 36	Bài 31	とかい	都会	ĐÔ HỘI	thành phố, nơi đô hội			
+Từ vựng Minna	Bài 31 - 37	Bài 31	こどもたち	子供たち	TỬ CUNG	trẻ em, trẻ con			
+Từ vựng Minna	Bài 31 - 38	Bài 31	じゆうに	自由に	TỰ DO	tự do			
+Từ vựng Minna	Bài 31 - 39	Bài 31	せかいじゅう	世界中	THẾ GIỚI TRUNG	khắp thế giới			
+Từ vựng Minna	Bài 31 - 40	Bài 31	あつまります	集まります	TẬP	tập trung			
+Từ vựng Minna	Bài 31 - 41	Bài 31	うつくしい	美しい	MỸ	đẹp			
+Từ vựng Minna	Bài 31 - 42	Bài 31	しぜん	自然	TỰ NHIÊN	tự nhiên, thiên nhiên			
+Từ vựng Minna	Bài 31 - 43	Bài 31	すばらしさ			tuyệt vời			
+Từ vựng Minna	Bài 31 - 44	Bài 31	きがつきます	気がつきます	KHÍ	để ý, nhận ra			
+Từ vựng Minna	Bài 32 - 01	Bài 32	うんどうします	運動します	VẬN ĐỘNG	vận động, tập thể thao			
+Từ vựng Minna	Bài 32 - 02	Bài 32	せいこうします	成功します	THÀNH CÔNG	thành công			
+Từ vựng Minna	Bài 32 - 03	Bài 32	[しけんに～]しっぱいします	[試験に～]失敗します	THÍ NGHIỆM THẤT BẠI	thất bại, trượt [thi~]			
+Từ vựng Minna	Bài 32 - 04	Bài 32	[しけんに～]ごうかくします	[試験に～]合格します	THÍ NGHIỆM HỢP CÁCH	đỗ [thi~]			
+Từ vựng Minna	Bài 32 - 05	Bài 32	もどります	戻ります	LỆ	quay lại, trở lại			
+Từ vựng Minna	Bài 32 - 06	Bài 32	[あめが～] やみます	[雨が～]	VŨ	tạnh, ngừng [mưa ~]			
+Từ vựng Minna	Bài 32 - 07	Bài 32	はれます	晴れます	TÌNH	nắng, quang đãng			
+Từ vựng Minna	Bài 32 - 08	Bài 32	くもります	曇ります	ĐÀM	có mây, mây mù			
+Từ vựng Minna	Bài 32 - 09	Bài 32	[かぜが～]ふきます	[風が～]吹きます	PHONG XÚY	thổi [gió ~]			
+Từ vựng Minna	Bài 32 - 10	Bài 32	[びょうきが～]なおります	[病気が～]治ります，直ります	BỆNH KHÍ TRỊ TRỰC	khỏi [bệnh]			
+Từ vựng Minna	Bài 32 - 11	Bài 32	[こしょうが～]なおります	[故障が～]	CỐ CHƯỚNG	đã được sửa [chỗ hỏng ~]			
+Từ vựng Minna	Bài 32 - 12	Bài 32	[ねつが～]つづきます	[熱が～]続きます	NHIỆT TỤC	tiếp tục, tiếp diễn [sốt]			
+Từ vựng Minna	Bài 32 - 13	Bài 32	[かぜを～]ひきます			bị [cảm]			
+Từ vựng Minna	Bài 32 - 14	Bài 32	ひやします	冷やします	LÃNH	làm lạnh			
+Từ vựng Minna	Bài 32 - 15	Bài 32	しんぱい[な]	心配[な]	TÂM PHỐI	lo lắng			
+Từ vựng Minna	Bài 32 - 16	Bài 32	じゅうぶん[な]	十分[な]	THẬP PHÂN	đủ			
+Từ vựng Minna	Bài 32 - 17	Bài 32	おかしい			có vấn đề, không bình thường, buồn cười			
+Từ vựng Minna	Bài 32 - 18	Bài 32	うるさい			ồn ào, (âm thanh) to			
+Từ vựng Minna	Bài 32 - 19	Bài 32	やけど			bỏng (～をします：bị bỏng)			
+Từ vựng Minna	Bài 32 - 20	Bài 32	けが			vết thương (～をします：bị thương)			
+Từ vựng Minna	Bài 32 - 21	Bài 32	せき			ho (～がでます：bị ho)			
+Từ vựng Minna	Bài 32 - 22	Bài 32	インフルエンザ			cúm dịch			
+Từ vựng Minna	Bài 32 - 23	Bài 32	そら	空	KHÔNG	bầu trời			
+Từ vựng Minna	Bài 32 - 24	Bài 32	たいよう	太陽	THÁI DƯƠNG	mặt trời			
+Từ vựng Minna	Bài 32 - 25	Bài 32	ほし	星	TINH	sao, ngôi sao			
+Từ vựng Minna	Bài 32 - 26	Bài 32	つき	月	NGUYỆT	trăng, mặt trăng			
+Từ vựng Minna	Bài 32 - 27	Bài 32	かぜ	風	PHONG	gió			
+Từ vựng Minna	Bài 32 - 28	Bài 32	きた	北	BẮC	bắc			
+Từ vựng Minna	Bài 32 - 29	Bài 32	みなみ	南	NAM	nam			
+Từ vựng Minna	Bài 32 - 30	Bài 32	にし	西	TÂY	tây			
+Từ vựng Minna	Bài 32 - 31	Bài 32	ひがし	東	ĐÔNG	đông			
+Từ vựng Minna	Bài 32 - 32	Bài 32	すいどう	水道	THỦY ĐẠO	nước máy			
+Từ vựng Minna	Bài 32 - 33	Bài 32	エンジン			động cơ			
+Từ vựng Minna	Bài 32 - 34	Bài 32	チーム			đội			
+Từ vựng Minna	Bài 32 - 35	Bài 32	こんや	今夜	KIM DẠ	tối nay, đêm nay			
+Từ vựng Minna	Bài 32 - 36	Bài 32	ゆうがた	夕方	TỊCH PHƯƠNG	chiều tối			
+Từ vựng Minna	Bài 32 - 37	Bài 32	まえ			trước			
+Từ vựng Minna	Bài 32 - 38	Bài 32	おそく	遅く	TRÌ	muộn, khuya			
+Từ vựng Minna	Bài 32 - 39	Bài 32	こんなに			như thế này			
+Từ vựng Minna	Bài 32 - 40	Bài 32	そんなに			như thế đó (về vấn đề có quan hệ với người nghe)			
+Từ vựng Minna	Bài 32 - 41	Bài 32	あんなに			như thế kia (về vấn đề không có quan hệ với người nói và người nghe)			
+Từ vựng Minna	Bài 32 - 42	Bài 32	もしかしたら			có thể, biết đâu là, có khả năng			
+Từ vựng Minna	Bài 32 - 43	Bài 32	それはいけませんね。			Thế thì thật không tốt.			
+Từ vựng Minna	Bài 32 - 44	Bài 32	オリンピック			Olympic			
+Từ vựng Minna	Bài 32 - 45	Bài 32	げんき	元気	NGUYÊN KHÍ	khỏe, khỏe mạnh			
+Từ vựng Minna	Bài 32 - 46	Bài 32	い	胃	VỊ	dạ dày			
+Từ vựng Minna	Bài 32 - 47	Bài 32	はたらきすぎ	働きすぎ	ĐỘNG	làm việc quá sức, làm việc nhiều quá			
+Từ vựng Minna	Bài 32 - 48	Bài 32	ストレス			Stress, căng thẳng tâm lý			
+Từ vựng Minna	Bài 32 - 49	Bài 32	むりをします	無理をします	VÔ LÝ	làm quá sức, làm quá khả năng			
+Từ vựng Minna	Bài 32 - 50	Bài 32	ゆっくりします			nghỉ ngơi, thư thái, dưỡng sức			
+Từ vựng Minna	Bài 32 - 51	Bài 32	ほしうらない	星占い	TINH CHIẾM	bói sao			
+Từ vựng Minna	Bài 32 - 52	Bài 32	おうしざ	牡牛座	MẪU NGƯU TỌA	chòm sao Kim Ngưu			
+Từ vựng Minna	Bài 32 - 53	Bài 32	こまります	困ります	KHỐN	rắc rối, khó xử, có vấn đề			
+Từ vựng Minna	Bài 32 - 54	Bài 32	たからくじ	宝くじ	BẢO	xổ số			
+Từ vựng Minna	Bài 32 - 55	Bài 32	あたります	[宝くじが～]当たります	BẢO ĐƯƠNG	Trúng~ trúng [xổ số]			
+Từ vựng Minna	Bài 32 - 56	Bài 32	けんこう	健康	KIỆN KHANG	sức khỏe, khỏe mạnh, an khang			
+Từ vựng Minna	Bài 32 - 57	Bài 32	れんあい	恋愛	LUYẾN ÁI	tình yêu			
+Từ vựng Minna	Bài 32 - 58	Bài 32	こいびと	恋人	LUYẾN NHÂN	người yêu			
+Từ vựng Minna	Bài 32 - 59	Bài 32	「お」かねもち	[お]金持ち	KIM TRÌ	người giàu có, người có nhiều tiền			
+Từ vựng Minna	Bài 33 - 01	Bài 33	にげます	逃げます	ĐÀO	chạy trốn, bỏ chạy			
+Từ vựng Minna	Bài 33 - 02	Bài 33	さわぎます	騒ぎます	TAO	làm ồn, làm rùm beng			
+Từ vựng Minna	Bài 33 - 03	Bài 33	あきらめます			từ bỏ, đầu hàng			
+Từ vựng Minna	Bài 33 - 04	Bài 33	なげます	投げます	ĐẦU	ném			
+Từ vựng Minna	Bài 33 - 05	Bài 33	まもります	守ります	THỦ	bảo vệ, tuân thủ, giữ			
+Từ vựng Minna	Bài 33 - 06	Bài 33	あげます	上げます	THƯỢNG	nâng, nâng lên, tăng lên			
+Từ vựng Minna	Bài 33 - 07	Bài 33	さげます	下げます	HẠ	hạ, hạ xuống, giảm xuống			
+Từ vựng Minna	Bài 33 - 08	Bài 33	つたえます	伝えます	TRUYỀN	truyền, truyền đạt			
+Từ vựng Minna	Bài 33 - 09	Bài 33	[くるまに～]ちゅういします	[車に～]注意します	XA CHÚ Ý	chú ý [ô tô]			
+Từ vựng Minna	Bài 33 - 10	Bài 33	[せきを～] はずします	[席を～]外します	TỊCH NGOẠI	rời, không có ở [chỗ ngồi]			
+Từ vựng Minna	Bài 33 - 11	Bài 33	だめ[な]			hỏng, không được, không thể			
+Từ vựng Minna	Bài 33 - 12	Bài 33	せき	席	TỊCH	chỗ ngồi, ghế			
+Từ vựng Minna	Bài 33 - 13	Bài 33	ファイト			“quyết chiến”, “cố lên”			
+Từ vựng Minna	Bài 33 - 14	Bài 33	マーク			ký hiệu (Mark)			
+Từ vựng Minna	Bài 33 - 15	Bài 33	ボール			quả bóng			
+Từ vựng Minna	Bài 33 - 16	Bài 33	せんたくき	洗濯機	TẨY TRẠC CƠ	máy giặt			
+Từ vựng Minna	Bài 33 - 17	Bài 33	～き	～機	CƠ	máy ~			
+Từ vựng Minna	Bài 33 - 18	Bài 33	きそく	規則	QUY TẮC	quy tắc, kỷ luật			
+Từ vựng Minna	Bài 33 - 19	Bài 33	しようきんし	使用禁止	SỬ DỤNG CẤM CHỈ	cấm sử dụng			
+Từ vựng Minna	Bài 33 - 20	Bài 33	たちいりきんし	立入禁止	LẬP NHẬP CẤM CHỈ	cấm vào			
+Từ vựng Minna	Bài 33 - 21	Bài 33	いりぐち	入口	NHẬP KHẨU	cửa vào			
+Từ vựng Minna	Bài 33 - 22	Bài 33	でぐち	出口	XUẤT KHẨU	cửa ra			
+Từ vựng Minna	Bài 33 - 23	Bài 33	ひじょうぐち	非常口	PHI THƯỜNG KHẨU	cửa thoát hiểm			
+Từ vựng Minna	Bài 33 - 24	Bài 33	むりょう	無料	VÔ LIỆU	miễn phí			
+Từ vựng Minna	Bài 33 - 25	Bài 33	ほんじつきゅうぎょう	本日休業	BẢN NHẬT HƯU NGHIỆP	hôm nay đóng cửa, hôm nay nghỉ			
+Từ vựng Minna	Bài 33 - 26	Bài 33	えいぎょうちゅう	営業中	DOANH NGHIỆP TRUNG	đang mở cửa			
+Từ vựng Minna	Bài 33 - 27	Bài 33	しようちゅう	使用中	SỬ DỤNG TRUNG	đang sử dụng			
+Từ vựng Minna	Bài 33 - 28	Bài 33	～ちゅう	～中	TRUNG	đang ~			
+Từ vựng Minna	Bài 33 - 29	Bài 33	どういう～			~ gì, ~ thế nào			
+Từ vựng Minna	Bài 33 - 30	Bài 33	もう			không ~ nữa			
+Từ vựng Minna	Bài 33 - 31	Bài 33	あと～			còn ~			
+Từ vựng Minna	Bài 33 - 32	Bài 33	ちゅうしゃいはん	駐車違反	TRÚ XA VI PHẢN	đỗ xe trái phép			
+Từ vựng Minna	Bài 33 - 33	Bài 33	そりゃあ			thế thì, ồ			
+Từ vựng Minna	Bài 33 - 34	Bài 33	～いない	～以内	DĨ NỘI	trong khoảng ~, trong vòng ~			
+Từ vựng Minna	Bài 33 - 35	Bài 33	けいさつ	警察	CẢNH SÁT	cảnh sát			
+Từ vựng Minna	Bài 33 - 36	Bài 33	ばっきん	罰金	PHẠT KIM	tiền phạt			
+Từ vựng Minna	Bài 33 - 37	Bài 33	でんぽう	電報	ĐIỆN BÁO	bức điện, điện báo			
+Từ vựng Minna	Bài 33 - 38	Bài 33	ひとびと	人々	NHÂN(KÉP)	người, những người			
+Từ vựng Minna	Bài 33 - 39	Bài 33	きゅうよう	急用	CẤP DỤNG	việc gấp, việc khẩn			
+Từ vựng Minna	Bài 33 - 40	Bài 33	うちます	[電報を～]打ちます	ĐIỆN BÁO ĐẢ	gửi [bức điện]			
+Từ vựng Minna	Bài 33 - 41	Bài 33	でんぽうだい	電報代	ĐIỆN BÁO ĐẠI	tiền cước điện báo			
+Từ vựng Minna	Bài 33 - 42	Bài 33	できるだけ			cố gắng, trong khả năng có thể			
+Từ vựng Minna	Bài 33 - 43	Bài 33	みじかく	短く	ĐOẢN	ngắn gọn, đơn giản			
+Từ vựng Minna	Bài 33 - 44	Bài 33	また			thêm nữa			
+Từ vựng Minna	Bài 33 - 45	Bài 33	たとえば	例えば	LỆ	ví dụ			
+Từ vựng Minna	Bài 33 - 46	Bài 33	キトク	（危篤）	NGUY ĐỐC	tình trạng hiểm nghèo			
+Từ vựng Minna	Bài 33 - 47	Bài 33	おもいびょうき	重い病気	TRỌNG BỆNH KHÍ	bệnh nặng			
+Từ vựng Minna	Bài 33 - 48	Bài 33	あす	明日	MINH NHẬT	ngày mai			
+Từ vựng Minna	Bài 33 - 49	Bài 33	るす	留守	LƯU THỦ	vắng nhà			
+Từ vựng Minna	Bài 33 - 50	Bài 33	るすばん	留守番	LƯU THỦ PHIÊN	trông nhà, giữ nhà			
+Từ vựng Minna	Bài 33 - 51	Bài 33	「お」いわい	[お]祝い	CHÚC	việc mừng, vật mừng			
+Từ vựng Minna	Bài 33 - 52	Bài 33	なくなります	亡くなります	VONG	chết, mất			
+Từ vựng Minna	Bài 33 - 53	Bài 33	かなしみ	悲しみ	BI	buồn			
+Từ vựng Minna	Bài 33 - 54	Bài 33	りようします	利用します	LỢI DỤNG	sử dụng, lợi dụng, tận dụng, dùng			
+Từ vựng Minna	Bài 34 - 01	Bài 34	[はを～]みがきます	[歯を～]磨きます	XỈ MA	mài, đánh [răng]			
+Từ vựng Minna	Bài 34 - 02	Bài 34	くみたてます	組み立てます	TỔ LẬP	lắp, lắp ráp, lắp đặt			
+Từ vựng Minna	Bài 34 - 03	Bài 34	おります	折ります	TRIẾT	gấp, gập, bẻ gãy			
+Từ vựng Minna	Bài 34 - 04	Bài 34	[わすれものに～] きがつきます	[忘れ物に～]気がつきます	VONG VẬT KHÍ	nhận thấy, phát hiện [đồ bỏ quên]			
+Từ vựng Minna	Bài 34 - 05	Bài 34	[しょうゆを～] つけます			chấm [xì-dầu]			
+Từ vựng Minna	Bài 34 - 06	Bài 34	[かぎが～]みつかります	[かぎが～]見つかります	KIẾN	được tìm thấy [chìa khóa ~]			
+Từ vựng Minna	Bài 34 - 07	Bài 34	[ネクタイを～]します			đeo, thắt [cà-vạt]			
+Từ vựng Minna	Bài 34 - 08	Bài 34	しつもんします	質問します	CHẤT VẤN	hỏi			
+Từ vựng Minna	Bài 34 - 09	Bài 34	ほそい	細い	TẾ	gầy, hẹp, thon			
+Từ vựng Minna	Bài 34 - 10	Bài 34	ふとい	太い	THÁI	béo, to			
+Từ vựng Minna	Bài 34 - 11	Bài 34	ぼんおどり	盆踊り	BỒN DŨNG	múa trong hội Bon			
+Từ vựng Minna	Bài 34 - 12	Bài 34	スポーツクラブ			câu lạc bộ thể thao, câu lạc bộ thể hình			
+Từ vựng Minna	Bài 34 - 13	Bài 34	かぐ	家具	GIA CỤ	gia cụ, đồ dùng nội thất			
+Từ vựng Minna	Bài 34 - 14	Bài 34	キー			chìa khóa			
+Từ vựng Minna	Bài 34 - 15	Bài 34	シートベルト			dây an toàn (ở ghế ngồi)			
+Từ vựng Minna	Bài 34 - 16	Bài 34	せつめいしょ	説明書	THUYẾT MINH THƯ	quyển hướng dẫn			
+Từ vựng Minna	Bài 34 - 17	Bài 34	ず	図	ĐỒ	sơ đồ, hình vẽ			
+Từ vựng Minna	Bài 34 - 18	Bài 34	せん	線	TUYẾN	đường			
+Từ vựng Minna	Bài 34 - 19	Bài 34	やじるし	矢印	THỈ ẤN	dấu mũi tên			
+Từ vựng Minna	Bài 34 - 20	Bài 34	くろ	黒	HẮC	màu đen			
+Từ vựng Minna	Bài 34 - 21	Bài 34	しろ	白	BẠCH	màu trắng			
+Từ vựng Minna	Bài 34 - 22	Bài 34	あか	赤	XÍCH	màu đỏ			
+Từ vựng Minna	Bài 34 - 23	Bài 34	あお	青	THANH	màu xanh da trời			
+Từ vựng Minna	Bài 34 - 24	Bài 34	こん	紺	CÁM	màu xanh lam			
+Từ vựng Minna	Bài 34 - 25	Bài 34	きいろ	黄色	HOÀNG SẮC	màu vàng			
+Từ vựng Minna	Bài 34 - 26	Bài 34	しょうゆ			xì dầu			
+Từ vựng Minna	Bài 34 - 27	Bài 34	ソース			nước chấm, nước xốt			
+Từ vựng Minna	Bài 34 - 28	Bài 34	～か～			~hay ~			
+Từ vựng Minna	Bài 34 - 29	Bài 34	ゆうべ			tối qua, đêm qua			
+Từ vựng Minna	Bài 34 - 30	Bài 34	さっき			vừa rồi, vừa lúc nãy			
+Từ vựng Minna	Bài 34 - 31	Bài 34	さどう	茶道	TRÀ ĐẠO	trà đạo			
+Từ vựng Minna	Bài 34 - 32	Bài 34	おちゃをたてます	お茶をたてます	TRÀ	pha trà, khuấy trà			
+Từ vựng Minna	Bài 34 - 33	Bài 34	さきに	先に	TIÊN	trước			
+Từ vựng Minna	Bài 34 - 34	Bài 34	のせます	載せます	TẢI	để lên, đặt lên			
+Từ vựng Minna	Bài 34 - 35	Bài 34	これでいいですか。			Thế này có được không?/thế này đã được chưa?			
+Từ vựng Minna	Bài 34 - 36	Bài 34	にがい	苦い	KHỔ	đắng			
+Từ vựng Minna	Bài 34 - 37	Bài 34	おやこどんぶり	親子どんぶり	THÂN TỬ	món oyako-don (món cơm bát tô có thịt trứng ở trên)			
+Từ vựng Minna	Bài 34 - 38	Bài 34	ざいりょう	材料	TÀI LIỆU	nguyên liệu			
+Từ vựng Minna	Bài 34 - 39	Bài 34	―ぶん-	―分	PHÂN	-suất, – người			
+Từ vựng Minna	Bài 34 - 40	Bài 34	とりにく	鳥肉	ĐIỂU NHỤC	thịt gà			
+Từ vựng Minna	Bài 34 - 41	Bài 34	―グラム			- gam			
+Từ vựng Minna	Bài 34 - 42	Bài 34	―こ-	―個	CÁ	-cái, -quả, - miếng (dùng để đếm vật nhỏ)			
+Từ vựng Minna	Bài 34 - 43	Bài 34	たまねぎ			hành củ			
+Từ vựng Minna	Bài 34 - 44	Bài 34	よんぶんのいち	4分の１　（１/４）	PHÂN	một phần tư			
+Từ vựng Minna	Bài 34 - 45	Bài 34	ちょうみりょう	調味料	ĐIỀU VỊ LIỆU	gia vị			
+Từ vựng Minna	Bài 34 - 46	Bài 34	なべ			cái chảo, cái nồi			
+Từ vựng Minna	Bài 34 - 47	Bài 34	ひ	火	HỎA	lửa			
+Từ vựng Minna	Bài 34 - 48	Bài 34	ひにかけます	火にかけます	HỎA	cho qua lửa, đun			
+Từ vựng Minna	Bài 34 - 49	Bài 34	にます	煮ます	CHỬ	nấu			
+Từ vựng Minna	Bài 34 - 50	Bài 34	にえます	煮えます	CHỬ	chín, được nấu			
+Từ vựng Minna	Bài 34 - 51	Bài 34	どんぶり			cái bát			
+Từ vựng Minna	Bài 35 - 01	Bài 35	[はなが～]さきます	[花が～]咲きます	HOA TIẾU	nở [hoa ~]			
+Từ vựng Minna	Bài 35 - 02	Bài 35	[いろが～] かわります	[色が～] 変わります	SẮC BIẾN	thay đổi, đổi [màu]			
+Từ vựng Minna	Bài 35 - 03	Bài 35	こまります	困ります	KHỐN	rắc rối, khó xử, có vấn đề			
+Từ vựng Minna	Bài 35 - 04	Bài 35	[まるを～] つけます	[丸を～]付けます	HOÀN PHÓ	vẽ, đánh dấu [tròn]			
+Từ vựng Minna	Bài 35 - 05	Bài 35	ひろいます	拾います	THẬP	nhặt, nhặt lên			
+Từ vựng Minna	Bài 35 - 06	Bài 35	[でんわが～]かかります	[電話が～]	ĐIỆN THOẠI	có điện thoại			
+Từ vựng Minna	Bài 35 - 07	Bài 35	らく[な]	楽[な]	LẠC/NHẠC	thoải mái, nhàn hạ, dễ dàng			
+Từ vựng Minna	Bài 35 - 08	Bài 35	ただしい	正しい	CHÍNH	đúng, chính xác			
+Từ vựng Minna	Bài 35 - 09	Bài 35	めずらしい	珍しい	TRÂN	hiếm, hiếm có			
+Từ vựng Minna	Bài 35 - 10	Bài 35	かた	方	PHƯƠNG	vị, người (cách nói kính trọng của ひと)			
+Từ vựng Minna	Bài 35 - 11	Bài 35	むこう	向こう	HƯỚNG	bên kia, bên đấy, phía đằng kia			
+Từ vựng Minna	Bài 35 - 12	Bài 35	しま	島	ĐẢO	đảo, hòn đảo			
+Từ vựng Minna	Bài 35 - 13	Bài 35	むら	村	THÔN	làng			
+Từ vựng Minna	Bài 35 - 14	Bài 35	みなと	港	CẢNG	cảng, bến cảng			
+Từ vựng Minna	Bài 35 - 15	Bài 35	きんじょ	近所	CẬN SỞ	hàng xóm, khu vực lân cận			
+Từ vựng Minna	Bài 35 - 16	Bài 35	おくじょう	屋上	ỐC THƯỢNG	mái nhà, nóc nhà			
+Từ vựng Minna	Bài 35 - 17	Bài 35	かいがい	海外	HẢI NGOẠI	nước ngoài hải ngoại			
+Từ vựng Minna	Bài 35 - 18	Bài 35	やまのぼり	山登り	SƠN ĐĂNG	leo núi			
+Từ vựng Minna	Bài 35 - 19	Bài 35	ハイキング			leo núi, đi bộ trên núi			
+Từ vựng Minna	Bài 35 - 20	Bài 35	きかい	機会	CƠ HỘI	cơ hội			
+Từ vựng Minna	Bài 35 - 21	Bài 35	きょか	許可	HỨA KHẢ	phép, giấy phép			
+Từ vựng Minna	Bài 35 - 22	Bài 35	まる	丸	HOÀN	tròn, vòng tròn			
+Từ vựng Minna	Bài 35 - 23	Bài 35	そうさ	操作	THAO TÁC	thao tác			
+Từ vựng Minna	Bài 35 - 24	Bài 35	ほうほう	方法	PHƯƠNG PHÁP	phương pháp			
+Từ vựng Minna	Bài 35 - 25	Bài 35	せつび	設備	THIẾT BỊ	thiết bị			
+Từ vựng Minna	Bài 35 - 26	Bài 35	カーテン			cái rèm			
+Từ vựng Minna	Bài 35 - 27	Bài 35	ひも			sợi dây			
+Từ vựng Minna	Bài 35 - 28	Bài 35	ふた			cái nắp			
+Từ vựng Minna	Bài 35 - 29	Bài 35	は	葉	DIỆP	cái lá			
+Từ vựng Minna	Bài 35 - 30	Bài 35	きょく	曲	KHÚC	bài hát, bản nhạc			
+Từ vựng Minna	Bài 35 - 31	Bài 35	たのしみ	楽しみ	NHẠC	niềm vui, điều vui			
+Từ vựng Minna	Bài 35 - 32	Bài 35	もっと			hơn, nữa			
+Từ vựng Minna	Bài 35 - 33	Bài 35	はじめに	初めに	SƠ	đầu tiên, trước hết			
+Từ vựng Minna	Bài 35 - 34	Bài 35	これでおわります。	これで終わります。	CHUNG	Đến đây là hết./ Chúng ta dừng lại ở đây.			
+Từ vựng Minna	Bài 35 - 35	Bài 35	はこね	箱根	TƯƠNG CĂN	một địa điểm nghỉ ngơi ở tỉnh Kanagawa			
+Từ vựng Minna	Bài 35 - 36	Bài 35	にっこう	日光	NHẬT QUANG	một địa điểm du lịch ở Tochigi			
+Từ vựng Minna	Bài 35 - 37	Bài 35	しろうま	白馬	BẠCH MÃ	một địa điểm du lịch ở tỉnh Nagano			
+Từ vựng Minna	Bài 35 - 38	Bài 35	アフリカ			châu Phi (Africa)			
+Từ vựng Minna	Bài 35 - 39	Bài 35	それなら			nếu thế thì, vậy thì			
+Từ vựng Minna	Bài 35 - 40	Bài 35	やこうバス	夜行バス	DẠ HÀNH	(chuyến) xe buýt chạy đêm			
+Từ vựng Minna	Bài 35 - 41	Bài 35	りょこうしゃ	旅行社	LỮ HÀNH XÃ	công ty du lịch			
+Từ vựng Minna	Bài 35 - 42	Bài 35	くわしい	詳しい	TƯỜNG	cụ thể, chi tiết			
+Từ vựng Minna	Bài 35 - 43	Bài 35	スキーじょう	スキー場	TRƯỜNG	địa điểm trượt tuyết, bãi trượt tuyết			
+Từ vựng Minna	Bài 35 - 44	Bài 35	くさつ	草津	THẢO TÂN	một địa điểm du lịch ở tỉnh Gunma			
+Từ vựng Minna	Bài 35 - 45	Bài 35	しがこうげん	志賀高原	CHÍ HẠ CAO NGUYÊN	một công viên quốc gia ở tỉnh Nagano			
+Từ vựng Minna	Bài 35 - 46	Bài 35	しゅ	朱	CHÂU/CHU	đỏ, màu đỏ			
+Từ vựng Minna	Bài 35 - 47	Bài 35	まじわります	交わります	GIAO	giao lưu với, quan hệ với			
+Từ vựng Minna	Bài 35 - 48	Bài 35	ことわざ			ngạn ngữ, tục ngữ (proverb)			
+Từ vựng Minna	Bài 35 - 49	Bài 35	なかよくします	仲よくします	TRỌNG	quan hệ tốt với, chơi thân với			
+Từ vựng Minna	Bài 35 - 50	Bài 35	ひつよう「な」	必要[な]	TẤT YẾU	cần thiết			
+Từ vựng Minna	Bài 36 - 01	Bài 36	[にもつが～] とどきます	[荷物が～]届きます	HÀ VẬT GIỚI	được gởi đến, được chuyển đến [hành lý ~]			
+Từ vựng Minna	Bài 36 - 02	Bài 36	[しあいに～]　でます	[試合に～]出ます	THÍ HỢP XUẤT	tham gia, tham dự [trận đấu]			
+Từ vựng Minna	Bài 36 - 03	Bài 36	[ワープロを～]うちます	[ワープロを～]打ちます	ĐẢ	đánh [máy chữ]			
+Từ vựng Minna	Bài 36 - 04	Bài 36	ちょきんします	貯金します	TRỮ KIM	tiết kiệm tiền, để dành tiền			
+Từ vựng Minna	Bài 36 - 05	Bài 36	ふとります	太ります	THÁI	béo lên, tăng cân			
+Từ vựng Minna	Bài 36 - 06	Bài 36	やせます			gầy đi, giảm cân			
+Từ vựng Minna	Bài 36 - 07	Bài 36	[７じを～] すぎます	[７時を～]過ぎます	THÌ QUÁ	quá, qua [7 giờ]			
+Từ vựng Minna	Bài 36 - 08	Bài 36	[しゅうかんに～] なれます	[習慣に～]慣れます	TẬP QUÁN QUÁN	làm quen với [tập quán]			
+Từ vựng Minna	Bài 36 - 09	Bài 36	かたい	硬い	NGẠNH	cứng			
+Từ vựng Minna	Bài 36 - 10	Bài 36	やわらかい	軟らかい	NHUYỄN	mềm			
+Từ vựng Minna	Bài 36 - 11	Bài 36	でんし～	電子～	ĐIỆN TỬ	~ điện tử			
+Từ vựng Minna	Bài 36 - 12	Bài 36	けいたい～	携帯～	HUỀ ĐỚI ~	cầm tay			
+Từ vựng Minna	Bài 36 - 13	Bài 36	こうじょう	工場	CÔNG TRƯỜNG	nhà máy, phân xưởng			
+Từ vựng Minna	Bài 36 - 14	Bài 36	けんこう	健康	KIỆN KHANG	sức khỏe			
+Từ vựng Minna	Bài 36 - 15	Bài 36	けんどう	剣道	KIẾM ĐẠO	kiếm đạo			
+Từ vựng Minna	Bài 36 - 16	Bài 36	まいしゅう	毎週	MỖI CHU	hàng tuần			
+Từ vựng Minna	Bài 36 - 17	Bài 36	まいつき	毎月	MỖI NGUYỆT	hàng tháng			
+Từ vựng Minna	Bài 36 - 18	Bài 36	まいとし（まいねん）	毎年	MỖI NIÊN	hàng năm			
+Từ vựng Minna	Bài 36 - 19	Bài 36	やっと			cuối cùng thì			
+Từ vựng Minna	Bài 36 - 20	Bài 36	かなり			khá, tương đối			
+Từ vựng Minna	Bài 36 - 21	Bài 36	かならず	必ず	TẤT	nhất định			
+Từ vựng Minna	Bài 36 - 22	Bài 36	ぜったいに	絶対に	TUYỆT ĐỐI	nhất định, tuyệt đối			
+Từ vựng Minna	Bài 36 - 23	Bài 36	じょうずに	上手に	THƯỢNG THỦ	giỏi, khéo			
+Từ vựng Minna	Bài 36 - 24	Bài 36	できるだけ			cố gắng			
+Từ vựng Minna	Bài 36 - 25	Bài 36	このごろ			gần đây, dạo này			
+Từ vựng Minna	Bài 36 - 26	Bài 36	～ずつ			từng ~, ~ một			
+Từ vựng Minna	Bài 36 - 27	Bài 36	そのほうが～			cái đó ~ hơn, như thế ~ hơn			
+Từ vựng Minna	Bài 36 - 28	Bài 36	ショパン			Sô-panh, nhà soạn nhạc người Ba Lan (1810-1849)			
+Từ vựng Minna	Bài 36 - 29	Bài 36	おきゃくさま	お客様	KHÁCH DẠNG	quý khách, khách hàng			
+Từ vựng Minna	Bài 36 - 30	Bài 36	とくべつ「な」	特別[な]	ĐẶC BIỆT	đặc biệt			
+Từ vựng Minna	Bài 36 - 31	Bài 36	していらっしゃいます			đang làm (tôn kính ngữ của しています)			
+Từ vựng Minna	Bài 36 - 32	Bài 36	すいえい	水泳	THỦY VĨNH	bơi, môn bơi			
+Từ vựng Minna	Bài 36 - 33	Bài 36	～とか、～とか			~ v.v.			
+Từ vựng Minna	Bài 36 - 34	Bài 36	タンゴ			tăng-gô			
+Từ vựng Minna	Bài 36 - 35	Bài 36	チャレンジします			thử, thử thách, dám làm (challenge)			
+Từ vựng Minna	Bài 36 - 36	Bài 36	きもち	気持ち	KHÍ TRÌ	cảm giác, tâm trạng, tinh thần			
+Từ vựng Minna	Bài 36 - 37	Bài 36	のりもの	乗り物	THỪA VẬT	phương tiện đi lại			
+Từ vựng Minna	Bài 36 - 38	Bài 36	れきし	歴史	LỊCH SỬ	lịch sử			
+Từ vựng Minna	Bài 36 - 39	Bài 36	―せいき	―世紀	THẾ KỶ	thế kỷ -			
+Từ vựng Minna	Bài 36 - 40	Bài 36	とおく	遠く	VIỄN	xa, ở xa			
+Từ vựng Minna	Bài 36 - 41	Bài 36	きしゃ	汽車	KHÍ XA	tàu hỏa chạy bằng hơi nước			
+Từ vựng Minna	Bài 36 - 42	Bài 36	きせん	汽船	KHÍ THUYỀN	thuyền chạy bằng hơi nước			
+Từ vựng Minna	Bài 36 - 43	Bài 36	おおぜいの～	大勢の～	ĐẠI THẾ	nhiều (người)			
+Từ vựng Minna	Bài 36 - 44	Bài 36	はこびます	運びます	VẬN	mang, chở, vận chuyển			
+Từ vựng Minna	Bài 36 - 45	Bài 36	とびます	飛びます	PHI	bay			
+Từ vựng Minna	Bài 36 - 46	Bài 36	あんぜん	安全	AN TOÀN	an toàn			
+Từ vựng Minna	Bài 36 - 47	Bài 36	うちゅう	宇宙	VŨ TRỤ	vũ trụ			
+Từ vựng Minna	Bài 36 - 48	Bài 36	ちきゅう	地球	ĐỊA CẦU	địa cầu, trái đất			
+Từ vựng Minna	Bài 36 - 49	Bài 36	ライトきょうだい	ライト兄弟	HUYNH ĐỆ	anh em nhà Wright			
+Từ vựng Minna	Bài 37 - 01	Bài 37	ほめます	褒めます	BAO	khen			
+Từ vựng Minna	Bài 37 - 02	Bài 37	しかります			mắng			
+Từ vựng Minna	Bài 37 - 03	Bài 37	さそいます	誘います	DỤ	mời, rủ			
+Từ vựng Minna	Bài 37 - 04	Bài 37	おこします	起こします	KHỞI	đánh thức			
+Từ vựng Minna	Bài 37 - 05	Bài 37	しょうたいします	招待します	CHIÊU ĐÃI	mời			
+Từ vựng Minna	Bài 37 - 06	Bài 37	たのみます	頼みます	LẠI	nhờ			
+Từ vựng Minna	Bài 37 - 07	Bài 37	ちゅういします	注意します	CHÚ Ý	chú ý, nhắc nhở			
+Từ vựng Minna	Bài 37 - 08	Bài 37	とります			ăn trộm, lấy cắp			
+Từ vựng Minna	Bài 37 - 09	Bài 37	ふみます	踏みます	ĐẠP	giẫm, giẫm lên, giẫm vào			
+Từ vựng Minna	Bài 37 - 10	Bài 37	こわします	壊します	HOẠI	phá, làm hỏng			
+Từ vựng Minna	Bài 37 - 11	Bài 37	よごします	汚します	Ô	làm bẩn			
+Từ vựng Minna	Bài 37 - 12	Bài 37	おこないます	行います	HÀNH	thực hiện, tiến hành			
+Từ vựng Minna	Bài 37 - 13	Bài 37	ゆしゅつします	輸出します	THÂU XUẤT	xuất khẩu			
+Từ vựng Minna	Bài 37 - 14	Bài 37	ゆにゅうします	輸入します	THÂU NHẬP	nhập khẩu			
+Từ vựng Minna	Bài 37 - 15	Bài 37	ほんやくします	翻訳します	PHIÊN DỊCH	dịch (sách, tài liệu)			
+Từ vựng Minna	Bài 37 - 16	Bài 37	はつめいします	発明します	PHÁT MINH	phát minh			
+Từ vựng Minna	Bài 37 - 17	Bài 37	はっけんします	発見します	PHÁT KIẾN	phát kiến, tìm ra, tìm thấy			
+Từ vựng Minna	Bài 37 - 18	Bài 37	せっけいします	設計します	THIẾT KẾ	thiết kế			
+Từ vựng Minna	Bài 37 - 19	Bài 37	こめ	米	MỄ	gạo			
+Từ vựng Minna	Bài 37 - 20	Bài 37	むぎ	麦	MẠCH	lúa mạch			
+Từ vựng Minna	Bài 37 - 21	Bài 37	せきゆ	石油	THẠCH DU	dầu mỏ			
+Từ vựng Minna	Bài 37 - 22	Bài 37	げんりょう	原料	NGUYÊN LIỆU	nguyên liệu			
+Từ vựng Minna	Bài 37 - 23	Bài 37	デート			cuộc hẹn hò (của nam nữ)			
+Từ vựng Minna	Bài 37 - 24	Bài 37	どろぼう	泥棒	NÊ BỔNG	kẻ trộm			
+Từ vựng Minna	Bài 37 - 25	Bài 37	けいかん	警官	CẢNH QUAN	cảnh sát			
+Từ vựng Minna	Bài 37 - 26	Bài 37	けんちくか	建築家	KIẾN TRÚC GIA	kiến trúc sư			
+Từ vựng Minna	Bài 37 - 27	Bài 37	かがくしゃ	科学者	KHOA HỌC GIẢ	nhà khoa học			
+Từ vựng Minna	Bài 37 - 28	Bài 37	まんが	漫画	MẠN HỌA	truyện tranh			
+Từ vựng Minna	Bài 37 - 29	Bài 37	せかいじゅう	世界中	THẾ GIỚI TRUNG	khắp thế giới, toàn thế giới			
+Từ vựng Minna	Bài 37 - 30	Bài 37	～じゅう	～中	TRUNG	khắp ~, toàn ~			
+Từ vựng Minna	Bài 37 - 31	Bài 37	～によって			do ~			
+Từ vựng Minna	Bài 37 - 32	Bài 37	よかったですね。			May nhỉ./ may cho anh/chị nhỉ.			
+Từ vựng Minna	Bài 37 - 33	Bài 37	ドミニカ			Dominica, tên một quốc gia ở Trung Mỹ			
+Từ vựng Minna	Bài 37 - 34	Bài 37	ライトきょうだい	ライト兄弟	HUYNH ĐỆ	anh em nhà Wright, hai anh em người Mỹ đi tiên phong trong ngành hàng không Wilbur Wright (1867-1912) và Orville Wright (1871-1948)			
+Từ vựng Minna	Bài 37 - 35	Bài 37	げんじものがたり	源氏物語	NGUYÊN THỊ VẬT NGỮ	“chuyện Genji”			
+Từ vựng Minna	Bài 37 - 36	Bài 37	むらさきしきぶ	紫式部	TỬ THỨC BỘ	Nữ tác giả viết “chuyện Genji” sống trong thời Heian			
+Từ vựng Minna	Bài 37 - 37	Bài 37	グラハム・ベル			Alexander Graham Bell (1847-1922), nhà phát minh người Mỹ			
+Từ vựng Minna	Bài 37 - 38	Bài 37	とうしょうぐう	東照宮	ĐÔNG CHIẾU CUNG	tên đền thờ Tokugawa Ieyasu ở Nikko, tỉnh Tochigi			
+Từ vựng Minna	Bài 37 - 39	Bài 37	えどじだい	江戸時代	GIANG HỘ THỜI ĐẠI	thời Edo (1603-1868)			
+Từ vựng Minna	Bài 37 - 40	Bài 37	サウジアラビア			Ả-rập Xê-út (Saudi Arabia)			
+Từ vựng Minna	Bài 37 - 41	Bài 37	うめたてます	埋め立てます	MAI LẬP	lấp (biển)			
+Từ vựng Minna	Bài 37 - 42	Bài 37	ぎじゅつ	技術	KỸ THUẬT	kỹ thuật			
+Từ vựng Minna	Bài 37 - 43	Bài 37	とち	土地	THỔ ĐỊA	đất, diện tích đất			
+Từ vựng Minna	Bài 37 - 44	Bài 37	そうおん	騒音	TAO ÂM	tiếng ồn			
+Từ vựng Minna	Bài 37 - 45	Bài 37	りようします	利用します	LỢI DỤNG	lợi dụng, sử dụng			
+Từ vựng Minna	Bài 37 - 46	Bài 37	アクセス			nối, giao thông đi đến			
+Từ vựng Minna	Bài 37 - 47	Bài 37	―せいき	―世紀	THẾ KỶ	thế kỷ -			
+Từ vựng Minna	Bài 37 - 48	Bài 37	ごうか「な」	豪華[な]	HÀO HOA	hào hoa, sang trọng			
+Từ vựng Minna	Bài 37 - 49	Bài 37	ちょうこく	彫刻	ĐIÊU KHẮC	điêu khắc			
+Từ vựng Minna	Bài 37 - 50	Bài 37	ねむります	眠ります	MIÊN	ngủ			
+Từ vựng Minna	Bài 37 - 51	Bài 37	ほります	彫ります	ĐIÊU	khắc			
+Từ vựng Minna	Bài 37 - 52	Bài 37	なかま	仲間	TRỌNG GIAN	bạn bè, đồng nghiệp			
+Từ vựng Minna	Bài 37 - 53	Bài 37	そのあと			sau đó			
+Từ vựng Minna	Bài 37 - 54	Bài 37	いっしょうけんめい	一生懸命	NHẤT SINH HUYỀN MỆNH	(cố gắng) hết sức, chăm chỉ, miệt mài			
+Từ vựng Minna	Bài 37 - 55	Bài 37	ねずみ			con chuột			
+Từ vựng Minna	Bài 37 - 56	Bài 37	いっぴきもいません。	一匹もいません。		Không có con nào cả.			
+Từ vựng Minna	Bài 37 - 57	Bài 37	ねむりねこ	眠り猫	MIÊN MIÊU	“con mèo ngủ”, tác phẩm điêu khắc của Jingoro ở Tosho-gu			
+Từ vựng Minna	Bài 37 - 58	Bài 37	ひだりじんごろう	左甚五郎	TẢ THẬM NGŨ LANG	tên một nhà điêu khắc nỗi tiếng thời Edo (1594-1651)			
+Từ vựng Minna	Bài 38 - 01	Bài 38	そだてます	育てます	DỤC	nuôi, trồng			
+Từ vựng Minna	Bài 38 - 02	Bài 38	はこびます	運びます	VẬN	chở, vận chuyển			
+Từ vựng Minna	Bài 38 - 03	Bài 38	なくなります	亡くなります	VONG	mất, qua đời (cách nói gián tiếp của しにます(bài 39))			
+Từ vựng Minna	Bài 38 - 04	Bài 38	にゅういんします	入院します	NHẬP VIỆN	nhập viện			
+Từ vựng Minna	Bài 38 - 05	Bài 38	たいいんします	退院します	THOÁI VIỆN	xuất viện			
+Từ vựng Minna	Bài 38 - 06	Bài 38	[でんげんを～] いれます	[電源を～]入れます	ĐIỆN NGUYÊN NHẬP	bật [công tác điện, nguồn điện]			
+Từ vựng Minna	Bài 38 - 07	Bài 38	[でんげんを～]きります	[電源を～]切ります	ĐIỆN NGUYÊN THIẾT	tắt [công tác điện, nguồn điện]			
+Từ vựng Minna	Bài 38 - 08	Bài 38	[かぎを～]かけます	[かぎを～]掛けます	QUẢI	khóa [chìa khóa]			
+Từ vựng Minna	Bài 38 - 09	Bài 38	きもちがいい	気持ちがいい	KHÍ TRÌ	dễ chịu, thư giãn			
+Từ vựng Minna	Bài 38 - 10	Bài 38	きもちがわるい	気持ちが悪い	KHÍ TRÌ ÁC	khó chịu			
+Từ vựng Minna	Bài 38 - 11	Bài 38	おおきな～	大きな～	ĐẠI	~ to, ~ lớn			
+Từ vựng Minna	Bài 38 - 12	Bài 38	ちいさな～	小さな～	NHỎ ~	nhỏ, ~ bé			
+Từ vựng Minna	Bài 38 - 13	Bài 38	あかちゃん	赤ちゃん	XÍCH	em bé			
+Từ vựng Minna	Bài 38 - 14	Bài 38	しょうがっこう	小学校	TIỂU HỌC HIỆU	trường tiểu học			
+Từ vựng Minna	Bài 38 - 15	Bài 38	ちゅうがっこう	中学校	TRUNG HỌC HIỆU	trường trung học cơ sở			
+Từ vựng Minna	Bài 38 - 16	Bài 38	えきまえ	駅前	DỊCH TIỀN	khu vực trước nhà ga			
+Từ vựng Minna	Bài 38 - 17	Bài 38	かいがん	海岸	HẢI NGẠN	bờ biển			
+Từ vựng Minna	Bài 38 - 18	Bài 38	うそ			nói dối, lời nói dối			
+Từ vựng Minna	Bài 38 - 19	Bài 38	しょるい	書類	THƯ LOẠI	giấy tờ, tài liệu			
+Từ vựng Minna	Bài 38 - 20	Bài 38	でんげん	電源	ĐIỆN NGUYÊN	nguồn điện, công tắc điện			
+Từ vựng Minna	Bài 38 - 21	Bài 38	～せい	～製	CHẾ	sản xuất tại ~			
+Từ vựng Minna	Bài 38 - 22	Bài 38	[あ、]いけない。			Ôi, hỏng mất rồi./ ôi, trời ơi.			
+Từ vựng Minna	Bài 38 - 23	Bài 38	おさきに [しつれいします]	お先に[失礼します]。	TIÊN THẤT LỄ	tôi xin phép về trước			
+Từ vựng Minna	Bài 38 - 24	Bài 38	げんばくドーム	原爆ドーム	NGUYÊN BỘC	nhà vòm Bom nguyên tử, một di tích			
+Từ vựng Minna	Bài 38 - 25	Bài 38	かいらん	回覧	HỒI LÃM	tập thông báo			
+Từ vựng Minna	Bài 38 - 26	Bài 38	けんきゅうしつ	研究室	NGHIÊN CỨU THẤT	phòng nghiên cứu			
+Từ vựng Minna	Bài 38 - 27	Bài 38	きちんと			nghiêm chỉnh, hẳn hoi, đứng đắn			
+Từ vựng Minna	Bài 38 - 28	Bài 38	せいりします			sắp xếp			
+Từ vựng Minna	Bài 38 - 29	Bài 38	～という本		BẢN	quyển sách có tên là ~			
+Từ vựng Minna	Bài 38 - 30	Bài 38	―さつ	－冊	SÁCH	(đơn vị đếm sách, v.v.)			
+Từ vựng Minna	Bài 38 - 31	Bài 38	はんこ			con dấu, dấu			
+Từ vựng Minna	Bài 38 - 32	Bài 38	[はんこを～]おします	[はんこを～] 押します	ÁP	đóng [dấu]			
+Từ vựng Minna	Bài 38 - 33	Bài 38	ふたご	双子	SONG TỬ	cặp sinh đôi			
+Từ vựng Minna	Bài 38 - 34	Bài 38	しまい	姉妹	TỶ MUỘI	chị em			
+Từ vựng Minna	Bài 38 - 35	Bài 38	5ねんせい	５年生	NIÊN SINH	học sinh năm thứ 5			
+Từ vựng Minna	Bài 38 - 36	Bài 38	にています	似ています	TỰ	giống			
+Từ vựng Minna	Bài 38 - 37	Bài 38	せいかく	性格	TÍNH CÁCH	tính cách, tính tình			
+Từ vựng Minna	Bài 38 - 38	Bài 38	おとなしい			hiền lành, trầm			
+Từ vựng Minna	Bài 38 - 39	Bài 38	せわをします	世話をします	THẾ THOẠI	chăm sóc, giúp đỡ			
+Từ vựng Minna	Bài 38 - 40	Bài 38	じかんがたちます	時間がたちます	THỜI GIAN	thời gian trôi đi			
+Từ vựng Minna	Bài 38 - 41	Bài 38	だいすき「な」	大好き[な]	ĐẠI HẢO	rất thích			
+Từ vựng Minna	Bài 38 - 42	Bài 38	てん	―点	ĐIỂM ―	- điểm			
+Từ vựng Minna	Bài 38 - 43	Bài 38	クラス			lớp học, lớp			
+Từ vựng Minna	Bài 38 - 44	Bài 38	けんかします			cãi nhau			
+Từ vựng Minna	Bài 39 - 01	Bài 39	[しつもんに～]こたえます	[質問に～]答えます	CHẤT VẤN ĐÁP	trả lời [câu hỏi]			
+Từ vựng Minna	Bài 39 - 02	Bài 39	[ビルが～]たおれます	[ビルが～]倒れます	ĐẢO	đổ [nhà cao tầng ~]			
+Từ vựng Minna	Bài 39 - 03	Bài 39	[うちが～]やけます	[うちが～]焼けます	THIÊU	cháy [nhà ~]			
+Từ vựng Minna	Bài 39 - 04	Bài 39	[パンが～]やけます	[パンが～]焼けます	THIÊU	được nướng [bánh mì ~]			
+Từ vựng Minna	Bài 39 - 05	Bài 39	[にくが～]やけます	[肉が～]焼けます	NHỤC THIÊU	được nướng [thịt ~]			
+Từ vựng Minna	Bài 39 - 06	Bài 39	[みちを～]とおります	[道を～]通ります	ĐẠO THÔNG	đi qua (đường)			
+Từ vựng Minna	Bài 39 - 07	Bài 39	しにます	死にます	TỬ	chết			
+Từ vựng Minna	Bài 39 - 08	Bài 39	びっくりします			ngạc nhiên, giật mình			
+Từ vựng Minna	Bài 39 - 09	Bài 39	がっかりします			thất vọng			
+Từ vựng Minna	Bài 39 - 10	Bài 39	あんしんします	安心します	AN TÂM	yên tâm			
+Từ vựng Minna	Bài 39 - 11	Bài 39	ちこくします	遅刻します	TRÌ KHẮC	đến chậm, đến muộn			
+Từ vựng Minna	Bài 39 - 12	Bài 39	そうたいします	早退します	TẢO THOÁI	về sớm, ra sớm (việc làm hay trường học)			
+Từ vựng Minna	Bài 39 - 13	Bài 39	けんかします			cãi nhau			
+Từ vựng Minna	Bài 39 - 14	Bài 39	りこんします	離婚します	LY HÔN	ly dị, ly hôn			
+Từ vựng Minna	Bài 39 - 15	Bài 39	ふくざつ[な]	複雑[な]	PHỨC TẠP	phức tạp			
+Từ vựng Minna	Bài 39 - 16	Bài 39	じゃま[な]	邪魔[な]	TÀ MA	cản trở, chiếm diện tích			
+Từ vựng Minna	Bài 39 - 17	Bài 39	きたない	汚い	Ô	bẩn			
+Từ vựng Minna	Bài 39 - 18	Bài 39	うれしい			vui, mừng			
+Từ vựng Minna	Bài 39 - 19	Bài 39	かなしい	悲しい	BI	buồn, đau thương			
+Từ vựng Minna	Bài 39 - 20	Bài 39	はずかしい	恥ずかしい	SỈ	xấu hổ, thẹn, hổ thẹn			
+Từ vựng Minna	Bài 39 - 21	Bài 39	じしん	地震	ĐỊA CHẤN	động đất			
+Từ vựng Minna	Bài 39 - 22	Bài 39	たいふう	台風	ĐÀI PHONG	bão			
+Từ vựng Minna	Bài 39 - 23	Bài 39	かじ	火事	HỎA SỰ	hỏa hoạn			
+Từ vựng Minna	Bài 39 - 24	Bài 39	じこ	事故	SỰ CỐ	tai nạn, sự cố			
+Từ vựng Minna	Bài 39 - 25	Bài 39	[お]みあい	[お]見合い	KIẾN HỢP	Nam nữ làm quen qua giới thiệu, làm mối			
+Từ vựng Minna	Bài 39 - 26	Bài 39	でんわだい	電話代	ĐIỆN THOẠI ĐẠI	tiền điện thoại, phí điện thoại			
+Từ vựng Minna	Bài 39 - 27	Bài 39	～だい	～代	ĐẠI	tiền ~, phí ~			
+Từ vựng Minna	Bài 39 - 28	Bài 39	フロント			bộ phận tiếp tân, bộ phận thường trực			
+Từ vựng Minna	Bài 39 - 29	Bài 39	―ごうしつ	―号室	HIỆU THẤT	phòng số -			
+Từ vựng Minna	Bài 39 - 30	Bài 39	あせ	汗	HÃN	mồ hôi (～をかきます：ra mồ hôi)			
+Từ vựng Minna	Bài 39 - 31	Bài 39	タオル			khăn lau, khăn tắm			
+Từ vựng Minna	Bài 39 - 32	Bài 39	せっけん			xà phòng			
+Từ vựng Minna	Bài 39 - 33	Bài 39	おおぜい	大勢	ĐẠI THẾ	nhiều người			
+Từ vựng Minna	Bài 39 - 34	Bài 39	おつかれさまでした。	お疲れ様でした。	BÌ DẠNG	Chắc anh chị đã mệt vì làm việc. (câu chào dùng để nói với người đã làm xong một việc gì đó)			
+Từ vựng Minna	Bài 39 - 35	Bài 39	うかがいます。	伺います。	TỨ	Tôi đến thăm. (cách nói khiêm nhường của いきます)			
+Từ vựng Minna	Bài 39 - 36	Bài 39	とちゅうで	途中で	ĐỒ TRUNG	giữa đường, dọc đường, giữa chừng			
+Từ vựng Minna	Bài 39 - 37	Bài 39	トラック			xe tải			
+Từ vựng Minna	Bài 39 - 38	Bài 39	ぶつかります			đâm, va chạm			
+Từ vựng Minna	Bài 39 - 39	Bài 39	ならびます	並びます	TỊNH	xếp hàng			
+Từ vựng Minna	Bài 39 - 40	Bài 39	おとな	大人	ĐẠI NHÂN	người lớn			
+Từ vựng Minna	Bài 39 - 41	Bài 39	ようふく	洋服	DƯƠNG PHỤC	quần áo kiểu Tây Âu			
+Từ vựng Minna	Bài 39 - 42	Bài 39	せいようかします	西洋化します	TÂY DƯƠNG HÓA	Tây Âu hóa			
+Từ vựng Minna	Bài 39 - 43	Bài 39	あいます	合います	HỢP	vừa, hợp			
+Từ vựng Minna	Bài 39 - 44	Bài 39	いまでは	今では	KIM	bây giờ (thì)			
+Từ vựng Minna	Bài 39 - 45	Bài 39	せいじんしき	成人式	THÀNH NHÂN THỨC	Lễ trưởng thành, Lễ thành Nhân			
+Từ vựng Minna	Bài 39 - 46	Bài 39	ふしぎ「な」	不思議[な]	BẤT TƯ NGHỊ	bí ẩn, kỳ thú, khó hiểu			
+Từ vựng Minna	Bài 40 - 01	Bài 40	かぞえます	数えます	SỐ	đếm			
+Từ vựng Minna	Bài 40 - 02	Bài 40	はかります	測ります、量ります	TRẮC LƯỢNG	đo, cân			
+Từ vựng Minna	Bài 40 - 03	Bài 40	たしかめます	確かめます	XÁC	xác nhận			
+Từ vựng Minna	Bài 40 - 04	Bài 40	[サイズが～]あいます	[サイズが～]合います	HỢP	vừa, hợp [kích thước ~]			
+Từ vựng Minna	Bài 40 - 05	Bài 40	しゅっぱつします	出発します	XUẤT PHÁT	xuất phát, khởi hành, đi			
+Từ vựng Minna	Bài 40 - 06	Bài 40	とうちゃくします	到着します	ĐÁO TRƯỚC	đến, đến nơi			
+Từ vựng Minna	Bài 40 - 07	Bài 40	よいます	酔います	TÚY	say			
+Từ vựng Minna	Bài 40 - 08	Bài 40	きけん[な]	危険[な]	NGUY HIỂM	nguy hiểm			
+Từ vựng Minna	Bài 40 - 09	Bài 40	ひつよう[な]	必要[な]	TẤT YẾU	cần thiết			
+Từ vựng Minna	Bài 40 - 10	Bài 40	うちゅう	宇宙	VŨ TRỤ	vũ trụ			
+Từ vựng Minna	Bài 40 - 11	Bài 40	ちきゅう	地球	ĐỊA CẦU	trái đất			
+Từ vựng Minna	Bài 40 - 12	Bài 40	ぼうねんかい	忘年会	VONG NIÊN HỘI	tiệc tất niên			
+Từ vựng Minna	Bài 40 - 13	Bài 40	しんねんかい	新年会	TÂN NIÊN HỘI	tiệc tân niên			
+Từ vựng Minna	Bài 40 - 14	Bài 40	にじかい	二次会	NHỊ THỨ HỘI	bữa tiệc thứ hai, “tăng hai”			
+Từ vựng Minna	Bài 40 - 15	Bài 40	たいかい	大会	ĐẠI HỘI	đại hội, cuộc thi			
+Từ vựng Minna	Bài 40 - 16	Bài 40	マラソン			ma ra tông			
+Từ vựng Minna	Bài 40 - 17	Bài 40	コンテスト			cuộc thi			
+Từ vựng Minna	Bài 40 - 18	Bài 40	おもて	表	BIỂU	phía trước, mặt trước			
+Từ vựng Minna	Bài 40 - 19	Bài 40	うら	裏	LÝ	phía sau, mặt sau			
+Từ vựng Minna	Bài 40 - 20	Bài 40	へんじ	返事	PHẢN SỰ	hồi âm, trả lời			
+Từ vựng Minna	Bài 40 - 21	Bài 40	もうしこみ	申し込み	THÂN VÀO	đăng ký			
+Từ vựng Minna	Bài 40 - 22	Bài 40	ほんとう			thật			
+Từ vựng Minna	Bài 40 - 23	Bài 40	まちがい			sai, lỗi			
+Từ vựng Minna	Bài 40 - 24	Bài 40	きず	傷	THƯƠNG	vết thương			
+Từ vựng Minna	Bài 40 - 25	Bài 40	ズボン			cái quần			
+Từ vựng Minna	Bài 40 - 26	Bài 40	ながさ	長さ	TRƯỜNG	chiều dài			
+Từ vựng Minna	Bài 40 - 27	Bài 40	おもさ	重さ	TRỌNG	cân nặng, trọng lượng			
+Từ vựng Minna	Bài 40 - 28	Bài 40	たかさ	高さ	CAO	chiều cao			
+Từ vựng Minna	Bài 40 - 29	Bài 40	おおきさ	大きさ	ĐẠI	cỡ, kích thước			
+Từ vựng Minna	Bài 40 - 30	Bài 40	[－]びん	[－]便	TIỆN	chuyến bay [―]			
+Từ vựng Minna	Bài 40 - 31	Bài 40	―ごう	―号	HIỆU	số [―] (số hiệu đoàn tàu, cơn bão v.v.)			
+Từ vựng Minna	Bài 40 - 32	Bài 40	―こ	－個	CÁ	cái, cục, viên (đơn vị đếm vật nhỏ)			
+Từ vựng Minna	Bài 40 - 33	Bài 40	―ほん（―ぽん、―ぼん）	―本	BỔN	― cái (đơn vị đếm vật dài)			
+Từ vựng Minna	Bài 40 - 34	Bài 40	―はい（―ぱい、―ばい）	―杯	BÔI	―chén, ―cốc			
+Từ vựng Minna	Bài 40 - 35	Bài 40	―キロ			―ki-lô, ―cân			
+Từ vựng Minna	Bài 40 - 36	Bài 40	―グラム			―gam			
+Từ vựng Minna	Bài 40 - 37	Bài 40	―センチ			―xăng-ti-mét			
+Từ vựng Minna	Bài 40 - 38	Bài 40	―ミリ			―mi-li-mét			
+Từ vựng Minna	Bài 40 - 39	Bài 40	～いじょう	～以上	DĨ THƯỢNG	~ trở lên, trên			
+Từ vựng Minna	Bài 40 - 40	Bài 40	～いか	～以下	DĨ HẠ ~	trở xuống, dưới			
+Từ vựng Minna	Bài 40 - 41	Bài 40	さあ			À…,Ồ… (dùng khi không rõ về điều gì đó)			
+Từ vựng Minna	Bài 40 - 42	Bài 40	ゴッホ			Van-gốc (1853-1890), danh họa người Hà Lan			
+Từ vựng Minna	Bài 40 - 43	Bài 40	ゆきまつり	雪祭り	TUYẾT TẾ	Lễ hội tuyết (ở Sapporo)			
+Từ vựng Minna	Bài 40 - 44	Bài 40	のぞみ			tên một loại tàu Shinkansen			
+Từ vựng Minna	Bài 40 - 45	Bài 40	ＪＬ			hãng hàng không Nhật Bản (Japan Airlines)			
+Từ vựng Minna	Bài 40 - 46	Bài 40	どうでしょうか。			Thế nào? (cách nói lịch sự của どうですか)			
+Từ vựng Minna	Bài 40 - 47	Bài 40	クラス			lớp học			
+Từ vựng Minna	Bài 40 - 48	Bài 40	テスト			Bài kiểm tra, bài thi			
+Từ vựng Minna	Bài 40 - 49	Bài 40	せいせき	成績	THÀNH TÍCH	kết quả, thành tích			
+Từ vựng Minna	Bài 40 - 50	Bài 40	ところで			nhân tiện đây			
+Từ vựng Minna	Bài 40 - 51	Bài 40	いらっしゃいます			đến (tôn kính ngữ của きます)			
+Từ vựng Minna	Bài 40 - 52	Bài 40	ようす	様子	DẠNG TỬ	vẻ, tình hình			
+Từ vựng Minna	Bài 40 - 53	Bài 40	じけん	事件	SỰ KIỆN	vụ án			
+Từ vựng Minna	Bài 40 - 54	Bài 40	オートバイ			xe máy			
+Từ vựng Minna	Bài 40 - 55	Bài 40	ばくだん	爆弾	BỘC ĐẠN	bom			
+Từ vựng Minna	Bài 40 - 56	Bài 40	つみます	積みます	TÍCH	chuyển lên, xếp hàng lên			
+Từ vựng Minna	Bài 40 - 57	Bài 40	うんてんしゅ	運転手	VẬN CHUYỂN THỦ	lái xe			
+Từ vựng Minna	Bài 40 - 58	Bài 40	はなれた	離れた	LY	xa cách, xa			
+Từ vựng Minna	Bài 40 - 59	Bài 40	が			nhưng			
+Từ vựng Minna	Bài 40 - 60	Bài 40	きゅうに	急に	CẤP	gấp, đột nhiên			
+Từ vựng Minna	Bài 40 - 61	Bài 40	うごかします	動かします	ĐỘNG	khởi động, chạy			
+Từ vựng Minna	Bài 40 - 62	Bài 40	いっしょうけんめい	一生懸命	NHẤT SINH HUYỀN MỆNH	hết sức, chăm chỉ			
+Từ vựng Minna	Bài 40 - 63	Bài 40	はんにん	犯人	PHẠM NHÂN	thủ phạm			
+Từ vựng Minna	Bài 40 - 64	Bài 40	てに　いれます	手に入れます	THỦ NHẬP	có được, lấy được, đoạt được			
+Từ vựng Minna	Bài 40 - 65	Bài 40	いまでも	今でも	KIM	ngay cả bây giờ			
+Từ vựng Minna	Bài 40 - 66	Bài 40	うわさします			đồn đại			
+Từ vựng Minna	Bài 41 - 01	Bài 41	いただきます			nhận (khiêm nhường ngữ củaもらいます)			
+Từ vựng Minna	Bài 41 - 02	Bài 41	くださいます			Cho, tặng (tôi) (tôn kính ngữ củaくれます)			
+Từ vựng Minna	Bài 41 - 03	Bài 41	やります			cho, tặng (dùng với người dưới hoặc bằng vai)			
+Từ vựng Minna	Bài 41 - 04	Bài 41	よびます	呼びます	HÔ	mời			
+Từ vựng Minna	Bài 41 - 05	Bài 41	とりかえます	取り替えます	THỦ THẾ	đổi, thay			
+Từ vựng Minna	Bài 41 - 06	Bài 41	しんせつにします	親切にします	THÂN THIẾT	giúp đỡ, đối xử thân thiện			
+Từ vựng Minna	Bài 41 - 07	Bài 41	かわいい			xinh, đáng yêu			
+Từ vựng Minna	Bài 41 - 08	Bài 41	おいわい	お祝い	CHÚC	mừng, quà mừng (～をします：mừng)			
+Từ vựng Minna	Bài 41 - 09	Bài 41	おとしだま	お年玉	NIÊN NGỌC	tiền mừng tuổi			
+Từ vựng Minna	Bài 41 - 10	Bài 41	[お]みまい	[お]見舞い	KIẾN VŨ	thăm người ốm			
+Từ vựng Minna	Bài 41 - 11	Bài 41	きょうみ	興味	HƯNG VỊ	sở thích, quan tâm（[コンピューターに]　～が　あります：quan tâm đến [máy tính]）			
+Từ vựng Minna	Bài 41 - 12	Bài 41	じょうほう	情報	TÌNH BÁO	thông tin			
+Từ vựng Minna	Bài 41 - 13	Bài 41	ぶんぽう	文法	VĂN PHÁP	ngữ pháp			
+Từ vựng Minna	Bài 41 - 14	Bài 41	はつおん	発音	PHÁT ÂM	phát âm			
+Từ vựng Minna	Bài 41 - 15	Bài 41	さる	猿	VIÊN	con khỉ			
+Từ vựng Minna	Bài 41 - 16	Bài 41	えさ			đồ ăn cho động vật, mồi			
+Từ vựng Minna	Bài 41 - 17	Bài 41	おもちゃ			đồ chơi			
+Từ vựng Minna	Bài 41 - 18	Bài 41	えほん			quyển truyện tranh			
+Từ vựng Minna	Bài 41 - 19	Bài 41	えはがき	絵はがき	HỘI	bưu ảnh			
+Từ vựng Minna	Bài 41 - 20	Bài 41	ドライバー			cái tua-vít			
+Từ vựng Minna	Bài 41 - 21	Bài 41	ハンカチ			khăn mùi xoa, khăn tay			
+Từ vựng Minna	Bài 41 - 22	Bài 41	くつした	靴下	NGOA HẠ	cái tất			
+Từ vựng Minna	Bài 41 - 23	Bài 41	てぶくろ	手袋	THỦ ĐẠI	cái găng tay			
+Từ vựng Minna	Bài 41 - 24	Bài 41	ゆびわ	指輪	CHỈ LUÂN	cái nhẫn			
+Từ vựng Minna	Bài 41 - 25	Bài 41	バッグ			cái túi (bag)			
+Từ vựng Minna	Bài 41 - 26	Bài 41	そふ	祖父	TỔ PHỤ	ông (dùng với bản thân)			
+Từ vựng Minna	Bài 41 - 27	Bài 41	そぼ	祖母	TỔ MẪU	bà (dùng với bản thân)			
+Từ vựng Minna	Bài 41 - 28	Bài 41	まご	孫	TÔN	cháu			
+Từ vựng Minna	Bài 41 - 29	Bài 41	おじ			chú, cậu, bác (dùng với bản thân)			
+Từ vựng Minna	Bài 41 - 30	Bài 41	おじさん			Chú, cậu, bác (dùng với người khác)			
+Từ vựng Minna	Bài 41 - 31	Bài 41	おば			cô, dì, bác (dùng với bản thân)			
+Từ vựng Minna	Bài 41 - 32	Bài 41	おばさん			cô, dì, bác (dùng với người khác)			
+Từ vựng Minna	Bài 41 - 33	Bài 41	おととし			năm kia			
+Từ vựng Minna	Bài 41 - 34	Bài 41	はあ			à, ồ			
+Từ vựng Minna	Bài 41 - 35	Bài 41	もうしわけありません	申し訳ありません。	THÂN DỊCH	Xin lỗi.			
+Từ vựng Minna	Bài 41 - 36	Bài 41	あずかります	預かります	DỰ	giữ, giữ hộ, giữ cho			
+Từ vựng Minna	Bài 41 - 37	Bài 41	せんじつ	先日	TIÊN NHẬT	hôm trước, mấy hôm trước			
+Từ vựng Minna	Bài 41 - 38	Bài 41	たすかります	助かります	TRỢ	may có anh/ chị giúp			
+Từ vựng Minna	Bài 41 - 39	Bài 41	むかしばなし	昔話	TÍCH THOẠI	chuyện cổ tích			
+Từ vựng Minna	Bài 41 - 40	Bài 41	ある			～có ~, một ~			
+Từ vựng Minna	Bài 41 - 41	Bài 41	おとこ	男	NAM	người đàn ông, nam giới			
+Từ vựng Minna	Bài 41 - 42	Bài 41	こどもたち	子供たち	TỬ CUNG	trẻ em, trẻ con, bọn trẻ			
+Từ vựng Minna	Bài 41 - 43	Bài 41	いじめます			bắt nạt			
+Từ vựng Minna	Bài 41 - 44	Bài 41	かめ			con rùa			
+Từ vựng Minna	Bài 41 - 45	Bài 41	たすけます	助けます	TRỢ	giúp, giúp đỡ			
+Từ vựng Minna	Bài 41 - 46	Bài 41	「お」しろ	[お]城	THÀNH	lâu đài, thành			
+Từ vựng Minna	Bài 41 - 47	Bài 41	おひめさま	お姫様	CƠ DẠNG	công chúa			
+Từ vựng Minna	Bài 41 - 48	Bài 41	たのしく	楽しく	LẠC/NHẠC	vui			
+Từ vựng Minna	Bài 41 - 49	Bài 41	くらします	暮らします	MỘ	sống, sinh hoạt			
+Từ vựng Minna	Bài 41 - 50	Bài 41	りく	陸	LỤC	đất liền, lục địa			
+Từ vựng Minna	Bài 41 - 51	Bài 41	すると			thế rồi, sau đó			
+Từ vựng Minna	Bài 41 - 52	Bài 41	けむり	煙	YÊN	khói			
+Từ vựng Minna	Bài 41 - 53	Bài 41	まっしろ「な」	真っ白[な]	CHÂN BẠCH	trắng toát, trắng ngần			
+Từ vựng Minna	Bài 41 - 54	Bài 41	なかみ	中身	TRUNG THÂN	nội dung, cái ở bên trong			
+Từ vựng Minna	Bài 42 - 01	Bài 42	つつみます	包みます	BAO	bọc, gói			
+Từ vựng Minna	Bài 42 - 02	Bài 42	わかします	沸かします	PHẮT/PHI	đun sôi			
+Từ vựng Minna	Bài 42 - 03	Bài 42	まぜます	混ぜます	HỖN	trộn, khuấy			
+Từ vựng Minna	Bài 42 - 04	Bài 42	けいさんします	計算します	KẾ TOÁN	tính toán, làm tính			
+Từ vựng Minna	Bài 42 - 05	Bài 42	あつい	厚い	HẬU	dày			
+Từ vựng Minna	Bài 42 - 06	Bài 42	うすい	薄い	BẠC	mỏng			
+Từ vựng Minna	Bài 42 - 07	Bài 42	べんごし	弁護士	BIỆN HỘ SĨ	luật sư			
+Từ vựng Minna	Bài 42 - 08	Bài 42	おんがくか	音楽家	ÂM NHẠC GIA	nhạc sĩ			
+Từ vựng Minna	Bài 42 - 09	Bài 42	こどもたち	子どもたち	TỬ	trẻ em, trẻ con, bọn trẻ			
+Từ vựng Minna	Bài 42 - 10	Bài 42	ふたり	二人	NHỊ NHÂN	hai người, cặp, đôi			
+Từ vựng Minna	Bài 42 - 11	Bài 42	きょういく	教育	GIÁO DỤC	giáo dục, việc học hành			
+Từ vựng Minna	Bài 42 - 12	Bài 42	れきし	歴史	LỊCH SỬ	lịch sử			
+Từ vựng Minna	Bài 42 - 13	Bài 42	ぶんか	文化	VĂN HÓA	văn hóa			
+Từ vựng Minna	Bài 42 - 14	Bài 42	しゃかい	社会	XÃ HỘI	xã hội			
+Từ vựng Minna	Bài 42 - 15	Bài 42	ほうりつ	法律	PHÁP LUẬT	pháp luật			
+Từ vựng Minna	Bài 42 - 16	Bài 42	せんそう	戦争	CHIẾN TRANH	chiến tranh			
+Từ vựng Minna	Bài 42 - 17	Bài 42	へいわ	平和	BÌNH HÒA	hòa bình			
+Từ vựng Minna	Bài 42 - 18	Bài 42	もくてき	目的	MỤC ĐÍCH	mục đích			
+Từ vựng Minna	Bài 42 - 19	Bài 42	あんぜん	安全	AN TOÀN	an toàn			
+Từ vựng Minna	Bài 42 - 20	Bài 42	ろんぶん	論文	LUẬN VĂN	luận văn, bài báo học thuật			
+Từ vựng Minna	Bài 42 - 21	Bài 42	かんけい	関係	QUAN HỆ	quan hệ			
+Từ vựng Minna	Bài 42 - 22	Bài 42	ミキサー			máy trộn (mixer)			
+Từ vựng Minna	Bài 42 - 23	Bài 42	やかん			cái ấm nước			
+Từ vựng Minna	Bài 42 - 24	Bài 42	せんぬき	栓抜き	XUYÊN BẠT	cái mở nắp chai			
+Từ vựng Minna	Bài 42 - 25	Bài 42	かんきり	缶切り	PHẪU THIẾT	cái mở đồ hộp			
+Từ vựng Minna	Bài 42 - 26	Bài 42	かんづめ	缶詰	PHẪU CẬT	đồ hộp			
+Từ vựng Minna	Bài 42 - 27	Bài 42	ふろしき			tấm vải để gói đồ			
+Từ vựng Minna	Bài 42 - 28	Bài 42	そろばん			bàn tính			
+Từ vựng Minna	Bài 42 - 29	Bài 42	たいおんけい	体温計	THỂ ÔN KẾ	máy đo nhiệt độ cơ thể			
+Từ vựng Minna	Bài 42 - 30	Bài 42	ざいりょう	材料	TÀI LIỆU	nguyên liệu			
+Từ vựng Minna	Bài 42 - 31	Bài 42	いし	石	THẠCH	hòn đá, đá			
+Từ vựng Minna	Bài 42 - 32	Bài 42	ピラミッド			kim tự tháp			
+Từ vựng Minna	Bài 42 - 33	Bài 42	データ			số liệu, dữ liệu			
+Từ vựng Minna	Bài 42 - 34	Bài 42	ファイル			cái kẹp tài liệu (file)			
+Từ vựng Minna	Bài 42 - 35	Bài 42	ある～			có ~, một ~			
+Từ vựng Minna	Bài 42 - 36	Bài 42	いっしょうけんめい	一生懸命	NHẤT SINH HUYỀN MỆNH	hết sức, chăm chỉ			
+Từ vựng Minna	Bài 42 - 37	Bài 42	なぜ			tại sao			
+Từ vựng Minna	Bài 42 - 38	Bài 42	こくれん	国連	QUỐC LIÊN	Liên hợp Quốc			
+Từ vựng Minna	Bài 42 - 39	Bài 42	エリーゼのために			Fur” Elize, tên một bản nhạc của Beethoven			
+Từ vựng Minna	Bài 42 - 40	Bài 42	ベートーベン			Beethoven (1770-1827), nhà soạn nhạc người Đức			
+Từ vựng Minna	Bài 42 - 41	Bài 42	ポーランド			Ba Lan			
+Từ vựng Minna	Bài 42 - 42	Bài 42	ローン			khoản vay trả góp, tiền vay góp			
+Từ vựng Minna	Bài 42 - 43	Bài 42	セット			bộ			
+Từ vựng Minna	Bài 42 - 44	Bài 42	あと			còn lại			
+Từ vựng Minna	Bài 42 - 45	Bài 42	カップラーメン			mì ăn liền đựng trong cốc			
+Từ vựng Minna	Bài 42 - 46	Bài 42	インスタントラーメン			mì ăn liền			
+Từ vựng Minna	Bài 42 - 47	Bài 42	なべ			cái chảo, cái nồi			
+Từ vựng Minna	Bài 42 - 48	Bài 42	どんぶり			cái bát tô			
+Từ vựng Minna	Bài 42 - 49	Bài 42	しょくひん	食品	THỰC PHẨM	thực phẩm, đồ ăn			
+Từ vựng Minna	Bài 42 - 50	Bài 42	ちょうさ	調査	ĐIỀU TRA	việc điều tra, cuộc điều tra			
+Từ vựng Minna	Bài 42 - 51	Bài 42	カップ			cốc (dùng để đựng đồ ăn)			
+Từ vựng Minna	Bài 42 - 52	Bài 42	また			và, thêm nữa			
+Từ vựng Minna	Bài 42 - 53	Bài 42	～のかわりに	～の代わりに	ĐẠI	thay ~, thay thế ~			
+Từ vựng Minna	Bài 42 - 54	Bài 42	どこででも			ở đâu cũng			
+Từ vựng Minna	Bài 42 - 55	Bài 42	いまでは	今では	KIM	bây giờ (thì)			
+Từ vựng Minna	Bài 43 - 01	Bài 43	[ゆしゅつが～]ふえます	[輸出が～]増えます	THÂU XUẤT TĂNG	tăng, tăng lên [xuất khẩu ~]			
+Từ vựng Minna	Bài 43 - 02	Bài 43	[ゆしゅつが～] へります	[輸出が～]　減ります	THÂU XUẤT GIẢM	giảm, giảm xuống [xuất khẩu ~]			
+Từ vựng Minna	Bài 43 - 03	Bài 43	[ねだんが～]あがります	[値段が～]上がります	TRỊ ĐOẠN THƯỢNG	tăng, tăng lên [giá ~]			
+Từ vựng Minna	Bài 43 - 04	Bài 43	[ねだんが～]さがります	[値段が～]下がります	TRỊ ĐOẠN HẠ	giảm, giảm xuống [giá ~]			
+Từ vựng Minna	Bài 43 - 05	Bài 43	[ひもが～]きれます	[ひもが～]切れます	THIẾT	đứt [sợi dây bị ~]			
+Từ vựng Minna	Bài 43 - 06	Bài 43	[ボタンが～]とれます			tuột [cái cúc bị ~]			
+Từ vựng Minna	Bài 43 - 07	Bài 43	[にもつが～] おちます	[荷物が～]落ちます	HÀ VẬT LẠC	rơi [hành lý bị ~]			
+Từ vựng Minna	Bài 43 - 08	Bài 43	[ガソリンが～]なくなります			mất, hết [xăng bị ~]			
+Từ vựng Minna	Bài 43 - 09	Bài 43	じょうぶ[な]	丈夫[な]	TRƯỢNG PHU	chắc, bền			
+Từ vựng Minna	Bài 43 - 10	Bài 43	へん[な]	変[な]	BIẾN	lạ, kỳ quặc			
+Từ vựng Minna	Bài 43 - 11	Bài 43	しあわせ[な]	幸せ[な]	HẠNH	hạnh phúc			
+Từ vựng Minna	Bài 43 - 12	Bài 43	うまい			ngon			
+Từ vựng Minna	Bài 43 - 13	Bài 43	まずい			dở			
+Từ vựng Minna	Bài 43 - 14	Bài 43	つまらない			buồn tẻ, không hấp dẫn, không thú vị			
+Từ vựng Minna	Bài 43 - 15	Bài 43	ガソリン			xăng			
+Từ vựng Minna	Bài 43 - 16	Bài 43	ひ	火	HỎA	lửa			
+Từ vựng Minna	Bài 43 - 17	Bài 43	だんぼう	暖房	NOÃN PHÒNG	thiết bị làm ấm, lò sưởi, máy điều hòa			
+Từ vựng Minna	Bài 43 - 18	Bài 43	れいぼう	冷房	LÃNH PHÒNG	thiết bị làm mát, máy điều hòa			
+Từ vựng Minna	Bài 43 - 19	Bài 43	センス			có khiếu, có gu ([ふくの]～があります：có gu [ăn mặt])			
+Từ vựng Minna	Bài 43 - 20	Bài 43	いまにも	今にも	KIM	(có vẻ, sắp) ~ đến nơi			
+Từ vựng Minna	Bài 43 - 21	Bài 43	わあ			ôi! (câu nói dùng khi ngạc nhiên hoặc cảm thán điều gì)			
+Từ vựng Minna	Bài 43 - 22	Bài 43	かいいん	会員	HỘI VIÊN	thành viên			
+Từ vựng Minna	Bài 43 - 23	Bài 43	てきとう「な」	適当[な]	THÍCH ĐƯƠNG	thích hợp, vừa phải			
+Từ vựng Minna	Bài 43 - 24	Bài 43	ねんれい	年齢	NIÊN LINH	tuổi			
+Từ vựng Minna	Bài 43 - 25	Bài 43	しゅうにゅう	収入	THÂU NHẬP/THU NHẬP	thu nhập			
+Từ vựng Minna	Bài 43 - 26	Bài 43	ぴったり			vừa vặn, đúng			
+Từ vựng Minna	Bài 43 - 27	Bài 43	そのうえ			thêm vào đó, hơn thế			
+Từ vựng Minna	Bài 43 - 28	Bài 43	～といいます			(tên) là ~, gọi là ~			
+Từ vựng Minna	Bài 43 - 29	Bài 43	ばら			Hoa Hồng			
+Từ vựng Minna	Bài 43 - 30	Bài 43	ドライブ			lái xe (đi chơi)			
+Từ vựng Minna	Bài 44 - 01	Bài 44	なきます	泣きます	KHẤP	khóc			
+Từ vựng Minna	Bài 44 - 02	Bài 44	わらいます	笑います	TIẾU	cười			
+Từ vựng Minna	Bài 44 - 03	Bài 44	かわきます	乾きます	CAN	khô			
+Từ vựng Minna	Bài 44 - 04	Bài 44	ぬれます			ướt			
+Từ vựng Minna	Bài 44 - 05	Bài 44	すべります	滑ります	HOẠT	trượt			
+Từ vựng Minna	Bài 44 - 06	Bài 44	[じこが～]おきます	[事故が～]起きます	SỰ CỐ KHỞI	xảy ra [tai nạn ~]			
+Từ vựng Minna	Bài 44 - 07	Bài 44	ちょうせつします	調節します	ĐIỀU TIẾT	điều tiết, điều chỉnh			
+Từ vựng Minna	Bài 44 - 08	Bài 44	あんぜん[な]	安全[な]	AN TOÀN	an toàn			
+Từ vựng Minna	Bài 44 - 09	Bài 44	ていねい[な]	丁寧[な]	ĐINH NINH	lịch sự, cẩn thận			
+Từ vựng Minna	Bài 44 - 10	Bài 44	こまかい	細かい	TẾ	chi tiết, tỉ mỉ, nhỏ			
+Từ vựng Minna	Bài 44 - 11	Bài 44	こい	濃い	NỒNG	nồng, đậm			
+Từ vựng Minna	Bài 44 - 12	Bài 44	うすい	薄い	BẠC	nhạt			
+Từ vựng Minna	Bài 44 - 13	Bài 44	くうき	空気	KHÔNG KHÍ	không khí			
+Từ vựng Minna	Bài 44 - 14	Bài 44	なみだ	涙	LỆ	nước mắt			
+Từ vựng Minna	Bài 44 - 15	Bài 44	わしょく	和食	HÒA THỰC	món ăn Nhật			
+Từ vựng Minna	Bài 44 - 16	Bài 44	ようしょく	洋食	DƯƠNG THỰC	món ăn Âu Mỹ			
+Từ vựng Minna	Bài 44 - 17	Bài 44	おかず			thức ăn			
+Từ vựng Minna	Bài 44 - 18	Bài 44	りょう	量	LƯỢNG	lượng			
+Từ vựng Minna	Bài 44 - 19	Bài 44	―ばい	―倍	BỘI	- lần			
+Từ vựng Minna	Bài 44 - 20	Bài 44	はんぶん	半分	BÁN PHÂN	một nửa			
+Từ vựng Minna	Bài 44 - 21	Bài 44	シングル			phòng đơn (1 giường)			
+Từ vựng Minna	Bài 44 - 22	Bài 44	ツイン			phòng đôi (2 giường)			
+Từ vựng Minna	Bài 44 - 23	Bài 44	たんす			tủ đựng quần áo			
+Từ vựng Minna	Bài 44 - 24	Bài 44	せんたくもの	洗濯物	TẨY TRẠC VẬT	quần áo giặt			
+Từ vựng Minna	Bài 44 - 25	Bài 44	りゆう	理由	LÝ DO	lý do			
+Từ vựng Minna	Bài 44 - 26	Bài 44	どうなさいますか。			Anh/chị định như thế nào?			
+Từ vựng Minna	Bài 44 - 27	Bài 44	カット			cắt tóc			
+Từ vựng Minna	Bài 44 - 28	Bài 44	シャンプー			gội đầu			
+Từ vựng Minna	Bài 44 - 29	Bài 44	どういうふうになさいますか。			Anh/chị định ~ như thế nào?			
+Từ vựng Minna	Bài 44 - 30	Bài 44	ショート			kiểu ngắn			
+Từ vựng Minna	Bài 44 - 31	Bài 44	～みたいに　して　ください。			Hãy cắt như ~.			
+Từ vựng Minna	Bài 44 - 32	Bài 44	これでよろしいでしょうか。			Thế này đã được chưa ạ?			
+Từ vựng Minna	Bài 44 - 33	Bài 44	「どうも」おつかれさまでした。	[どうも]お疲れ様でした。	BÌ DẠNG	Cám ơn anh/chị.			
+Từ vựng Minna	Bài 44 - 34	Bài 44	いやがります	嫌がります	HIỀM	không thích, tỏ thái độ không thích			
+Từ vựng Minna	Bài 44 - 35	Bài 44	また			thêm nữa			
+Từ vựng Minna	Bài 44 - 36	Bài 44	じゅんじょ	順序	THUẬN TỰ	thứ tự			
+Từ vựng Minna	Bài 44 - 37	Bài 44	ひょうげん	表現	BIỂU HIỆN	cách nói, cách diễn đạt			
+Từ vựng Minna	Bài 44 - 38	Bài 44	たとえば	例えば	LỆ	ví dụ			
+Từ vựng Minna	Bài 44 - 39	Bài 44	わかれます	別れます	BIỆT	chia tay, từ biệt			
+Từ vựng Minna	Bài 44 - 40	Bài 44	これら			những cái này			
+Từ vựng Minna	Bài 44 - 41	Bài 44	えんぎが　わるい	縁起が悪い	DUYÊN KHỞI ÁC	không may, không lành			
+Từ vựng Minna	Bài 45 - 01	Bài 45	あやまります	謝ります	TẠ	xin lỗi, tạ lỗi			
+Từ vựng Minna	Bài 45 - 02	Bài 45	[じこに～] あいます	[事故に～]遭います	SỰ CỐ TAO	gặp [tai nạn]			
+Từ vựng Minna	Bài 45 - 03	Bài 45	しんじます	信じます	TÍN	tin, tin tưởng			
+Từ vựng Minna	Bài 45 - 04	Bài 45	よういします	用意します	DỤNG Ý	chuẩn bị			
+Từ vựng Minna	Bài 45 - 05	Bài 45	キャンセルします			hủy bỏ, hủy			
+Từ vựng Minna	Bài 45 - 06	Bài 45	うまくいきます			tốt, thuận lợi			
+Từ vựng Minna	Bài 45 - 07	Bài 45	ほしょうしょ	保証書	BẢO CHỨNG THƯ	giấy bảo hành			
+Từ vựng Minna	Bài 45 - 08	Bài 45	りょうしゅうしょ	領収書	LÃNH THÂU THƯ	hóa đơn			
+Từ vựng Minna	Bài 45 - 09	Bài 45	おくりもの	贈り物	TẶNG VẬT	quà tặng (～をします)			
+Từ vựng Minna	Bài 45 - 10	Bài 45	まちがいでんわ	まちがい電話	ĐIỆN THOẠI	điện thoại nhầm			
+Từ vựng Minna	Bài 45 - 11	Bài 45	キャンプ			trại			
+Từ vựng Minna	Bài 45 - 12	Bài 45	かかり			nhân viên, người phụ trách			
+Từ vựng Minna	Bài 45 - 13	Bài 45	ちゅうし	中止	TRUNG CHỈ	dừng, đình chỉ			
+Từ vựng Minna	Bài 45 - 14	Bài 45	てん	点	ĐIỂM	điểm			
+Từ vựng Minna	Bài 45 - 15	Bài 45	レバー			tay bẻ, tay số, cần gạt			
+Từ vựng Minna	Bài 45 - 16	Bài 45	[－えん]さつ	[－円]札	VIÊN TRÁT	tờ tiền giấy [-yên]			
+Từ vựng Minna	Bài 45 - 17	Bài 45	ちゃんと			đúng, hẳn hoi			
+Từ vựng Minna	Bài 45 - 18	Bài 45	きゅうに	急に	CẤP	gấp			
+Từ vựng Minna	Bài 45 - 19	Bài 45	たのしみにしています	楽しみにしています	NHẠC/LẠC	mong đợi, lấy làm vui			
+Từ vựng Minna	Bài 45 - 20	Bài 45	いじょうです。	以上です。		Xin hết.			
+Từ vựng Minna	Bài 45 - 21	Bài 45	かかりいん	係員	HỆ VIÊN	nhân viên			
+Từ vựng Minna	Bài 45 - 22	Bài 45	コース			đường chạy (ma ra tông)			
+Từ vựng Minna	Bài 45 - 23	Bài 45	スタート			xuất phát			
+Từ vựng Minna	Bài 45 - 24	Bài 45	―い	－位	VỊ	thứ ―, vị trí thứ －, giải ―			
+Từ vựng Minna	Bài 45 - 25	Bài 45	ゆうしょうします	優勝します	ƯU THẮNG	vô địch, đoạt giải nhất			
+Từ vựng Minna	Bài 45 - 26	Bài 45	なやみ	悩み	NÃO	(điều/sự) lo nghĩ, trăn trở, phiền muộn			
+Từ vựng Minna	Bài 45 - 27	Bài 45	めざまし「どけい」	目覚まし[時計]	MỤC GIÁC THỜI KẾ	đồng hồ báo thức			
+Từ vựng Minna	Bài 45 - 28	Bài 45	ねむります	眠ります	MIÊN	ngủ			
+Từ vựng Minna	Bài 45 - 29	Bài 45	めがさめます	目が覚めます	MỤC GIÁC	tỉnh giấc			
+Từ vựng Minna	Bài 45 - 30	Bài 45	だいがくせい	大学生	ĐẠI HỌC SINH	sinh viên đại học			
+Từ vựng Minna	Bài 45 - 31	Bài 45	かいとう	回答	HỒI ĐÁP	câu trả lời, lời giải			
+Từ vựng Minna	Bài 45 - 32	Bài 45	なります	鳴ります	MINH	reo, kêu			
+Từ vựng Minna	Bài 45 - 33	Bài 45	セットします			cài, đặt			
+Từ vựng Minna	Bài 45 - 34	Bài 45	それでも			tuy thế, mặc dù thế			
+Từ vựng Minna	Bài 46 - 01	Bài 46	やきます	焼きます	THIÊU	nướng, rán			
+Từ vựng Minna	Bài 46 - 02	Bài 46	わたします	渡します	ĐỘ	đưa cho, giao cho			
+Từ vựng Minna	Bài 46 - 03	Bài 46	かえってきます	帰って来ます	QUY LAI	về, trở lại			
+Từ vựng Minna	Bài 46 - 04	Bài 46	[バスが～]でます	[バスが～]出ます	XUẤT	xuất phát, chạy [xe buýt ~]			
+Từ vựng Minna	Bài 46 - 05	Bài 46	るす	留守	LƯU THỦ	đi vắng			
+Từ vựng Minna	Bài 46 - 06	Bài 46	たくはいびん	宅配便	TRẠCH PHỐI TIỆN	dịch vụ chuyển đồ đến nhà			
+Từ vựng Minna	Bài 46 - 07	Bài 46	げんいん	原因	NGUYÊN NHÂN	nguyên nhân			
+Từ vựng Minna	Bài 46 - 08	Bài 46	ちゅうしゃ	注射	CHÚ XẠ	tiêm			
+Từ vựng Minna	Bài 46 - 09	Bài 46	しょくよく	食欲	THỰC DỤC	cảm giác muốn ăn, cảm giác ngon miệng			
+Từ vựng Minna	Bài 46 - 10	Bài 46	パンフレット			tờ rơi, tờ quảng cáo			
+Từ vựng Minna	Bài 46 - 11	Bài 46	ステレオ			stereo			
+Từ vựng Minna	Bài 46 - 12	Bài 46	こちら			đây, đằng này			
+Từ vựng Minna	Bài 46 - 13	Bài 46	～のところ	～の所	SỞ	quanh ~, xung quanh ~			
+Từ vựng Minna	Bài 46 - 14	Bài 46	ちょうど			vừa đúng			
+Từ vựng Minna	Bài 46 - 15	Bài 46	たったいま	たった今	KIM	vừa mới rồi			
+Từ vựng Minna	Bài 46 - 16	Bài 46	いまいいでしょうか。	今いいでしょうか。	KIM	Bây giờ tôi làm phiền anh có được không ạ?			
+Từ vựng Minna	Bài 46 - 17	Bài 46	ガスサービスセンター			trung tâm dịch vụ ga			
+Từ vựng Minna	Bài 46 - 18	Bài 46	ガスレンジ			bếp ga			
+Từ vựng Minna	Bài 46 - 19	Bài 46	ぐあい	具合	CỤ HỢP	trạng thái, tình hình			
+Từ vựng Minna	Bài 46 - 20	Bài 46	どちらさまでしょうか	どちら様でしょうか。	DẠNG	Ai đấy ạ?			
+Từ vựng Minna	Bài 46 - 21	Bài 46	むかいます	向かいます	HƯỚNG	hướng đến, trên đường đến			
+Từ vựng Minna	Bài 46 - 22	Bài 46	おまたせしました	お待たせしました	ĐÃI	Xin lỗi vì để anh/ Chị phải đợi			
+Từ vựng Minna	Bài 46 - 23	Bài 46	ちしき	知識	TRI THỨC	tri thức, kiến thức			
+Từ vựng Minna	Bài 46 - 24	Bài 46	ほうこ	宝庫	BẢO KHỐ	kho báu			
+Từ vựng Minna	Bài 46 - 25	Bài 46	てに　はいります「じょうほう」	手に入ります[情報が～]	THỦ NHẬP TÌNH BÁO	lấy được, thu thập được [Thông tin]			
+Từ vựng Minna	Bài 46 - 26	Bài 46	システム			hệ thống			
+Từ vựng Minna	Bài 46 - 27	Bài 46	たとえば	例えば	LỆ	ví dụ, chẳng hạn			
+Từ vựng Minna	Bài 46 - 28	Bài 46	キーワード			từ khóa			
+Từ vựng Minna	Bài 46 - 29	Bài 46	いちぶぶん	一部分	NHẤT BỘ PHẬN	một bộ phận			
+Từ vựng Minna	Bài 46 - 30	Bài 46	にゅうりょくします	入力します	NHẬP LỰC	nhập			
+Từ vựng Minna	Bài 46 - 31	Bài 46	びょう	秒	MIẾU	giây			
+Từ vựng Minna	Bài 46 - 32	Bài 46	でます「ほんが～」	でます[本が～]	BẢN	được xuất bản [quyển sách ~]			
+Từ vựng Minna	Bài 47 - 01	Bài 47	[ひとが～] あつまります	[人が～]集まります	NHÂN TẬP	tập trung, tập hợp [người ~]			
+Từ vựng Minna	Bài 47 - 02	Bài 47	[ひとが～]わかれます	[人が～]別れます	NHÂN BIỆT	chia, chia nhỏ, chia ra [người ~]			
+Từ vựng Minna	Bài 47 - 03	Bài 47	ながいきします	長生きします	TRƯỜNG SINH	sống lâu			
+Từ vựng Minna	Bài 47 - 04	Bài 47	[おと／こえが～]します	[音／声が～]します	ÂM/THANH	nghe thấy, có [âm thanh/ tiếng]			
+Từ vựng Minna	Bài 47 - 05	Bài 47	[あじが～] します	[味が～]します	VỊ	có [vị]			
+Từ vựng Minna	Bài 47 - 06	Bài 47	[においが～] します			có [mùi]			
+Từ vựng Minna	Bài 47 - 07	Bài 47	[かさを～] さします	[傘を～]さします	TẢN	che [ô]			
+Từ vựng Minna	Bài 47 - 08	Bài 47	ひどい			tồi tệ, xấu			
+Từ vựng Minna	Bài 47 - 09	Bài 47	こわい	怖い	BỐ	sợ, khiếp			
+Từ vựng Minna	Bài 47 - 10	Bài 47	てんきよほう	天気予報	THIÊN KHÍ DỰ BÁO	dự báo thời tiết			
+Từ vựng Minna	Bài 47 - 11	Bài 47	はっぴょう	発表	PHÁT BIỂU	phát biểu, báo cáo			
+Từ vựng Minna	Bài 47 - 12	Bài 47	じっけん	実験	THỰC NGHIỆM	thực nghiệm, thí nghiệm			
+Từ vựng Minna	Bài 47 - 13	Bài 47	じんこう	人口	NHÂN KHẨU	dân số			
+Từ vựng Minna	Bài 47 - 14	Bài 47	におい			mùi			
+Từ vựng Minna	Bài 47 - 15	Bài 47	かがく	科学	KHOA HỌC	khoa học			
+Từ vựng Minna	Bài 47 - 16	Bài 47	いがく	医学	Y HỌC	y học			
+Từ vựng Minna	Bài 47 - 17	Bài 47	ぶんがく	文学	VĂN HỌC	văn học			
+Từ vựng Minna	Bài 47 - 18	Bài 47	パトカー			xe ô-tô cảnh sát			
+Từ vựng Minna	Bài 47 - 19	Bài 47	きゅうきゅうしゃ	救急車	CỨU CẤP XA	xe cấp cứu			
+Từ vựng Minna	Bài 47 - 20	Bài 47	さんせい	賛成	TÁN THÀNH	tán thành, đồng ý			
+Từ vựng Minna	Bài 47 - 21	Bài 47	はんたい	反対	PHẢN ĐỐI	phản đối			
+Từ vựng Minna	Bài 47 - 22	Bài 47	だんせい	男性	NAM TÍNH	nam giới, Nam			
+Từ vựng Minna	Bài 47 - 23	Bài 47	じょせい	女性	NỮ TÍNH	nữ giới, nữ			
+Từ vựng Minna	Bài 47 - 24	Bài 47	どうも			có vẽ như là, có lẽ là			
+Từ vựng Minna	Bài 47 - 25	Bài 47	～によると			theo ~ thì, căn cứ vào ~ thì			
+Từ vựng Minna	Bài 47 - 26	Bài 47	バリ[とう]	バリ[島]	ĐẢO	[đảo] Bali (ở Indonesia)			
+Từ vựng Minna	Bài 47 - 27	Bài 47	イラン			Iran			
+Từ vựng Minna	Bài 47 - 28	Bài 47	カリフォルニア			California (ở Mỹ)			
+Từ vựng Minna	Bài 47 - 29	Bài 47	グアム			Guam			
+Từ vựng Minna	Bài 47 - 30	Bài 47	こいびと	恋人	LUYẾN NHÂN	người yêu			
+Từ vựng Minna	Bài 47 - 31	Bài 47	こんやくします	婚約します	HÔN ƯỚC	đính hôn			
+Từ vựng Minna	Bài 47 - 32	Bài 47	あいて	相手	TƯỚNG THỦ	đối tác, đối phương, người kia, “nửa còn lại”			
+Từ vựng Minna	Bài 47 - 33	Bài 47	しりあいます	知り合います	TRI HỢP	gặp, gặp gỡ làm quen			
+Từ vựng Minna	Bài 47 - 34	Bài 47	へいきんじゅみょう	平均寿命	BÌNH QUÂN THỌ MỆNH	tuổi thọ trung bình			
+Từ vựng Minna	Bài 47 - 35	Bài 47	[だんせいと～]くらべます	[男性と～]比べます	[NAM TÍNH]　TỶ	so sánh [với nam giới]			
+Từ vựng Minna	Bài 47 - 36	Bài 47	はかせ	博士	BÁC SĨ	tiến sĩ			
+Từ vựng Minna	Bài 47 - 37	Bài 47	のう	脳	NÃO	não			
+Từ vựng Minna	Bài 47 - 38	Bài 47	ホルモン			hoóc-môn			
+Từ vựng Minna	Bài 47 - 39	Bài 47	けしょうひん	化粧品	HÓA TRANG PHẨM	mỹ phẩm			
+Từ vựng Minna	Bài 47 - 40	Bài 47	しらべ	調べ	ĐIỀU	điều tra, tìm hiểu			
+Từ vựng Minna	Bài 47 - 41	Bài 47	けしょう	化粧	HÓA TRANG	sự trang điểm (～をします：trang điểm)			
+Từ vựng Minna	Bài 48 - 01	Bài 48	おろします	降ろします,下ろします	GIÁNG, HẠ	cho xuống, hạ xuống			
+Từ vựng Minna	Bài 48 - 02	Bài 48	とどけます	届けます	GIỚI	gởi đến, chuyển đến			
+Từ vựng Minna	Bài 48 - 03	Bài 48	せわをします	世話をします	THẾ THOẠI	chăm sóc			
+Từ vựng Minna	Bài 48 - 04	Bài 48	いや[な]	嫌[な]	HIỀM	ngán, không thích			
+Từ vựng Minna	Bài 48 - 05	Bài 48	きびしい	厳しい	NGHIÊM	nghiêm, nghiêm khắc, nghiêm ngặt			
+Từ vựng Minna	Bài 48 - 06	Bài 48	じゅく	塾	THỤC	cơ sở học thêm			
+Từ vựng Minna	Bài 48 - 07	Bài 48	スケジュール			thời khóa biểu, lịch làm việc			
+Từ vựng Minna	Bài 48 - 08	Bài 48	せいと	生徒	SINH ĐỒ	học sinh, học trò			
+Từ vựng Minna	Bài 48 - 09	Bài 48	もの	者	GIẢ	người (là người thân hoặc cấp dưới)			
+Từ vựng Minna	Bài 48 - 10	Bài 48	にゅうかん	入管	NHẬP QUẢN	Cục quản lý nhập cảnh			
+Từ vựng Minna	Bài 48 - 11	Bài 48	さいにゅうこくビザ	再入国ビザ	TÁI NHẬP QUỐC	Thị thực tái nhập cảnh			
+Từ vựng Minna	Bài 48 - 12	Bài 48	じゆうに	自由に	TỰ DO	tự do			
+Từ vựng Minna	Bài 48 - 13	Bài 48	～かん	～間	GIAN	trong ~ (dùng để chỉ khoảng thời gian)			
+Từ vựng Minna	Bài 48 - 14	Bài 48	いいことですね。			Hay nhỉ./ Được đấy nhỉ.			
+Từ vựng Minna	Bài 48 - 15	Bài 48	おいそがしいですか	お忙しいですか。	MANG	Anh/chị có bận không? (được dùng khi nói với người trên)			
+Từ vựng Minna	Bài 48 - 16	Bài 48	ひさしぶり	久しぶり	CỬU	lâu			
+Từ vựng Minna	Bài 48 - 17	Bài 48	えいぎょう	営業	DOANH NGHIỆP	kinh doanh, bán hàng			
+Từ vựng Minna	Bài 48 - 18	Bài 48	それまでに			trước thời điểm đó			
+Từ vựng Minna	Bài 48 - 19	Bài 48	かまいません			Không sao./ Không có vấn đề gì.			
+Từ vựng Minna	Bài 48 - 20	Bài 48	たのしみます	楽しみます	LẠC/NHẠC	vui, vui thích			
+Từ vựng Minna	Bài 48 - 21	Bài 48	もともと			vốn dĩ			
+Từ vựng Minna	Bài 48 - 22	Bài 48	―せいき	―世紀	THẾ KỶ	thế kỷ -			
+Từ vựng Minna	Bài 48 - 23	Bài 48	かわりをします	代わりをします	ĐẠI	thay thế			
+Từ vựng Minna	Bài 48 - 24	Bài 48	スピード			tốc độ			
+Từ vựng Minna	Bài 48 - 25	Bài 48	きょうそうします	競走します	CẠNH TẨU	chạy đua, thi chạy			
+Từ vựng Minna	Bài 48 - 26	Bài 48	サーカス			xiếc			
+Từ vựng Minna	Bài 48 - 27	Bài 48	げい	芸	NGHỆ	trò diễn, tiết mục, tài năng			
+Từ vựng Minna	Bài 48 - 28	Bài 48	うつくしい	美しい	MỸ	đẹp			
+Từ vựng Minna	Bài 48 - 29	Bài 48	すがた	姿	TƯ	dáng điệu, tư thế			
+Từ vựng Minna	Bài 48 - 30	Bài 48	こころ	心	TÂM	trái tim, tấm lòng, cảm tình			
+Từ vựng Minna	Bài 48 - 31	Bài 48	とらえます			giành được			
+Từ vựng Minna	Bài 48 - 32	Bài 48	～にとって			đối với ~			
+Từ vựng Minna	Bài 49 - 01	Bài 49	[かいしゃに～]つとめます	[会社に～]勤めます	HỘI XÃ CẦN	làm việc ở [công ty]			
+Từ vựng Minna	Bài 49 - 02	Bài 49	やすみます	休みます	HƯU	nghỉ			
+Từ vựng Minna	Bài 49 - 03	Bài 49	[いすに～]かけます	[いすに～]掛けます	QUẢI	ngồi [ghế]			
+Từ vựng Minna	Bài 49 - 04	Bài 49	すごします	過ごします	QUÁ	tiêu thời gian, trải qua			
+Từ vựng Minna	Bài 49 - 05	Bài 49	[ぎんこうに～]よります	[銀行に～]寄ります	NGÂN HÀNG KÝ	ghé qua [ngân hàng]			
+Từ vựng Minna	Bài 49 - 06	Bài 49	いらっしゃいます			ở, có, đi, đến （tôn kính ngữ của います、いきます và きます）			
+Từ vựng Minna	Bài 49 - 07	Bài 49	めしあがります	召し上がります	TRIỆU THƯỢNG	ăn, uống (tôn kính ngữ của たべます và のみます)			
+Từ vựng Minna	Bài 49 - 08	Bài 49	おっしゃいます			nói (tôn kính ngữ của いいます)			
+Từ vựng Minna	Bài 49 - 09	Bài 49	なさいます			làm (tôn kính ngữ của します)			
+Từ vựng Minna	Bài 49 - 10	Bài 49	ごらんになります	ご覧になります	LÃM	xem, nhìn (tôn kính ngữ của みます)			
+Từ vựng Minna	Bài 49 - 11	Bài 49	ごぞんじです	ご存じです	TỒN	biết (tôn kính ngữ của しっています)			
+Từ vựng Minna	Bài 49 - 12	Bài 49	あいさつ			chào hỏi (～をします：chào hỏi)			
+Từ vựng Minna	Bài 49 - 13	Bài 49	はいざら	灰皿	HÔI MÃNH	cái gạt tàn			
+Từ vựng Minna	Bài 49 - 14	Bài 49	りょかん	旅館	LỮ QUÁN	khách sạn kiểu Nhật			
+Từ vựng Minna	Bài 49 - 15	Bài 49	かいじょう	会場	HỘI TRƯỜNG	hội trường, địa điểm tổ chức			
+Từ vựng Minna	Bài 49 - 16	Bài 49	バスてい	バス停	ĐÌNH	bến xe buýt, điểm lên xuống xe buýt			
+Từ vựng Minna	Bài 49 - 17	Bài 49	ぼうえき	貿易	MẬU DỊCH	thương mại quốc tế, mậu dịch			
+Từ vựng Minna	Bài 49 - 18	Bài 49	～さま	～様	DẠNG	ngài ~, ông ~, bà ~ (tôn kính ngữ của ～さん)			
+Từ vựng Minna	Bài 49 - 19	Bài 49	かえりに	帰りに	QUY	trên đường về			
+Từ vựng Minna	Bài 49 - 20	Bài 49	たまに			thỉnh thoảng (tần suất nhỏ hơn ときどき)			
+Từ vựng Minna	Bài 49 - 21	Bài 49	ちっとも			chẳng ~ tí nào, không hề			
+Từ vựng Minna	Bài 49 - 22	Bài 49	えんりょなく	遠慮なく	VIỄN LỰ	không giữ ý, không làm khách, đừng ngại ngùng			
+Từ vựng Minna	Bài 49 - 23	Bài 49	―ねん―くみ	―年―組	NIÊN TỔ	lớp -, năm thứ -			
+Từ vựng Minna	Bài 49 - 24	Bài 49	では			thế thì, vậy thì (thể lịch sự củaじゃ)			
+Từ vựng Minna	Bài 49 - 25	Bài 49	「ねつ」 だします	[熱を～]出します	XUẤT NHIỆT	bị [sốt]			
+Từ vựng Minna	Bài 49 - 26	Bài 49	よろしくおつたえください	よろしくお伝えください。	TRUYỀN	Cho tôi gởi lời hỏi thăm./ hãy nhắn lại với ~.			
+Từ vựng Minna	Bài 49 - 27	Bài 49	しつれいいたします	失礼いたします。	THẤT LỄ	Xin phép anh/chị (khiêm nhường ngữ của しつれいします)			
+Từ vựng Minna	Bài 49 - 28	Bài 49	ひまわりしょうがっこう	ひまわり小学校	TIỂU HỌC HIỆU	tên một trường tiểu học (giả tưởng)			
+Từ vựng Minna	Bài 49 - 29	Bài 49	こうし	講師	GIẢNG SƯ	giảng viên, giáo viên			
+Từ vựng Minna	Bài 49 - 30	Bài 49	おおくの～	多くの～	ĐA	nhiều ~			
+Từ vựng Minna	Bài 49 - 31	Bài 49	さくひん	作品	TÁC PHẨM	tác phẩm			
+Từ vựng Minna	Bài 49 - 32	Bài 49	じゅしょうします	受賞します	THỤ THƯỞNG	nhận giải thưởng, được giải thưởng			
+Từ vựng Minna	Bài 49 - 33	Bài 49	せかいてきに	世界的に	THẾ GIỚI	tầm cỡ thế giới, mang tính thế giới			
+Từ vựng Minna	Bài 49 - 34	Bài 49	さっか	作家	TÁC GIA	nhà văn			
+Từ vựng Minna	Bài 49 - 35	Bài 49	～でいらっしゃいます			là ~(tôn kính ngữ của です)			
+Từ vựng Minna	Bài 49 - 36	Bài 49	ちょうなん	長男	TRƯỞNG NAM	trưởng nam			
+Từ vựng Minna	Bài 49 - 37	Bài 49	しょうがい	障害	CHƯỚNG HẠI	khuyết tật, tàn tật			
+Từ vựng Minna	Bài 49 - 38	Bài 49	おもちです	お持ちです	TRÌ	có (cách nói tôn kính ngữ của もっています)			
+Từ vựng Minna	Bài 49 - 39	Bài 49	さっきょく	作曲	TÁC KHÚC	sáng tác nhạc			
+Từ vựng Minna	Bài 49 - 40	Bài 49	かつどう	活動	HOẠT ĐỘNG	hoạt động			
+Từ vựng Minna	Bài 49 - 41	Bài 49	それでは			bây giờ thì, đến đây			
+Từ vựng Minna	Bài 49 - 42	Bài 49	おおえけんざぶろう	大江健三郎	ĐẠI GIANG KIỆN TAM LANG	một nhà văn người Nhật (1935-)			
+Từ vựng Minna	Bài 49 - 43	Bài 49	とうきょうだいがく	東京大学	ĐÔNG KINH ĐẠI HỌC	đại học Tokyo			
+Từ vựng Minna	Bài 49 - 44	Bài 49	ノーベルぶんがくしょう	ノーベル文学賞	VĂN HỌC THƯỞNG	giải thưởng Nobel văn học			
+Từ vựng Minna	Bài 50 - 01	Bài 50	まいります	参ります	THAM	đi, đến (khiêm nhường ngữ của いきます và きます)			
+Từ vựng Minna	Bài 50 - 02	Bài 50	おります			ở, có (khiêm nhường ngữ của います)			
+Từ vựng Minna	Bài 50 - 03	Bài 50	いただきます			ăn, uống, nhận (khiêm nhường ngữ của たべます、のみます　và もらいます)			
+Từ vựng Minna	Bài 50 - 04	Bài 50	もうします	申します	THÂN	nói (khiêm nhường ngữ của いいます)			
+Từ vựng Minna	Bài 50 - 05	Bài 50	いたします			làm (khiêm nhường ngữ của します)			
+Từ vựng Minna	Bài 50 - 06	Bài 50	はいけんします	拝見します	BÁI KIẾN	xem, nhìn (khiêm nhường ngữ của みます)			
+Từ vựng Minna	Bài 50 - 07	Bài 50	ぞんじます	存じます	TỒN	biết (khiêm nhường ngữ của しります)			
+Từ vựng Minna	Bài 50 - 08	Bài 50	うかがいます	伺います	TÝ/TỬ	hỏi, nghe, đến thăm(khiêm nhường ngữ của ききます và いきます)			
+Từ vựng Minna	Bài 50 - 09	Bài 50	おめにかかります	お目にかかります	MỤC	gặp (khiêm nhường ngữ của あいます)			
+Từ vựng Minna	Bài 50 - 10	Bài 50	ございます			có (thể lịch sự của あります)			
+Từ vựng Minna	Bài 50 - 11	Bài 50	～でございます			là (thể lịch sự của ～です)			
+Từ vựng Minna	Bài 50 - 12	Bài 50	わたくし	私	TƯ	tôi (khiêm nhường ngữ của わたし)			
+Từ vựng Minna	Bài 50 - 13	Bài 50	ガイド			người hướng dẫn, hướng dẫn viên			
+Từ vựng Minna	Bài 50 - 14	Bài 50	おたく	お宅	TRẠCH	nhà (dùng cho người khác)			
+Từ vựng Minna	Bài 50 - 15	Bài 50	こうがい	郊外	GIAO NGOẠI	ngoại ô			
+Từ vựng Minna	Bài 50 - 16	Bài 50	アルバム			an-bum (ca nhạc)			
+Từ vựng Minna	Bài 50 - 17	Bài 50	さらいしゅう	再来週	TÁI LAI CHU	tuần sau nữa			
+Từ vựng Minna	Bài 50 - 18	Bài 50	さらいげつ	再来月	TÁI LAI NGUYỆT	tháng sau nữa			
+Từ vựng Minna	Bài 50 - 19	Bài 50	さらいねん	再来年	TÁI LAI NIÊN	năm sau nữa			
+Từ vựng Minna	Bài 50 - 20	Bài 50	はんとし	半年	BÁN NIÊN	nửa năm			
+Từ vựng Minna	Bài 50 - 21	Bài 50	さいしょに	最初に	TỐI SƠ	đầu tiên, trước hết			
+Từ vựng Minna	Bài 50 - 22	Bài 50	さいごに	最後に	TỐI HẬU	cuối cùng			
+Từ vựng Minna	Bài 50 - 23	Bài 50	ただいま	ただ今	KIM	bây giờ (thể lịch sự củaいま)			
+Từ vựng Minna	Bài 50 - 24	Bài 50	えどとうきょうはくぶつかん	江戸東京博物館	GIANG HỘ ĐÔNG KINH BÁC VẬT QUÁN	bảo tàng Edo-Tokyo			
+Từ vựng Minna	Bài 50 - 25	Bài 50	きんちょうします	緊張します	KHẨN TRƯƠNG	căng thẳng, hồi hộp			
+Từ vựng Minna	Bài 50 - 26	Bài 50	ほうそうします	放送します	PHÓNG TỐNG	phát thanh, truyền hình			
+Từ vựng Minna	Bài 50 - 27	Bài 50	[ビデオに～]とります	[ビデオに～]撮ります	TOÁT	thu [video], quay			
+Từ vựng Minna	Bài 50 - 28	Bài 50	しょうきん	賞金	THƯỞNG KIM	tiền thưởng			
+Từ vựng Minna	Bài 50 - 29	Bài 50	しぜん	自然	TỰ NHIÊN	tự nhiên, thiên nhiên			
+Từ vựng Minna	Bài 50 - 30	Bài 50	きりん			con hươu cao cổ			
+Từ vựng Minna	Bài 50 - 31	Bài 50	ぞう	像	TƯỢNG	con voi			
+Từ vựng Minna	Bài 50 - 32	Bài 50	ころ			hồi, thời			
+Từ vựng Minna	Bài 50 - 33	Bài 50	「ゆめが～」かないます	[夢が～]かないます	MỘNG	thành hiện thực, được thực hiện [mơ ước ~]			
+Từ vựng Minna	Bài 50 - 34	Bài 50	ひとことよろしいでしょうか。			Tôi xin phép nói vài lời có được không ạ?			
+Từ vựng Minna	Bài 50 - 35	Bài 50	きょうりょくします	協力します	HIỆP LỰC	hợp tác			
+Từ vựng Minna	Bài 50 - 36	Bài 50	こころから	心から	TÂM	từ trái tim, từ đáy lòng			
+Từ vựng Minna	Bài 50 - 37	Bài 50	かんしゃします	感謝します	CẢM TẠ	cám ơn, cảm tạ			
+Từ vựng Minna	Bài 50 - 38	Bài 50	「お」れい	[お]礼	LỄ	lời cám ơn, sự cám ơn			
+Từ vựng Minna	Bài 50 - 39	Bài 50	はいけい	拝啓	BÁI KHẢI	kính gửi			
+Từ vựng Minna	Bài 50 - 40	Bài 50	うつくしい	美しい	MỸ	đẹp			
+Từ vựng Minna	Bài 50 - 41	Bài 50	おげんきでいらっしゃいますか	お元気でいらっしゃいますか。	NGUYÊN KHÍ	Anh/chị có khỏe không ạ? (tôn kính ngữ của おげんきですか)			
+Từ vựng Minna	Bài 50 - 42	Bài 50	めいわくを　かけます	迷惑をかけます		làm phiền			
+Từ vựng Minna	Bài 50 - 43	Bài 50	いかします	生かします		tận dụng, phát huy, dùng			
+Từ vựng Minna	Bài 50 - 44	Bài 50	「お」しろ	[お]城		lâu đài			
+Từ vựng Minna	Bài 50 - 45	Bài 50	けいぐ	敬具		kính thư			
+Từ vựng Minna	Bài 50 - 46	Bài 50	ミュンヘン			Munich (ở Đức)			
