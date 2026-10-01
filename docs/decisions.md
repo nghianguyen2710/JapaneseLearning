@@ -69,6 +69,13 @@ Claude viết giải thích theo lô 5 bài ra file trong `content/raw/grammar/`
 (Thay cho D9.) Âm Hán Việt của từng kanji được tách từ cột âm Hán Việt của bộ thẻ: từ nào có số âm tiết bằng số kanji thì ghép lần lượt từng âm với từng kanji, rồi lấy âm xuất hiện nhiều nhất làm **âm chính**. Có 1527 từ ghép được như vậy, phủ 881/890 kanji. Kanji không có âm trong bộ thẻ thì mới lấy từ KANJIDIC2, đánh dấu `verified: false`. Báo cáo build liệt kê những kanji mà âm từ bộ thẻ khác với âm của KANJIDIC2.
 **Lý do:** kiểm tra kỹ hơn cho thấy KANJIDIC2 sai ở nhiều kanji dạng giản thể của Nhật, vì nó gán âm của một chữ Hán khác có cùng mặt chữ. Ví dụ: 桜 → "Tí" (đúng là Anh), 伝 → "Vân" (đúng là Truyền), 県 → "Huyền" (đúng là Huyện), 画 → "Hoạch" (thiếu Họa). Có 42 kanji mà âm từ bộ thẻ không có trong KANJIDIC2. Ngoài ra, dữ liệu KANJIDIC2 không ở dạng chuẩn NFC, nên phải chuẩn hoá Unicode trước khi so sánh.
 
+### D18. Duyệt schema và cơ chế ID — 1/10/2026
+Người dùng đã duyệt `docs/schema.md` (Checkpoint T1.4):
+- ID từ vựng `w0001…` gán một lần, lưu trong sổ ID `content/ids/vocab.json`, khoá là `bài|kana|kanji`.
+- **Từ lặp lại ở nhiều bài: mỗi bài một thẻ riêng** (người dùng chọn thay cho đề xuất "một thẻ duy nhất"). Lý do: mỗi bài giữ nghĩa riêng, và ôn trùng cũng là ôn lại.
+- Review log là nguồn sự thật duy nhất. File export không chứa trạng thái thẻ.
+- Sửa tay và `verified` nằm trong `content/overrides/`, theo ID.
+
 ## Đề xuất — chờ người dùng chốt
 
 ### P3. Bảo vệ truy cập khi deploy

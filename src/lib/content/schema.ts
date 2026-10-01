@@ -28,10 +28,8 @@ export type Vocab = {
   meaningVi: string;
   kanjiChars: KanjiId[];
   jmdict?: JmdictMatch;
-  /** Các lần xuất hiện khác của cùng kana+kanji */
+  /** Các lần xuất hiện khác của cùng kana+kanji; mỗi lần vẫn có thẻ ôn riêng */
   seeAlso: VocabId[];
-  /** Khác null nếu đây là lần xuất hiện lặp lại; chỉ bản chính sinh thẻ ôn */
-  primaryId: VocabId | null;
   source: "deck";
   overridden: string[];
   verified: boolean;

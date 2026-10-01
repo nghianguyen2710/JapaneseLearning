@@ -1,13 +1,13 @@
 # Schema nội dung & dữ liệu người dùng
 
-> **Trạng thái:** bản nháp ngày 1/10/2026, **chờ người dùng duyệt** (task T1.4).
+> **Trạng thái:** người dùng đã duyệt ngày 1/10/2026 (T1.4, `decisions.md` D18).
 > Type TypeScript tương ứng: [`src/lib/content/schema.ts`](../src/lib/content/schema.ts) và [`src/lib/user-data/schema.ts`](../src/lib/user-data/schema.ts).
 > Đây là nhóm quyết định khó đảo ngược nhất. Đổi ID sau khi đã có review log nghĩa là mất tiến độ ôn.
 
-## Đọc nhanh: 5 điều cần duyệt
+## Tóm tắt 5 quyết định
 
 1. **ID từ vựng là mã ngắn, gán một lần rồi giữ mãi** (`w0001`). ID được lưu trong file sổ ID trong git, không suy ra từ nội dung. → [mục 1](#1-cơ-chế-id)
-2. **Một từ xuất hiện ở nhiều bài (83 từ, ví dụ 先生) chỉ có một thẻ ôn**, gắn với bài đầu tiên nó xuất hiện. → [mục 2.2](#22-từ-lặp-lại-ở-nhiều-bài)
+2. **Một từ xuất hiện ở nhiều bài (83 từ, ví dụ 先生) có một thẻ riêng cho mỗi bài**, vì mỗi bài giữ nghĩa riêng của nó. → [mục 2.2](#22-từ-lặp-lại-ở-nhiều-bài)
 3. **Chỉnh sửa tay và trạng thái `verified` nằm trong `content/overrides/`**, theo ID. Build lại không làm mất. → [mục 3](#3-override--verified)
 4. **Review log là nguồn sự thật duy nhất.** Trạng thái thẻ (ngày ôn tiếp, khoảng cách, hệ số dễ) chỉ là bộ nhớ đệm, tính lại được từ log. → [mục 4](#4-dữ-liệu-người-dùng)
 5. **Ngữ pháp có cột ID viết sẵn trong file TSV** (`g01-01`), không bao giờ đánh số lại. → [mục 1](#1-cơ-chế-id)
@@ -66,7 +66,6 @@ Mỗi bài một file, `schemaVersion: 1`. Output **tất định**: không ghi 
     "glossEn": ["that person", "he", "she"]
   },
   "seeAlso": [],                    // ID của các lần xuất hiện khác của cùng từ (mục 2.2)
-  "primaryId": null,                // khác null nếu đây là lần xuất hiện lặp lại
   "source": "deck",
   "overridden": [],                 // các trường đã bị override sửa tay, ví dụ ["meaningVi"]
   "verified": false
@@ -78,9 +77,8 @@ Nguồn của từng trường được thể hiện qua cấu trúc: các trư�
 ### 2.2 Từ lặp lại ở nhiều bài
 
 Có 83 cặp kana+kanji xuất hiện ở hơn một bài (ví dụ 先生, ちがいます, どうも).
-- Mỗi lần xuất hiện **vẫn là một bản ghi riêng có ID riêng**, vì nghĩa trong bài sau có thể khác hoặc rộng hơn.
-- Lần xuất hiện **đầu tiên** là bản chính (`primaryId: null`). Các lần sau có `primaryId` trỏ về bản chính.
-- **Chỉ bản chính sinh thẻ ôn**, nên không phải ôn trùng. Màn hình danh sách từ của bài sau vẫn hiện từ đó, kèm nhãn "đã học ở bài X".
+- Mỗi lần xuất hiện là **một bản ghi riêng, có ID riêng và thẻ ôn riêng**, vì nghĩa trong bài sau có thể khác hoặc rộng hơn.
+- `seeAlso` liệt kê ID của các lần xuất hiện khác. Thẻ hiện nhãn "cũng có ở bài X".
 
 ### 2.3 Kanji
 
