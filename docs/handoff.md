@@ -1,5 +1,7 @@
 # Handoff — Context từ phiên chat ngày 1/10/2026
 
+> **Cập nhật 1/10/2026 (máy Ubuntu):** nội dung file này đã chuyển vào `CLAUDE.md`, `docs/decisions.md`, `docs/spec.md`, `docs/sources.md`, `docs/tasks.md`. Mục 1 và câu hỏi về `git init` bên dưới đã cũ (repo đã có remote). Xoá file này sau khi duyệt xong Giai đoạn 0 (task T0.10).
+
 > File này ghi lại những gì đã kết luận trong phiên chat đầu tiên với Claude Code (trên Mac), để tiếp tục được trên máy khác.
 > Khi làm xong Giai đoạn 0, các nội dung bên dưới sẽ được chuyển vào `docs/decisions.md` và `CLAUDE.md`. Sau đó có thể xoá file này.
 >
