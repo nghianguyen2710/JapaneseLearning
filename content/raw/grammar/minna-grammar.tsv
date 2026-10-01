@@ -1,225 +1,225 @@
 # BẢN NHÁP do Claude soạn từ hiểu biết chung về mục lục Minna no Nihongo (source: ai, verified: false).
 # Phải đối chiếu với sách trước khi học từng bài. Sửa trực tiếp file này; đây là nguồn đầu vào, không phải file nội dung đã build.
-# Cột: lesson<TAB>order<TAB>pattern<TAB>meaning_vi
-lesson	order	pattern	meaning_vi
-1	1	N1 は N2 です	N1 là N2
-1	2	N1 は N2 じゃ（では）ありません	N1 không phải là N2
-1	3	S か	câu hỏi (có/không)
-1	4	N も	N cũng
-1	5	N1 の N2	N2 của / thuộc N1
-1	6	～さん	anh/chị/ông/bà (gắn sau tên người khác)
-2	1	これ／それ／あれ	cái này / cái đó / cái kia
-2	2	この／その／あの N	N này / N đó / N kia
-2	3	そうです／そうじゃありません	đúng vậy / không phải vậy
-2	4	S1 か、S2 か	S1 hay S2 (câu hỏi lựa chọn)
-2	5	N1 の N2（nội dung, sở hữu）	N2 về N1 / N2 của N1
-2	6	の thay cho danh từ	của (ai đó) — lược danh từ
-3	1	ここ／そこ／あそこ	chỗ này / chỗ đó / chỗ kia
-3	2	N は （địa điểm） です	N ở (địa điểm)
-3	3	どこ／どちら	ở đâu / phía nào (lịch sự)
-3	4	N1 の N2（xuất xứ）	N2 của (nước/công ty) N1
-3	5	こ／そ／あ／ど	hệ thống từ chỉ định
-3	6	お～	tiền tố lịch sự
-4	1	今 －時－分 です	bây giờ là … giờ … phút
-4	2	V ます／ません／ました／ませんでした	động từ thể lịch sự (hiện tại, quá khứ, khẳng định, phủ định)
-4	3	N（thời gian）に V	làm V vào lúc N
-4	4	N1 から N2 まで	từ N1 đến N2
-4	5	N1 と N2	N1 và N2
-4	6	S ね	… nhỉ / … nhé (tìm đồng tình)
-5	1	N（địa điểm）へ 行きます／来ます／帰ります	đi / đến / về (nơi nào)
-5	2	どこ［へ］も 行きません	không đi đâu cả
-5	3	N（phương tiện）で 行きます	đi bằng (phương tiện)
-5	4	N（người）と V	làm V cùng (ai)
-5	5	いつ	khi nào
-5	6	S よ	… đấy (thông báo cho người nghe)
-6	1	N を V（tha động từ）	làm V (cái gì)
-6	2	N を します	làm N
-6	3	何を しますか	làm gì
-6	4	N（địa điểm）で V	làm V ở (nơi nào)
-6	5	V ませんか	… không? (mời rủ)
-6	6	V ましょう	cùng … nào
-7	1	N（công cụ, phương tiện）で V	làm V bằng N
-7	2	「từ／câu」は ～語で 何ですか	… trong tiếng ~ là gì
-7	3	N（người）に あげます など	cho / tặng (ai)
-7	4	N（người）に／から もらいます など	nhận (từ ai)
-7	5	もう V ました	đã … rồi
-8	1	な-adj ［な］です／い-adj（～い）です	tính từ (đuôi な, đuôi い)
-8	2	な-adj な N／い-adj い N	tính từ bổ nghĩa danh từ
-8	3	とても／あまり	rất / không … lắm
-8	4	N は どうですか	N thế nào
-8	5	N1 は どんな N2 ですか	N1 là N2 như thế nào
-8	6	S1 が、S2	S1 nhưng S2
-8	7	どれ	cái nào (trong 3 cái trở lên)
-9	1	N が あります／わかります／好きです／嫌いです／上手です／下手です	có / hiểu / thích / ghét / giỏi / kém (N)
-9	2	どんな N	N loại nào
-9	3	よく／だいたい／たくさん／少し／あまり／全然	phó từ mức độ, số lượng
-9	4	S1 から、S2	vì S1 nên S2
-9	5	どうして	tại sao
-10	1	N が あります／います	có N (đồ vật / người, động vật)
-10	2	N1（địa điểm）に N2 が あります／います	ở N1 có N2
-10	3	N1 は N2（địa điểm）に あります／います	N1 ở N2
-10	4	N1（vật, người, nơi chốn）の N2（vị trí）	N2 (trên, dưới, trong…) của N1
-10	5	N1 や N2［など］	N1, N2, v.v.
-11	1	Số đếm（つ、人、台、枚、回…）	cách đếm số lượng
-11	2	Lượng từ + V	vị trí của lượng từ trong câu
-11	3	Khoảng thời gian に －回 V	làm V … lần trong (khoảng thời gian)
-11	4	Lượng từ／N だけ	chỉ
-12	1	Quá khứ của danh từ, tính từ（でした／かったです）	thì quá khứ của câu danh từ, tính từ
-12	2	N1 は N2 より adj です	N1 … hơn N2
-12	3	N1 と N2 と どちらが adj ですか	N1 và N2, cái nào … hơn
-12	4	N1［の中］で 何／どこ／だれ／いつ が いちばん adj ですか	trong N1, cái gì / ở đâu / ai / khi nào … nhất
-13	1	N が 欲しいです	muốn có N
-13	2	V ます たいです	muốn làm V
-13	3	N（địa điểm）へ V ます／N に 行きます／来ます／帰ります	đi / đến / về (nơi nào) để làm V
-13	4	どこか／何か	đâu đó / cái gì đó
-13	5	ご～	tiền tố lịch sự
-14	1	Nhóm động từ	ba nhóm động từ
-14	2	V て-form	cách chia thể て
-14	3	V て ください	hãy làm V
-14	4	V て います（đang tiếp diễn）	đang làm V
-14	5	V ましょうか	để tôi … nhé (đề nghị giúp)
-14	6	N が V（hiện tượng tự nhiên）	trợ từ が mô tả hiện tượng
-15	1	V て も いいですか	… có được không (xin phép)
-15	2	V て は いけません	không được làm V
-15	3	V て います（trạng thái, thói quen, nghề nghiệp）	trạng thái kéo dài
-15	4	N に V（入ります、座ります…）	đích của hành động (vào, ngồi…)
-15	5	知って います／知りません	biết / không biết
-16	1	V1 て、V2 て、～	nối các hành động theo trình tự
-16	2	い-adj（～くて）／N, な-adj で、～	nối tính từ, danh từ
-16	3	V1 て から、V2	sau khi V1 thì V2
-16	4	N1 は N2 が adj	N1 thì N2 … (đặc điểm)
-16	5	どうやって	làm thế nào
-16	6	どれ／どの N	cái nào / N nào
-17	1	V ない-form	cách chia thể ない
-17	2	V ないで ください	xin đừng làm V
-17	3	V なければ なりません	phải làm V
-17	4	V なくても いいです	không cần làm V cũng được
-17	5	N（tân ngữ）は	đưa tân ngữ lên làm chủ đề
-17	6	N（thời gian）までに V	làm V trước (thời hạn)
-18	1	V thể từ điển（辞書形）	cách chia thể từ điển
-18	2	N／V る こと が できます	có thể làm V
-18	3	わたしの 趣味は N／V る こと です	sở thích của tôi là …
-18	4	V1 る／N の／Lượng từ まえに、V2	trước khi …
-18	5	なかなか	mãi mà (không) …
-18	6	ぜひ	nhất định
-19	1	V た-form	cách chia thể た
-19	2	V た こと が あります	đã từng làm V
-19	3	V1 たり、V2 たり します	làm những việc như V1, V2
-19	4	い-adj（～く）／な-adj, N に なります	trở nên …
-20	1	Thể thông thường（普通形）	cách chia thể thông thường
-20	2	Văn phong thông thường（普通体）	cách nói chuyện thân mật
-21	1	普通形 と 思います	tôi nghĩ là …
-21	2	「S」／普通形 と 言います	nói là …
-21	3	普通形 でしょう？	… phải không? (xác nhận)
-21	4	N1（địa điểm）で N2 が あります	có (sự kiện) N2 ở N1
-21	5	N（dịp, hoàn cảnh）で	trong (dịp) N
-21	6	N でも V ませんか	… hay gì đó không? (gợi ý)
-22	1	Mệnh đề bổ nghĩa danh từ（普通形 + N）	định ngữ mệnh đề
-22	2	V る 時間／約束／用事	thời gian / hẹn / việc để làm V
-23	1	V る／V ない／adj／N の とき、～	khi …
-23	2	V る とき／V た とき	khi (trước / sau khi hành động xảy ra)
-23	3	V る と、～	hễ … thì … (kết quả tất yếu)
-23	4	N が adj／V	trợ từ が trong mệnh đề
-23	5	N（địa điểm）を V（di chuyển）	đi qua, băng qua (nơi nào)
-24	1	くれます	(ai đó) cho tôi
-24	2	V て あげます／もらいます／くれます	làm V cho / được làm cho
-24	3	N（người）が V	chủ ngữ là người thực hiện (hành động cho/nhận)
-25	1	普通形 quá khứ ら、～	nếu … thì … (たら điều kiện)
-25	2	V たら、～	sau khi … thì …
-25	3	V て／V なくて／adj くて／N で も、～	dù … cũng …
-25	4	もし	nếu
-25	5	いくら	dù bao nhiêu
-26	1	普通形 ん です	giải thích, hỏi lý do (んです)
-26	2	～ん ですが、V て いただけませんか	… nên có thể làm V giúp tôi được không
-26	3	Từ để hỏi + V たら いいですか	nên làm … thì được
-26	4	N は 好きです／上手です（chủ đề）	は đưa tân ngữ lên làm chủ đề
-27	1	Động từ khả năng（可能動詞）	có thể làm V
-27	2	見えます／聞こえます	nhìn thấy / nghe thấy (tự nhiên)
-27	3	できます	được hoàn thành, được làm ra
-27	4	しか ～ない	chỉ (nhấn mạnh ít)
-27	5	N は（đối chiếu）	so sánh, đối chiếu
-28	1	V1 ます ながら V2	vừa V1 vừa V2
-28	2	V て います（thói quen）	thói quen lặp lại
-28	3	普通形 し、普通形 し、～	vừa … vừa …, lại còn …
-28	4	それで	vì vậy
-29	1	V て います（trạng thái kết quả）	trạng thái kết quả của hành động
-29	2	V て しまいました／しまいます	lỡ … / làm xong hết
-29	3	ありました	tìm thấy rồi
-29	4	どこかで／どこかに	ở đâu đó
-30	1	V て あります	(đã được) làm sẵn (trạng thái do ai làm)
-30	2	V て おきます	làm sẵn, làm trước
-30	3	まだ V ます	vẫn còn
-30	4	とか	như là … (liệt kê)
-31	1	Thể ý chí（意向形）	cách chia thể ý chí
-31	2	意向形 と 思って います	định làm V
-31	3	V る／V ない つもりです	dự định (không) làm V
-31	4	V る／N の 予定です	theo kế hoạch …
-31	5	まだ V て いません	vẫn chưa làm V
-32	1	V た／V ない ほうが いいです	nên / không nên làm V
-32	2	普通形 でしょう	có lẽ …
-32	3	普通形 かも しれません	không chừng …, có thể …
-32	4	きっと／たぶん／もしかしたら	chắc chắn / có lẽ / không chừng
-33	1	Thể mệnh lệnh, cấm chỉ（命令形・禁止形）	hãy … ! / cấm …!
-33	2	X は Y という 意味です	X có nghĩa là Y
-33	3	「S」／普通形 と 言って いました	(ai đó) đã nói là …
-33	4	「S」／普通形 と 伝えて いただけませんか	nhắn giúp là … được không
-34	1	V1 た／N の とおりに、V2	làm V2 theo đúng như V1 / N
-34	2	V1 た／N の あとで、V2	sau khi …
-34	3	V1 て／V1 ないで V2	làm V2 trong trạng thái (có / không) V1
-34	4	V1 ないで V2	không làm V1 mà làm V2
-35	1	Thể điều kiện（条件形・～ば）	nếu …
-35	2	N なら、～	nếu là N thì …
-35	3	Từ để hỏi + V ば いいですか	nên làm … thì được
-35	4	～ば ～ほど	càng … càng …
-36	1	V1 る／V1 ない ように、V2	để (không) …
-36	2	V る ように なります	trở nên có thể …
-36	3	V る／V ない ように します	cố gắng (không) …
-36	4	Tính từ → phó từ（早い → 早く）	cách dùng tính từ làm phó từ
-37	1	Thể bị động（受身）	bị / được …
-37	2	N（vật）が／は 受身	câu bị động chủ ngữ là sự vật
-37	3	N から／N で つくります	làm từ (nguyên liệu)
-38	1	V る の は adj です	việc … thì …
-38	2	V る の が adj です	(thích, giỏi…) việc …
-38	3	V る の を 忘れました	quên làm V
-38	4	V た の を 知って いますか	có biết là … không
-38	5	V る／V た の は N です	cái … là N (nhấn mạnh)
-39	1	V て／V なくて／adj くて／N で、～	vì … nên (cảm xúc, kết quả)
-39	2	普通形 ので、～	vì … nên …
-39	3	途中で	giữa chừng, trên đường
-40	1	Từ để hỏi + 普通形 か、～	câu hỏi lồng (từ để hỏi)
-40	2	普通形 か どうか、～	có … hay không
-40	3	V て みます	thử làm V
-40	4	い-adj（～い → ～さ）	danh từ hoá tính từ
-40	5	～でしょうか	… không ạ (hỏi lịch sự)
-41	1	いただきます／くださいます／やります	nhận / cho (kính ngữ, với người dưới)
-41	2	V て いただきます／くださいます／やります	được làm cho / làm cho
-41	3	V て くださいませんか	có thể làm V giúp được không ạ
-41	4	N に V（làm quà, kỷ niệm…）	làm V để làm (quà…)
-42	1	V る／N の ために、～	để …, vì …
-42	2	V る の／N に（使います、いいです、かかります）	dùng để …, tốt cho …, tốn (để) …
-42	3	Lượng từ は／も	ít nhất / những …
-43	1	V ます／adj そうです（trông có vẻ）	trông có vẻ …
-43	2	V て 来ます	đi … rồi về
-43	3	V て くれませんか	làm V giúp tôi được không
-44	1	V ます／adj すぎます	quá …
-44	2	V ます やすいです／にくいです	dễ / khó làm V
-44	3	い-adj（～く）／な-adj, N に します	làm cho …
-44	4	N に します	chọn, quyết định N
-45	1	V る／V ない／V た／adj／N の 場合は、～	trường hợp …
-45	2	普通形 のに、～	… vậy mà …
-46	1	V る／V て いる／V た ところです	sắp / đang / vừa mới làm V
-46	2	V た ばかりです	vừa mới làm V
-46	3	V る／V ない／adj／N の はずです	chắc chắn là … (theo suy luận)
-47	1	普通形 そうです（truyền đạt）	nghe nói …
-47	2	V る／adj／N の ようです	hình như …
-47	3	声／音／におい／味 が します	nghe thấy / ngửi thấy / có vị …
-48	1	Thể sai khiến（使役）	bắt / cho phép (ai) làm V
-48	2	使役 て いただけませんか	cho phép tôi làm V được không
-49	1	Tôn kính ngữ（尊敬語）	kính ngữ (động từ tôn kính)
-49	2	お V ます に なります	tôn kính ngữ dạng お～になる
-49	3	Động từ tôn kính đặc biệt	いらっしゃいます、召し上がります…
-49	4	V て いらっしゃいます	đang làm V (tôn kính)
-50	1	Khiêm nhường ngữ（謙譲語）	khiêm nhường ngữ
-50	2	お／ご V します	khiêm nhường ngữ dạng お～する
-50	3	Động từ khiêm nhường đặc biệt	参ります、いただきます、申します…
-50	4	ございます（丁寧語）	thể lịch sự của あります
+# Cột: id<TAB>lesson<TAB>order<TAB>pattern<TAB>meaning_vi. ID không bao giờ đổi hoặc đánh số lại; mẫu mới lấy số tiếp theo của bài.
+id	lesson	order	pattern	meaning_vi
+g01-01	1	1	N1 は N2 です	N1 là N2
+g01-02	1	2	N1 は N2 じゃ（では）ありません	N1 không phải là N2
+g01-03	1	3	S か	câu hỏi (có/không)
+g01-04	1	4	N も	N cũng
+g01-05	1	5	N1 の N2	N2 của / thuộc N1
+g01-06	1	6	～さん	anh/chị/ông/bà (gắn sau tên người khác)
+g02-01	2	1	これ／それ／あれ	cái này / cái đó / cái kia
+g02-02	2	2	この／その／あの N	N này / N đó / N kia
+g02-03	2	3	そうです／そうじゃありません	đúng vậy / không phải vậy
+g02-04	2	4	S1 か、S2 か	S1 hay S2 (câu hỏi lựa chọn)
+g02-05	2	5	N1 の N2（nội dung, sở hữu）	N2 về N1 / N2 của N1
+g02-06	2	6	の thay cho danh từ	của (ai đó) — lược danh từ
+g03-01	3	1	ここ／そこ／あそこ	chỗ này / chỗ đó / chỗ kia
+g03-02	3	2	N は （địa điểm） です	N ở (địa điểm)
+g03-03	3	3	どこ／どちら	ở đâu / phía nào (lịch sự)
+g03-04	3	4	N1 の N2（xuất xứ）	N2 của (nước/công ty) N1
+g03-05	3	5	こ／そ／あ／ど	hệ thống từ chỉ định
+g03-06	3	6	お～	tiền tố lịch sự
+g04-01	4	1	今 －時－分 です	bây giờ là … giờ … phút
+g04-02	4	2	V ます／ません／ました／ませんでした	động từ thể lịch sự (hiện tại, quá khứ, khẳng định, phủ định)
+g04-03	4	3	N（thời gian）に V	làm V vào lúc N
+g04-04	4	4	N1 から N2 まで	từ N1 đến N2
+g04-05	4	5	N1 と N2	N1 và N2
+g04-06	4	6	S ね	… nhỉ / … nhé (tìm đồng tình)
+g05-01	5	1	N（địa điểm）へ 行きます／来ます／帰ります	đi / đến / về (nơi nào)
+g05-02	5	2	どこ［へ］も 行きません	không đi đâu cả
+g05-03	5	3	N（phương tiện）で 行きます	đi bằng (phương tiện)
+g05-04	5	4	N（người）と V	làm V cùng (ai)
+g05-05	5	5	いつ	khi nào
+g05-06	5	6	S よ	… đấy (thông báo cho người nghe)
+g06-01	6	1	N を V（tha động từ）	làm V (cái gì)
+g06-02	6	2	N を します	làm N
+g06-03	6	3	何を しますか	làm gì
+g06-04	6	4	N（địa điểm）で V	làm V ở (nơi nào)
+g06-05	6	5	V ませんか	… không? (mời rủ)
+g06-06	6	6	V ましょう	cùng … nào
+g07-01	7	1	N（công cụ, phương tiện）で V	làm V bằng N
+g07-02	7	2	「từ／câu」は ～語で 何ですか	… trong tiếng ~ là gì
+g07-03	7	3	N（người）に あげます など	cho / tặng (ai)
+g07-04	7	4	N（người）に／から もらいます など	nhận (từ ai)
+g07-05	7	5	もう V ました	đã … rồi
+g08-01	8	1	な-adj ［な］です／い-adj（～い）です	tính từ (đuôi な, đuôi い)
+g08-02	8	2	な-adj な N／い-adj い N	tính từ bổ nghĩa danh từ
+g08-03	8	3	とても／あまり	rất / không … lắm
+g08-04	8	4	N は どうですか	N thế nào
+g08-05	8	5	N1 は どんな N2 ですか	N1 là N2 như thế nào
+g08-06	8	6	S1 が、S2	S1 nhưng S2
+g08-07	8	7	どれ	cái nào (trong 3 cái trở lên)
+g09-01	9	1	N が あります／わかります／好きです／嫌いです／上手です／下手です	có / hiểu / thích / ghét / giỏi / kém (N)
+g09-02	9	2	どんな N	N loại nào
+g09-03	9	3	よく／だいたい／たくさん／少し／あまり／全然	phó từ mức độ, số lượng
+g09-04	9	4	S1 から、S2	vì S1 nên S2
+g09-05	9	5	どうして	tại sao
+g10-01	10	1	N が あります／います	có N (đồ vật / người, động vật)
+g10-02	10	2	N1（địa điểm）に N2 が あります／います	ở N1 có N2
+g10-03	10	3	N1 は N2（địa điểm）に あります／います	N1 ở N2
+g10-04	10	4	N1（vật, người, nơi chốn）の N2（vị trí）	N2 (trên, dưới, trong…) của N1
+g10-05	10	5	N1 や N2［など］	N1, N2, v.v.
+g11-01	11	1	Số đếm（つ、人、台、枚、回…）	cách đếm số lượng
+g11-02	11	2	Lượng từ + V	vị trí của lượng từ trong câu
+g11-03	11	3	Khoảng thời gian に －回 V	làm V … lần trong (khoảng thời gian)
+g11-04	11	4	Lượng từ／N だけ	chỉ
+g12-01	12	1	Quá khứ của danh từ, tính từ（でした／かったです）	thì quá khứ của câu danh từ, tính từ
+g12-02	12	2	N1 は N2 より adj です	N1 … hơn N2
+g12-03	12	3	N1 と N2 と どちらが adj ですか	N1 và N2, cái nào … hơn
+g12-04	12	4	N1［の中］で 何／どこ／だれ／いつ が いちばん adj ですか	trong N1, cái gì / ở đâu / ai / khi nào … nhất
+g13-01	13	1	N が 欲しいです	muốn có N
+g13-02	13	2	V ます たいです	muốn làm V
+g13-03	13	3	N（địa điểm）へ V ます／N に 行きます／来ます／帰ります	đi / đến / về (nơi nào) để làm V
+g13-04	13	4	どこか／何か	đâu đó / cái gì đó
+g13-05	13	5	ご～	tiền tố lịch sự
+g14-01	14	1	Nhóm động từ	ba nhóm động từ
+g14-02	14	2	V て-form	cách chia thể て
+g14-03	14	3	V て ください	hãy làm V
+g14-04	14	4	V て います（đang tiếp diễn）	đang làm V
+g14-05	14	5	V ましょうか	để tôi … nhé (đề nghị giúp)
+g14-06	14	6	N が V（hiện tượng tự nhiên）	trợ từ が mô tả hiện tượng
+g15-01	15	1	V て も いいですか	… có được không (xin phép)
+g15-02	15	2	V て は いけません	không được làm V
+g15-03	15	3	V て います（trạng thái, thói quen, nghề nghiệp）	trạng thái kéo dài
+g15-04	15	4	N に V（入ります、座ります…）	đích của hành động (vào, ngồi…)
+g15-05	15	5	知って います／知りません	biết / không biết
+g16-01	16	1	V1 て、V2 て、～	nối các hành động theo trình tự
+g16-02	16	2	い-adj（～くて）／N, な-adj で、～	nối tính từ, danh từ
+g16-03	16	3	V1 て から、V2	sau khi V1 thì V2
+g16-04	16	4	N1 は N2 が adj	N1 thì N2 … (đặc điểm)
+g16-05	16	5	どうやって	làm thế nào
+g16-06	16	6	どれ／どの N	cái nào / N nào
+g17-01	17	1	V ない-form	cách chia thể ない
+g17-02	17	2	V ないで ください	xin đừng làm V
+g17-03	17	3	V なければ なりません	phải làm V
+g17-04	17	4	V なくても いいです	không cần làm V cũng được
+g17-05	17	5	N（tân ngữ）は	đưa tân ngữ lên làm chủ đề
+g17-06	17	6	N（thời gian）までに V	làm V trước (thời hạn)
+g18-01	18	1	V thể từ điển（辞書形）	cách chia thể từ điển
+g18-02	18	2	N／V る こと が できます	có thể làm V
+g18-03	18	3	わたしの 趣味は N／V る こと です	sở thích của tôi là …
+g18-04	18	4	V1 る／N の／Lượng từ まえに、V2	trước khi …
+g18-05	18	5	なかなか	mãi mà (không) …
+g18-06	18	6	ぜひ	nhất định
+g19-01	19	1	V た-form	cách chia thể た
+g19-02	19	2	V た こと が あります	đã từng làm V
+g19-03	19	3	V1 たり、V2 たり します	làm những việc như V1, V2
+g19-04	19	4	い-adj（～く）／な-adj, N に なります	trở nên …
+g20-01	20	1	Thể thông thường（普通形）	cách chia thể thông thường
+g20-02	20	2	Văn phong thông thường（普通体）	cách nói chuyện thân mật
+g21-01	21	1	普通形 と 思います	tôi nghĩ là …
+g21-02	21	2	「S」／普通形 と 言います	nói là …
+g21-03	21	3	普通形 でしょう？	… phải không? (xác nhận)
+g21-04	21	4	N1（địa điểm）で N2 が あります	có (sự kiện) N2 ở N1
+g21-05	21	5	N（dịp, hoàn cảnh）で	trong (dịp) N
+g21-06	21	6	N でも V ませんか	… hay gì đó không? (gợi ý)
+g22-01	22	1	Mệnh đề bổ nghĩa danh từ（普通形 + N）	định ngữ mệnh đề
+g22-02	22	2	V る 時間／約束／用事	thời gian / hẹn / việc để làm V
+g23-01	23	1	V る／V ない／adj／N の とき、～	khi …
+g23-02	23	2	V る とき／V た とき	khi (trước / sau khi hành động xảy ra)
+g23-03	23	3	V る と、～	hễ … thì … (kết quả tất yếu)
+g23-04	23	4	N が adj／V	trợ từ が trong mệnh đề
+g23-05	23	5	N（địa điểm）を V（di chuyển）	đi qua, băng qua (nơi nào)
+g24-01	24	1	くれます	(ai đó) cho tôi
+g24-02	24	2	V て あげます／もらいます／くれます	làm V cho / được làm cho
+g24-03	24	3	N（người）が V	chủ ngữ là người thực hiện (hành động cho/nhận)
+g25-01	25	1	普通形 quá khứ ら、～	nếu … thì … (たら điều kiện)
+g25-02	25	2	V たら、～	sau khi … thì …
+g25-03	25	3	V て／V なくて／adj くて／N で も、～	dù … cũng …
+g25-04	25	4	もし	nếu
+g25-05	25	5	いくら	dù bao nhiêu
+g26-01	26	1	普通形 ん です	giải thích, hỏi lý do (んです)
+g26-02	26	2	～ん ですが、V て いただけませんか	… nên có thể làm V giúp tôi được không
+g26-03	26	3	Từ để hỏi + V たら いいですか	nên làm … thì được
+g26-04	26	4	N は 好きです／上手です（chủ đề）	は đưa tân ngữ lên làm chủ đề
+g27-01	27	1	Động từ khả năng（可能動詞）	có thể làm V
+g27-02	27	2	見えます／聞こえます	nhìn thấy / nghe thấy (tự nhiên)
+g27-03	27	3	できます	được hoàn thành, được làm ra
+g27-04	27	4	しか ～ない	chỉ (nhấn mạnh ít)
+g27-05	27	5	N は（đối chiếu）	so sánh, đối chiếu
+g28-01	28	1	V1 ます ながら V2	vừa V1 vừa V2
+g28-02	28	2	V て います（thói quen）	thói quen lặp lại
+g28-03	28	3	普通形 し、普通形 し、～	vừa … vừa …, lại còn …
+g28-04	28	4	それで	vì vậy
+g29-01	29	1	V て います（trạng thái kết quả）	trạng thái kết quả của hành động
+g29-02	29	2	V て しまいました／しまいます	lỡ … / làm xong hết
+g29-03	29	3	ありました	tìm thấy rồi
+g29-04	29	4	どこかで／どこかに	ở đâu đó
+g30-01	30	1	V て あります	(đã được) làm sẵn (trạng thái do ai làm)
+g30-02	30	2	V て おきます	làm sẵn, làm trước
+g30-03	30	3	まだ V ます	vẫn còn
+g30-04	30	4	とか	như là … (liệt kê)
+g31-01	31	1	Thể ý chí（意向形）	cách chia thể ý chí
+g31-02	31	2	意向形 と 思って います	định làm V
+g31-03	31	3	V る／V ない つもりです	dự định (không) làm V
+g31-04	31	4	V る／N の 予定です	theo kế hoạch …
+g31-05	31	5	まだ V て いません	vẫn chưa làm V
+g32-01	32	1	V た／V ない ほうが いいです	nên / không nên làm V
+g32-02	32	2	普通形 でしょう	có lẽ …
+g32-03	32	3	普通形 かも しれません	không chừng …, có thể …
+g32-04	32	4	きっと／たぶん／もしかしたら	chắc chắn / có lẽ / không chừng
+g33-01	33	1	Thể mệnh lệnh, cấm chỉ（命令形・禁止形）	hãy … ! / cấm …!
+g33-02	33	2	X は Y という 意味です	X có nghĩa là Y
+g33-03	33	3	「S」／普通形 と 言って いました	(ai đó) đã nói là …
+g33-04	33	4	「S」／普通形 と 伝えて いただけませんか	nhắn giúp là … được không
+g34-01	34	1	V1 た／N の とおりに、V2	làm V2 theo đúng như V1 / N
+g34-02	34	2	V1 た／N の あとで、V2	sau khi …
+g34-03	34	3	V1 て／V1 ないで V2	làm V2 trong trạng thái (có / không) V1
+g34-04	34	4	V1 ないで V2	không làm V1 mà làm V2
+g35-01	35	1	Thể điều kiện（条件形・～ば）	nếu …
+g35-02	35	2	N なら、～	nếu là N thì …
+g35-03	35	3	Từ để hỏi + V ば いいですか	nên làm … thì được
+g35-04	35	4	～ば ～ほど	càng … càng …
+g36-01	36	1	V1 る／V1 ない ように、V2	để (không) …
+g36-02	36	2	V る ように なります	trở nên có thể …
+g36-03	36	3	V る／V ない ように します	cố gắng (không) …
+g36-04	36	4	Tính từ → phó từ（早い → 早く）	cách dùng tính từ làm phó từ
+g37-01	37	1	Thể bị động（受身）	bị / được …
+g37-02	37	2	N（vật）が／は 受身	câu bị động chủ ngữ là sự vật
+g37-03	37	3	N から／N で つくります	làm từ (nguyên liệu)
+g38-01	38	1	V る の は adj です	việc … thì …
+g38-02	38	2	V る の が adj です	(thích, giỏi…) việc …
+g38-03	38	3	V る の を 忘れました	quên làm V
+g38-04	38	4	V た の を 知って いますか	có biết là … không
+g38-05	38	5	V る／V た の は N です	cái … là N (nhấn mạnh)
+g39-01	39	1	V て／V なくて／adj くて／N で、～	vì … nên (cảm xúc, kết quả)
+g39-02	39	2	普通形 ので、～	vì … nên …
+g39-03	39	3	途中で	giữa chừng, trên đường
+g40-01	40	1	Từ để hỏi + 普通形 か、～	câu hỏi lồng (từ để hỏi)
+g40-02	40	2	普通形 か どうか、～	có … hay không
+g40-03	40	3	V て みます	thử làm V
+g40-04	40	4	い-adj（～い → ～さ）	danh từ hoá tính từ
+g40-05	40	5	～でしょうか	… không ạ (hỏi lịch sự)
+g41-01	41	1	いただきます／くださいます／やります	nhận / cho (kính ngữ, với người dưới)
+g41-02	41	2	V て いただきます／くださいます／やります	được làm cho / làm cho
+g41-03	41	3	V て くださいませんか	có thể làm V giúp được không ạ
+g41-04	41	4	N に V（làm quà, kỷ niệm…）	làm V để làm (quà…)
+g42-01	42	1	V る／N の ために、～	để …, vì …
+g42-02	42	2	V る の／N に（使います、いいです、かかります）	dùng để …, tốt cho …, tốn (để) …
+g42-03	42	3	Lượng từ は／も	ít nhất / những …
+g43-01	43	1	V ます／adj そうです（trông có vẻ）	trông có vẻ …
+g43-02	43	2	V て 来ます	đi … rồi về
+g43-03	43	3	V て くれませんか	làm V giúp tôi được không
+g44-01	44	1	V ます／adj すぎます	quá …
+g44-02	44	2	V ます やすいです／にくいです	dễ / khó làm V
+g44-03	44	3	い-adj（～く）／な-adj, N に します	làm cho …
+g44-04	44	4	N に します	chọn, quyết định N
+g45-01	45	1	V る／V ない／V た／adj／N の 場合は、～	trường hợp …
+g45-02	45	2	普通形 のに、～	… vậy mà …
+g46-01	46	1	V る／V て いる／V た ところです	sắp / đang / vừa mới làm V
+g46-02	46	2	V た ばかりです	vừa mới làm V
+g46-03	46	3	V る／V ない／adj／N の はずです	chắc chắn là … (theo suy luận)
+g47-01	47	1	普通形 そうです（truyền đạt）	nghe nói …
+g47-02	47	2	V る／adj／N の ようです	hình như …
+g47-03	47	3	声／音／におい／味 が します	nghe thấy / ngửi thấy / có vị …
+g48-01	48	1	Thể sai khiến（使役）	bắt / cho phép (ai) làm V
+g48-02	48	2	使役 て いただけませんか	cho phép tôi làm V được không
+g49-01	49	1	Tôn kính ngữ（尊敬語）	kính ngữ (động từ tôn kính)
+g49-02	49	2	お V ます に なります	tôn kính ngữ dạng お～になる
+g49-03	49	3	Động từ tôn kính đặc biệt	いらっしゃいます、召し上がります…
+g49-04	49	4	V て いらっしゃいます	đang làm V (tôn kính)
+g50-01	50	1	Khiêm nhường ngữ（謙譲語）	khiêm nhường ngữ
+g50-02	50	2	お／ご V します	khiêm nhường ngữ dạng お～する
+g50-03	50	3	Động từ khiêm nhường đặc biệt	参ります、いただきます、申します…
+g50-04	50	4	ございます（丁寧語）	thể lịch sự của あります

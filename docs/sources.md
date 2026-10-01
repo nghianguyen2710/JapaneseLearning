@@ -48,7 +48,7 @@ Máy mới: clone repo rồi chạy `./scripts/fetch-sources.sh` (cần `curl`, 
 
 - **Lấy từ:** Claude soạn ngày 1/10/2026 theo hiểu biết chung về mục lục Minna no Nihongo I/II. **Không lấy từ nguồn nào có sẵn.**
 - **Trạng thái:** `source: ai`, `verified: false` cho tất cả. **Phải đối chiếu với sách** trước khi học từng bài.
-- **Định dạng:** TSV, các dòng `#` là chú thích, cột `lesson`, `order`, `pattern`, `meaning_vi`
+- **Định dạng:** TSV, các dòng `#` là chú thích, cột `id`, `lesson`, `order`, `pattern`, `meaning_vi`. Cột `id` (`g01-01`) cố định, không bao giờ đánh số lại
 - Khoảng 4–7 mẫu mỗi bài, tổng cộng khoảng 240 mẫu
 
 ## 3. JMdict — `jmdict/jmdict-eng-3.6.2.json`
@@ -61,7 +61,8 @@ Máy mới: clone repo rồi chạy `./scripts/fetch-sources.sh` (cần `curl`, 
 
 - **Lấy từ:** jmdict-simplified, cùng phiên bản với JMdict
 - **Dùng cho:** **âm Hán Việt của từng kanji** (reading type `vietnam`), âm On/Kun, nghĩa, số nét
-- **Độ phủ:** **890/890** kanji xuất hiện trong bộ thẻ có âm Hán Việt. Vì vậy dùng làm **nguồn chính** cho âm Hán Việt (xem `decisions.md`).
+- **Độ phủ:** có âm Hán Việt cho 890/890 kanji trong bộ thẻ, nhưng **sai ở nhiều kanji dạng giản thể của Nhật** (ví dụ 桜 → Tí, 伝 → Vân). Vì vậy chỉ dùng làm **phương án dự phòng** (`decisions.md` D17).
+- Âm Hán Việt **không ở dạng chuẩn NFC**, nên phải chuẩn hoá Unicode trước khi so sánh.
 - **Giấy phép:** EDRDG Licence, CC BY-SA 4.0. **Bắt buộc ghi nguồn.**
 
 ## 5. Unihan — `unihan/Unihan_Readings.txt`
@@ -79,4 +80,4 @@ Máy mới: clone repo rồi chạy `./scripts/fetch-sources.sh` (cần `curl`, 
   - `jpn_links.tsv`: **file do script tạo ra**, lọc từ `links.csv` (khoảng 440MB), chỉ giữ các cặp câu Nhật → câu Việt/Anh, với các cột `jpn_id`, `trans_id`, `trans_lang`
 - **Số lượng (1/10/2026):** 248.917 câu tiếng Nhật, 8.477 liên kết Nhật–Việt, 280.520 liên kết Nhật–Anh. Vì vậy **đa số câu ví dụ sẽ chỉ có bản dịch tiếng Anh**.
 - **Giấy phép:** chủ yếu [CC BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/), một số câu CC0. **Bắt buộc ghi nguồn**, nên kèm link tới từng câu (`https://tatoeba.org/sentences/show/<id>`).
-- Theo kế hoạch, bộ lọc câu ví dụ được làm vào cuối tuần dự phòng (xem `decisions.md`).
+- Câu ví dụ được làm sau MVP (`decisions.md` D12, D15).

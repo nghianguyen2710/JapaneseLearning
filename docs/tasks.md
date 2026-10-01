@@ -25,7 +25,7 @@
 
 - [x] T1.1 Khởi tạo Next.js, TypeScript, Tailwind, ESLint, Prettier, Vitest. Cấu trúc thư mục khớp `CLAUDE.md`
 - [x] T1.2 Design token (light/dark), font Noto Sans JP kèm font dự phòng, component `<Furigana>` dùng `<ruby>`
-- [ ] T1.3 `docs/schema.md` cùng type TypeScript: bài, từ vựng, kanji, mẫu ngữ pháp. Có `schemaVersion`, `source`, `verified`, chiến lược ID cố định
+- [x] T1.3 `docs/schema.md` cùng type TypeScript: bài, từ vựng, kanji, mẫu ngữ pháp. Có `schemaVersion`, `source`, `verified`, chiến lược ID cố định
 - [ ] T1.4 👤 **Duyệt schema và cơ chế ID** (quyết định khó đảo ngược nhất)
 - [ ] T1.5 Parser bộ thẻ: đọc TSV, chuẩn hoá ký hiệu, báo lỗi rõ khi sai định dạng. Có test với dữ liệu mẫu nhỏ
 - [ ] T1.6 Ghép âm Hán Việt và âm On/Kun từ KANJIDIC2 cho từng kanji

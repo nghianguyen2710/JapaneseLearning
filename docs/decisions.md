@@ -35,7 +35,7 @@ Các cuối tuần 3–4/10, 10–11/10, 17–18/10. Cuối tuần 24–25/10 ch
 Repo `github.com/nghianguyen2710/JapaneseLearning`, tách khỏi LOA Portal.
 **Lý do:** bộ thẻ Minna chỉ được dùng cho cá nhân. Không trộn dự án cá nhân với tài khoản công ty.
 
-### D9. Âm Hán Việt của kanji: KANJIDIC2 là nguồn chính, Unihan để đối chiếu — 1/10/2026
+### D9. ~~Âm Hán Việt của kanji: KANJIDIC2 là nguồn chính, Unihan để đối chiếu~~ — 1/10/2026 (đã thay bằng D17)
 **Lý do:** đo trên 890 kanji của bộ thẻ, KANJIDIC2 có đủ 890, Unihan `kVietnamese` chỉ có 670 và có chỗ lẫn âm Nôm. Âm Hán Việt của cả từ (cột 6 của bộ thẻ) vẫn được giữ nguyên làm giá trị hiển thị chính.
 
 ### D10. Dùng JMdict bản JSON (jmdict-simplified) thay cho XML gốc — 1/10/2026
@@ -64,6 +64,10 @@ Claude viết giải thích theo lô 5 bài ra file trong `content/raw/grammar/`
 
 ### D16. Duyệt thư viện `kuromoji` và `serwist` — 1/10/2026
 `kuromoji` chỉ dùng trong script build, không đưa vào app. `serwist` dùng cho service worker của PWA offline.
+
+### D17. Âm Hán Việt của kanji lấy từ bộ thẻ, KANJIDIC2 chỉ là phương án dự phòng — 1/10/2026
+(Thay cho D9.) Âm Hán Việt của từng kanji được tách từ cột âm Hán Việt của bộ thẻ: từ nào có số âm tiết bằng số kanji thì ghép lần lượt từng âm với từng kanji, rồi lấy âm xuất hiện nhiều nhất làm **âm chính**. Có 1527 từ ghép được như vậy, phủ 881/890 kanji. Kanji không có âm trong bộ thẻ thì mới lấy từ KANJIDIC2, đánh dấu `verified: false`. Báo cáo build liệt kê những kanji mà âm từ bộ thẻ khác với âm của KANJIDIC2.
+**Lý do:** kiểm tra kỹ hơn cho thấy KANJIDIC2 sai ở nhiều kanji dạng giản thể của Nhật, vì nó gán âm của một chữ Hán khác có cùng mặt chữ. Ví dụ: 桜 → "Tí" (đúng là Anh), 伝 → "Vân" (đúng là Truyền), 県 → "Huyền" (đúng là Huyện), 画 → "Hoạch" (thiếu Họa). Có 42 kanji mà âm từ bộ thẻ không có trong KANJIDIC2. Ngoài ra, dữ liệu KANJIDIC2 không ở dạng chuẩn NFC, nên phải chuẩn hoá Unicode trước khi so sánh.
 
 ## Đề xuất — chờ người dùng chốt
 
