@@ -11,6 +11,12 @@ export default function Home() {
       >
         Ôn từ vựng hôm nay
       </Link>
+      <Link
+        href="/data"
+        className="flex min-h-12 items-center justify-center rounded-xl border border-border bg-surface text-sm hover:bg-surface-muted"
+      >
+        Dữ liệu: Báo sai, thẻ đã ẩn, sao lưu
+      </Link>
       <section className="rounded-xl border border-border bg-surface p-6">
         <p className="text-sm text-muted">Kiểm tra font và furigana</p>
         <p lang="ja" className="mt-4 text-4xl leading-loose">

@@ -10,8 +10,10 @@ import type { Vocab } from "@/lib/content/schema";
 import { buildQueue } from "@/lib/srs/queue";
 import { loadCardStates, recordReview } from "@/lib/srs/review-log";
 import { getUserStorage } from "@/lib/storage/local-backend";
+import { addReport, setSuspended } from "@/lib/user-data/actions";
 import { describeStorageError, type Result, type UserStorage } from "@/lib/storage/user-storage";
 import type { CardId, Grade, Settings } from "@/lib/user-data/schema";
+import { CardTools } from "./card-tools";
 import { Flashcard } from "./flashcard";
 import { useJapaneseSpeech } from "./use-speech";
 
@@ -65,6 +67,7 @@ export function ReviewScreen() {
   const [revealed, setRevealed] = useState(false);
   const [doneCount, setDoneCount] = useState(0);
   const [saveError, setSaveError] = useState<string | null>(null);
+  const [notice, setNotice] = useState<{ text: string; undo?: () => void } | null>(null);
   const shownAt = useRef(0);
   const { canSpeak, speak } = useJapaneseSpeech();
 
@@ -107,6 +110,7 @@ export function ReviewScreen() {
       const rest = view.queue.slice(1);
       setView({ ...view, queue: g === "again" ? [...rest, current] : rest });
       setRevealed(false);
+      setNotice(null);
       setDoneCount((n) => n + 1);
     },
     [view, revealed, current],
@@ -130,6 +134,42 @@ export function ReviewScreen() {
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [revealed, grade]);
+
+  function report(note: string): boolean {
+    if (!current) return false;
+    const vocabId = current.split(":")[0];
+    const res = addReport(getUserStorage(), { itemId: vocabId, note });
+    if (!res.ok) {
+      setSaveError(describeStorageError(res.error));
+      return false;
+    }
+    setNotice({ text: "Đã ghi Báo sai. Xem lại ở trang Dữ liệu." });
+    return true;
+  }
+
+  function suspend() {
+    if (view.status !== "ready" || !current) return;
+    const res = setSuspended(getUserStorage(), current, true);
+    if (!res.ok) {
+      setSaveError(describeStorageError(res.error));
+      return;
+    }
+    const before = view;
+    setView({ ...view, queue: view.queue.filter((id) => id !== current) });
+    setRevealed(false);
+    setNotice({
+      text: "Đã tạm ẩn thẻ.",
+      undo: () => {
+        const undone = setSuspended(getUserStorage(), current, false);
+        if (!undone.ok) {
+          setSaveError(describeStorageError(undone.error));
+          return;
+        }
+        setView(before);
+        setNotice(null);
+      },
+    });
+  }
 
   function changeLesson(lesson: number) {
     if (view.status !== "ready") return;
@@ -204,6 +244,24 @@ export function ReviewScreen() {
         </p>
       )}
 
+      {notice && (
+        <p
+          role="status"
+          className="flex items-center justify-between gap-3 rounded-xl border border-border bg-surface p-3 text-sm"
+        >
+          {notice.text}
+          {notice.undo && (
+            <button
+              type="button"
+              onClick={notice.undo}
+              className="min-h-11 shrink-0 rounded-lg px-3 font-medium text-accent hover:bg-surface-muted"
+            >
+              Hoàn tác
+            </button>
+          )}
+        </p>
+      )}
+
       {!current ? (
         <div className="flex flex-1 flex-col items-center justify-center gap-2 rounded-2xl border border-border bg-surface p-8 text-center">
           <p className="text-2xl">🎉</p>
@@ -263,6 +321,8 @@ export function ReviewScreen() {
               <span className="ml-2 hidden text-xs font-normal opacity-80 sm:inline">Space</span>
             </button>
           )}
+
+          <CardTools key={`${current}#${doneCount}`} onReport={report} onSuspend={suspend} />
         </>
       )}
     </div>
