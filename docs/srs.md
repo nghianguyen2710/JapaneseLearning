@@ -30,3 +30,12 @@
 2. **"Khó" vẫn tính là nhớ**, khoảng cách vẫn tăng nhưng chậm hơn, vì hệ số dễ giảm.
 3. **Ôn lại trong ngày sau khi quên** cũng là một lần ôn thật, có ghi vào review log. Nhớ ở lần này thì đến hạn ngày mai.
 4. **Trạng thái thẻ không được lưu như nguồn sự thật.** Trạng thái luôn tính lại được bằng cách cho review log chạy lại qua hàm `schedule` (`docs/schema.md` mục 4).
+
+## 4. Hàng đợi hôm nay
+
+Code: [`src/lib/srs/queue.ts`](../src/lib/srs/queue.ts), test: [`queue.test.ts`](../src/lib/srs/queue.test.ts).
+
+- **Chỉ lấy thẻ của các bài ≤ bài hiện tại** (`settings.currentLesson`, do người dùng tự đặt). Thẻ đã suspend không vào hàng đợi.
+- **Thẻ đến hạn** (ngày đến hạn ≤ hôm nay) đứng trước, thẻ quá hạn lâu nhất lên đầu. **Không giới hạn số lượng.**
+- **Thẻ mới** (chưa ôn lần nào) đứng sau, theo thứ tự bài rồi đến thứ tự trong bài. Tối đa `newCardsPerDay` thẻ (mặc định 10), **trừ đi số thẻ mới đã mở hôm nay**, nên mở lại trang cũng không có thêm thẻ mới.
+- **Thẻ chấm "Quên"** trong phiên được đưa xuống cuối hàng đợi và ôn lại cho đến khi nhớ.
