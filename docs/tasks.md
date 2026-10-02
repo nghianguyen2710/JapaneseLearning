@@ -43,7 +43,7 @@
 - [x] T2.4 Hàng đợi hôm nay (thẻ đến hạn + tối đa 10 thẻ mới, chỉ mở cho bài ≤ bài hiện tại)
 - [ ] T2.5 Màn hình ôn thẻ: lật thẻ, chấm 4 mức, phím tắt, vùng chạm, empty state, ghi kết quả ngay sau mỗi thẻ. Phát âm bằng TTS _(code xong 2/10, chờ 👤 thử trên trình duyệt thật)_
 - [ ] T2.6 "Báo sai" và suspend thẻ _(code xong 2/10, chờ 👤 thử thật; kèm trang /data để xem Báo sai và hiện lại thẻ đã ẩn)_
-- [ ] T2.7 Export/import JSON: kiểm tra hợp lệ, hỏi xác nhận trước khi ghi đè
+- [ ] T2.7 Export/import JSON: kiểm tra hợp lệ, hỏi xác nhận trước khi ghi đè _(code xong 2/10, chờ 👤 thử export/import giữa Mac và iPhone = Checkpoint 2)_
 
 **✅ Checkpoint 2:** 👤 xoá trạng thái thẻ rồi tính lại từ log, ra kết quả giống hệt · export/import giữa Mac và iPhone
 

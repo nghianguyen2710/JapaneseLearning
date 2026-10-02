@@ -3,6 +3,7 @@
 // Màn hình ôn thẻ từ vựng (T2.5). Mỗi lần chấm được ghi ngay vào review log,
 // nên thoát giữa chừng không mất kết quả các thẻ đã chấm.
 
+import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { toVnDate } from "@/lib/date/vn-time";
 import { LESSON_COUNT, loadVocabUpTo } from "@/lib/content/load";
@@ -205,6 +206,12 @@ export function ReviewScreen() {
         >
           Thử lại
         </button>
+        <Link
+          href="/data"
+          className="mt-4 ml-2 inline-flex min-h-11 items-center rounded-xl px-4 text-sm text-accent hover:bg-surface-muted"
+        >
+          Mở trang Dữ liệu (khôi phục từ backup)
+        </Link>
       </div>
     );
   }

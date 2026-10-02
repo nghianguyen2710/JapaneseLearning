@@ -1,9 +1,11 @@
 "use client";
 
-// Trang Dữ liệu: các mục Báo sai và thẻ đã tạm ẩn (T2.6).
+// Trang Dữ liệu: sao lưu (T2.7), các mục Báo sai và thẻ đã tạm ẩn (T2.6).
+// Phần sao lưu luôn hiện, kể cả khi dữ liệu hỏng, để khôi phục được từ file backup.
 
 import { useCallback, useEffect, useState } from "react";
 import { Jp } from "@/components/japanese";
+import { BackupSection } from "./backup-section";
 import { loadVocabUpTo, LESSON_COUNT } from "@/lib/content/load";
 import type { Vocab } from "@/lib/content/schema";
 import { getUserStorage } from "@/lib/storage/local-backend";
@@ -71,18 +73,26 @@ export function DataScreen() {
     reload();
   }
 
+  const backup = <BackupSection onImported={reload} />;
+
   if (view.status === "loading") {
     return (
-      <p role="status" className="py-10 text-center text-muted">
-        Đang tải…
-      </p>
+      <div className="flex flex-col gap-6">
+        {backup}
+        <p role="status" className="py-10 text-center text-muted">
+          Đang tải…
+        </p>
+      </div>
     );
   }
   if (view.status === "error") {
     return (
-      <p role="alert" className="rounded-2xl border border-danger bg-surface p-5 text-sm">
-        <span className="font-medium text-danger">Không đọc được dữ liệu.</span> {view.message}
-      </p>
+      <div className="flex flex-col gap-6">
+        {backup}
+        <p role="alert" className="rounded-2xl border border-danger bg-surface p-5 text-sm">
+          <span className="font-medium text-danger">Không đọc được dữ liệu.</span> {view.message}
+        </p>
+      </div>
     );
   }
 
@@ -94,6 +104,7 @@ export function DataScreen() {
 
   return (
     <div className="flex flex-col gap-6">
+      {backup}
       {actionError && (
         <p
           role="alert"
