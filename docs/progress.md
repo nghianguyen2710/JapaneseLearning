@@ -1,6 +1,6 @@
 # Tiến trình
 
-> Cập nhật: **1/10/2026**. Nhánh: `feat/m1-content`.
+> Cập nhật: **2/10/2026**. Nhánh: `feat/m1-content`.
 > Mở phiên mới (ở bất kỳ máy nào): yêu cầu Claude đọc `CLAUDE.md`, file này và `docs/tasks.md` trước khi làm.
 > File này thay cho `docs/handoff.md` (đã xoá, nội dung còn trong git history).
 
@@ -8,6 +8,7 @@
 
 - **Giai đoạn 0:** xong, trừ một số việc người dùng tự làm (xem "Việc còn treo")
 - **Cuối tuần 1 (nền móng & nội dung):** xong T1.1–T1.8, **còn T1.9** (giải thích ngữ pháp bài 1–5)
+- **Cuối tuần 2 (làm sớm từ 2/10):** xong T2.1, T2.2. T2.3 (SM-2) code xong, **chờ người dùng duyệt test** `src/lib/srs/sm2.test.ts` và `docs/srs.md`
 - **Web chưa dùng để học được.** `npm run dev` hiện chỉ có trang thử font và furigana. Màn hình ôn thẻ nằm ở cuối tuần 2.
 
 ## Đã xong
@@ -18,6 +19,9 @@
 | T1.1–T1.2 | Next.js 16, Tailwind 4, Vitest, Prettier. Design token sáng/tối, Noto Sans JP, component `Furigana` | `f3e61fc` |
 | T1.3–T1.4 | Schema và cơ chế ID (`docs/schema.md`), **người dùng đã duyệt** (D18) | `689cade`, `8aa63a4` |
 | T1.5–T1.8 | `npm run content:build` / `content:verify`: sinh `content/lessons/01…50.json`, sổ ID, báo cáo | `e2a91cd` |
+| T2.1 | Storage adapter `src/lib/storage/` (trả `Result`, không throw), ngày giờ Việt Nam `src/lib/date/vn-time.ts` | `20978c7` |
+| T2.3 | SM-2 `src/lib/srs/sm2.ts`, `docs/srs.md` (**chờ duyệt**) | `ca9d31a` |
+| T2.2 | Review log, `replayReviews`, `mergeReviewLogs`, `recordReview`, `loadCardStates` | `fefc83a` |
 
 ## Số liệu nội dung (từ `content/report.md`)
 
@@ -39,9 +43,10 @@ Chi tiết và lý do nằm trong `docs/decisions.md`.
 
 ## Bước tiếp theo
 
-1. **T1.9:** viết prompt `scripts/prompts/grammar.md` và giải thích 30 mẫu ngữ pháp bài 1–5 vào `content/raw/grammar/explanations.json`. Câu ví dụ chỉ dùng từ vựng đến bài đó. Sau đó chạy `npm run content:build`.
-   - Có thể làm sau nếu muốn có màn hình ôn thẻ sớm hơn.
-2. **Cuối tuần 2:** T2.1–T2.7, gồm storage adapter, review log, SM-2, màn hình ôn thẻ, Báo sai/suspend, export/import.
+1. 👤 **Duyệt SM-2:** đọc `docs/srs.md` và `src/lib/srs/sm2.test.ts`, đặc biệt là cách ánh xạ "Quên = 2" và việc thẻ quá hạn không được thưởng thêm.
+2. T2.4–T2.7: hàng đợi hôm nay, màn hình ôn thẻ, Báo sai/suspend, export/import.
+3. T1.9 (giải thích ngữ pháp bài 1–5): làm sau, trước T3.3.
+4. Rủi ro dung lượng localStorage: xem `docs/notes.md`.
 
 ## Việc còn treo (người dùng)
 
