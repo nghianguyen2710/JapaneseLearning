@@ -38,7 +38,7 @@
 ## Cuối tuần 2 (10–11/10) — Ôn thẻ
 
 - [x] T2.1 Storage adapter (namespace `jp-app:*`, try/catch, `schemaVersion`), tiện ích ngày theo giờ Việt Nam
-- [ ] T2.2 Review log và hàm tính lại trạng thái thẻ từ log. Có test
+- [x] T2.2 Review log và hàm tính lại trạng thái thẻ từ log. Có test
 - [ ] T2.3 SM-2 viết dạng hàm thuần, `docs/srs.md`. Test đủ các trường hợp trong checklist 2.1. 👤 Đọc test _(code xong 2/10, chờ 👤 duyệt test)_
 - [ ] T2.4 Hàng đợi hôm nay (thẻ đến hạn + tối đa 10 thẻ mới, chỉ mở cho bài ≤ bài hiện tại)
 - [ ] T2.5 Màn hình ôn thẻ: lật thẻ, chấm 4 mức, phím tắt, vùng chạm, empty state, ghi kết quả ngay sau mỗi thẻ. Phát âm bằng TTS

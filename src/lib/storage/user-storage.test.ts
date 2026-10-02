@@ -1,22 +1,7 @@
 import { describe, expect, it } from "vitest";
 import type { ReviewLogEntry } from "@/lib/user-data/schema";
-import { createUserStorage, DEFAULT_SETTINGS, type KeyValueBackend } from "./user-storage";
-
-function memoryBackend(initial: Record<string, string> = {}): KeyValueBackend & {
-  items: Record<string, string>;
-} {
-  const items = { ...initial };
-  return {
-    items,
-    getItem: (k) => (k in items ? items[k] : null),
-    setItem: (k, v) => {
-      items[k] = v;
-    },
-    removeItem: (k) => {
-      delete items[k];
-    },
-  };
-}
+import { memoryBackend } from "./memory-backend";
+import { createUserStorage, DEFAULT_SETTINGS } from "./user-storage";
 
 const review: ReviewLogEntry = {
   id: "r1",
