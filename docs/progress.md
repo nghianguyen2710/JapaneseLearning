@@ -8,8 +8,8 @@
 
 - **Giai đoạn 0:** xong, trừ một số việc người dùng tự làm (xem "Việc còn treo")
 - **Cuối tuần 1 (nền móng & nội dung):** xong T1.1–T1.8, **còn T1.9** (giải thích ngữ pháp bài 1–5)
-- **Cuối tuần 2 (làm sớm từ 2/10):** xong T2.1, T2.2, T2.4. T2.3 (SM-2) **chờ người dùng duyệt test**. T2.5 (màn hình ôn thẻ `/review`) code xong, **chờ người dùng thử trên trình duyệt thật**
-- **Web đã ôn thẻ được** ở `/review` (chưa có Báo sai, suspend, export/import)
+- **Cuối tuần 2 (làm sớm từ 2/10):** xong T2.1, T2.2, T2.4. T2.3 (SM-2) **chờ người dùng duyệt test**. T2.5–T2.7 code xong, **chờ người dùng thử trên trình duyệt thật** (Checkpoint 2)
+- **Web đã dùng được:** ôn thẻ ở `/review`. Báo sai, hiện lại thẻ đã ẩn, sao lưu ở `/data`
 
 ## Đã xong
 
@@ -23,7 +23,9 @@
 | T2.3 | SM-2 `src/lib/srs/sm2.ts`, `docs/srs.md` (**chờ duyệt**) | `ca9d31a` |
 | T2.2 | Review log, `replayReviews`, `mergeReviewLogs`, `recordReview`, `loadCardStates` | `fefc83a` |
 | T2.4 | Hàng đợi hôm nay `src/lib/srs/queue.ts`, loader nội dung theo bài `src/lib/content/load.ts` | `eaadb3c` |
-| T2.5 | Màn hình ôn thẻ `/review` (**chờ thử thật**) | xem `git log` |
+| T2.5 | Màn hình ôn thẻ `/review` (**chờ thử thật**) | `8f82e42` |
+| T2.6 | Báo sai, tạm ẩn thẻ (có hoàn tác), trang `/data` | `c9191e3` |
+| T2.7 | Export/import (gộp hoặc ghi đè, xem trước, khôi phục khi lỗi) | `b5c90da` |
 
 ## Số liệu nội dung (từ `content/report.md`)
 
@@ -52,7 +54,9 @@ Chi tiết và lý do nằm trong `docs/decisions.md`.
    - Đổi "Bài đang học" → hàng đợi thay đổi
    - Nút phát âm (Ubuntu có thể chưa có giọng tiếng Nhật)
    - Màn hình 375px: nút đủ lớn, không tràn ngang
-3. T2.6–T2.7: Báo sai/suspend, export/import.
+   - Báo sai, tạm ẩn thẻ rồi hoàn tác. Ở `/data`: đánh dấu đã xử lý, hiện lại thẻ
+   - **Checkpoint 2:** export trên Mac → AirDrop sang iPhone → import (Gộp) → số lần ôn khớp
+3. Cuối tuần 3: T3.1–T3.2 (config lộ trình, dashboard), T3.4 (PWA), T3.5 (deploy, **cần chốt P3**)
 4. T1.9 (giải thích ngữ pháp bài 1–5): làm sau, trước T3.3.
 5. Rủi ro dung lượng localStorage: xem `docs/notes.md`.
 

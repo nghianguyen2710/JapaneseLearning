@@ -21,3 +21,11 @@
 
 ### Thứ tự làm task (T2.2, T2.3)
 SM-2 (T2.3) được làm trước review log (T2.2), vì hàm tính lại trạng thái từ log cần có `schedule` trước. Mỗi task vẫn một commit.
+
+### Giới hạn của chế độ "Gộp" khi import (T2.7)
+- **Thẻ ẩn** lấy hợp của hai bên. Nếu hiện lại một thẻ trên máy A, rồi gộp file của máy B (nơi thẻ đó vẫn đang ẩn), thì thẻ **bị ẩn lại**. Lý do: file chỉ lưu thẻ đang ẩn, không lưu lịch sử bật/tắt.
+- **Cài đặt** (bài đang học, số thẻ mới mỗi ngày) lấy theo file.
+- Nếu sau này làm sync thì nên chuyển thẻ ẩn và Báo sai sang dạng log sự kiện, giống review log.
+
+### Hai tab cùng mở (T2.5)
+Mỗi lần ghi đều đọc bản mới nhất từ localStorage trước, nên review log không bị mất khi mở hai tab. Tuy vậy, hàng đợi trong mỗi tab chỉ được tính lúc tải trang, nên một thẻ có thể bị ôn hai lần (cả hai lần đều được ghi vào log).
