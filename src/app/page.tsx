@@ -1,9 +1,16 @@
+import Link from "next/link";
 import { Furigana, Jp } from "@/components/japanese";
 
 export default function Home() {
   return (
     <main className="mx-auto flex w-full max-w-2xl flex-1 flex-col gap-6 px-4 py-10">
       <h1 className="text-2xl font-semibold">Học tiếng Nhật</h1>
+      <Link
+        href="/review"
+        className="flex min-h-14 items-center justify-center rounded-xl bg-accent font-medium text-on-accent hover:bg-accent-strong"
+      >
+        Ôn từ vựng hôm nay
+      </Link>
       <section className="rounded-xl border border-border bg-surface p-6">
         <p className="text-sm text-muted">Kiểm tra font và furigana</p>
         <p lang="ja" className="mt-4 text-4xl leading-loose">
