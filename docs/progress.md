@@ -8,8 +8,8 @@
 
 - **Giai đoạn 0:** xong, trừ một số việc người dùng tự làm (xem "Việc còn treo")
 - **Cuối tuần 1 (nền móng & nội dung):** xong T1.1–T1.8, **còn T1.9** (giải thích ngữ pháp bài 1–5)
-- **Cuối tuần 2 (làm sớm từ 2/10):** xong T2.1, T2.2. T2.3 (SM-2) code xong, **chờ người dùng duyệt test** `src/lib/srs/sm2.test.ts` và `docs/srs.md`
-- **Web chưa dùng để học được.** `npm run dev` hiện chỉ có trang thử font và furigana. Màn hình ôn thẻ nằm ở cuối tuần 2.
+- **Cuối tuần 2 (làm sớm từ 2/10):** xong T2.1, T2.2, T2.4. T2.3 (SM-2) **chờ người dùng duyệt test**. T2.5 (màn hình ôn thẻ `/review`) code xong, **chờ người dùng thử trên trình duyệt thật**
+- **Web đã ôn thẻ được** ở `/review` (chưa có Báo sai, suspend, export/import)
 
 ## Đã xong
 
@@ -22,6 +22,8 @@
 | T2.1 | Storage adapter `src/lib/storage/` (trả `Result`, không throw), ngày giờ Việt Nam `src/lib/date/vn-time.ts` | `20978c7` |
 | T2.3 | SM-2 `src/lib/srs/sm2.ts`, `docs/srs.md` (**chờ duyệt**) | `ca9d31a` |
 | T2.2 | Review log, `replayReviews`, `mergeReviewLogs`, `recordReview`, `loadCardStates` | `fefc83a` |
+| T2.4 | Hàng đợi hôm nay `src/lib/srs/queue.ts`, loader nội dung theo bài `src/lib/content/load.ts` | `eaadb3c` |
+| T2.5 | Màn hình ôn thẻ `/review` (**chờ thử thật**) | xem `git log` |
 
 ## Số liệu nội dung (từ `content/report.md`)
 
@@ -44,9 +46,15 @@ Chi tiết và lý do nằm trong `docs/decisions.md`.
 ## Bước tiếp theo
 
 1. 👤 **Duyệt SM-2:** đọc `docs/srs.md` và `src/lib/srs/sm2.test.ts`, đặc biệt là cách ánh xạ "Quên = 2" và việc thẻ quá hạn không được thưởng thêm.
-2. T2.4–T2.7: hàng đợi hôm nay, màn hình ôn thẻ, Báo sai/suspend, export/import.
-3. T1.9 (giải thích ngữ pháp bài 1–5): làm sau, trước T3.3.
-4. Rủi ro dung lượng localStorage: xem `docs/notes.md`.
+2. 👤 **Thử `/review`** (`npm run dev`, mở http://localhost:3000/review; iPhone dùng `npm run dev -- -H 0.0.0.0` rồi mở IP của Mac):
+   - Lật thẻ (Space / nút), chấm 1–4, thẻ "Quên" quay lại cuối hàng
+   - Tải lại trang giữa chừng: số thẻ còn lại giảm đúng, thẻ mới không mở thêm quá 10
+   - Đổi "Bài đang học" → hàng đợi thay đổi
+   - Nút phát âm (Ubuntu có thể chưa có giọng tiếng Nhật)
+   - Màn hình 375px: nút đủ lớn, không tràn ngang
+3. T2.6–T2.7: Báo sai/suspend, export/import.
+4. T1.9 (giải thích ngữ pháp bài 1–5): làm sau, trước T3.3.
+5. Rủi ro dung lượng localStorage: xem `docs/notes.md`.
 
 ## Việc còn treo (người dùng)
 
