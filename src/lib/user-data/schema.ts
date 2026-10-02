@@ -31,6 +31,8 @@ export type CardState = {
   lastReviewedAt: string;
 };
 
+export type CardFlags = Record<CardId, { suspended: boolean }>;
+
 export type ErrorReport = {
   id: string;
   itemId: VocabId | GrammarId | string;
@@ -50,7 +52,7 @@ export type ExportFile = {
   exportedAt: string;
   data: {
     reviews: ReviewLogEntry[];
-    cardFlags: Record<CardId, { suspended: boolean }>;
+    cardFlags: CardFlags;
     reports: ErrorReport[];
     settings: Settings;
   };
