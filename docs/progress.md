@@ -27,6 +27,28 @@
 | T2.6 | Báo sai, tạm ẩn thẻ (có hoàn tác), trang `/data` | `c9191e3` |
 | T2.7 | Export/import (gộp hoặc ghi đè, xem trước, khôi phục khi lỗi) | `b5c90da` |
 
+## Đang bàn dở (chưa chốt, phiên 2/10)
+
+**1. Deploy Vercel:** người dùng muốn deploy lên Vercel để dùng trên nhiều máy.
+- Đã giải thích: deploy thì **dùng chung được app**, nhưng **dữ liệu ôn vẫn nằm riêng trong localStorage của từng trình duyệt**. Muốn chuyển dữ liệu giữa các máy thì export/import ở `/data`. Muốn tự đồng bộ thì phải có backend (để đến quyết định ngày 15/11).
+- Đề xuất (chờ chốt): deploy **công khai, không cần lớp đăng nhập**, nên bỏ được P3. Lý do: repo đã public, và người lạ không đọc được dữ liệu trong trình duyệt của người dùng.
+- Lưu ý: Safari có thể xoá dữ liệu của trang web nếu không mở trong khoảng 7 ngày, nên cần PWA (T3.4) và export backup thường xuyên.
+
+**2. Chuyển repo sang tài khoản GitHub cá nhân:**
+- Remote hiện tại là `nghianguyen2710/JapaneseLearning` (tài khoản dùng mail công ty, repo public). Tài khoản cá nhân là **`MMiiinnn`**, chưa có repo này.
+- **Repo chưa đặt email riêng:** commit đang dùng email global `nghia.nguyen@loaportal.com`. Có 14 commit mang email công ty, gồm toàn bộ commit ngày 2/10. Đề xuất chạy `git config user.email "nghiantn9@gmail.com"` và `git config user.name "Trung Nghĩa"` (chỉ cho repo này), **chờ người dùng đồng ý**.
+- SSH key trên Mac (`~/.ssh/id_ed25519`) là của tài khoản công ty. Tài khoản cá nhân cần key riêng, cùng host alias `github-personal` trong `~/.ssh/config`.
+- Kế hoạch (chờ duyệt):
+  1. Người dùng tạo repo trống `MMiiinnn/JapaneseLearning`
+  2. Tạo SSH key riêng
+  3. Đặt email cho repo
+  4. (Tuỳ chọn) Sửa email của các commit cũ
+  5. Đổi remote và push
+  6. Xoá hoặc archive repo cũ
+- Câu hỏi còn mở: có sửa các commit cũ không (đề xuất: có, trước khi push lên repo mới), Public hay Private (đề xuất: Private), có đặt passphrase cho SSH key không.
+- **Nên chuyển repo trước khi deploy Vercel**, để không phải làm lại project Vercel và đổi link. Đổi link thì dữ liệu ôn trên iPhone sẽ nằm lại ở link cũ.
+- Claude Code đăng nhập bằng tài khoản Anthropic, không phụ thuộc tài khoản GitHub, nên chuyển repo cũng không ảnh hưởng.
+
 ## Số liệu nội dung (từ `content/report.md`)
 
 - 2249 từ (50 bài), 890 kanji, 221 mẫu ngữ pháp (bản nháp do AI soạn, chưa có giải thích)
@@ -56,20 +78,24 @@ Chi tiết và lý do nằm trong `docs/decisions.md`.
    - Màn hình 375px: nút đủ lớn, không tràn ngang
    - Báo sai, tạm ẩn thẻ rồi hoàn tác. Ở `/data`: đánh dấu đã xử lý, hiện lại thẻ
    - **Checkpoint 2:** export trên Mac → AirDrop sang iPhone → import (Gộp) → số lần ôn khớp
-3. Cuối tuần 3: T3.1–T3.2 (config lộ trình, dashboard), T3.4 (PWA), T3.5 (deploy, **cần chốt P3**)
-4. T1.9 (giải thích ngữ pháp bài 1–5): làm sau, trước T3.3.
-5. Rủi ro dung lượng localStorage: xem `docs/notes.md`.
+3. Chốt hai việc trong "Đang bàn dở": chuyển repo trước, rồi mới deploy Vercel
+4. Cuối tuần 3: T3.1–T3.2 (config lộ trình, dashboard), T3.4 (PWA), T3.5 (deploy)
+5. T1.9 (giải thích ngữ pháp bài 1–5): làm sau, trước T3.3.
+6. Rủi ro dung lượng localStorage: xem `docs/notes.md`.
 
 ## Việc còn treo (người dùng)
 
 - [ ] Ghi tên, tác giả, link của bộ thẻ Anki vào `docs/sources.md`
 - [ ] Chốt điều kiện dừng code trong tháng Kana (`decisions.md`, mục "Câu hỏi còn mở")
-- [ ] Chọn cách bảo vệ truy cập khi deploy (P3), trước 17/10
+- [ ] Chọn cách bảo vệ truy cập khi deploy (P3), trước 17/10. Có thể bỏ nếu chốt deploy công khai (xem "Đang bàn dở")
+- [ ] Chốt việc chuyển repo sang `MMiiinnn` và email commit (xem "Đang bàn dở")
 - [ ] Kiểm tra lại bài 1–5 (từ vựng, âm Hán Việt, ngữ pháp) theo sách
 
 ## Ghi chú kỹ thuật cho phiên sau
 
-- Máy mới: `npm install`, rồi `./scripts/fetch-sources.sh` (khoảng 260MB, không nằm trong git), rồi `npm run content:build`
+- Máy mới: `npm install`, rồi `./scripts/fetch-sources.sh` (khoảng 280MB, không nằm trong git), rồi `npm run content:build`. Đã thử trên Mac ngày 2/10: build lại ra kết quả giống hệt bản đã commit, 99 test pass
+- Chạy app: `npm run dev`, mở `/review` (ôn thẻ) và `/data` (Báo sai, thẻ đã ẩn, sao lưu)
+- `fetch-sources.sh` luôn tải JMdict bản mới nhất, chưa cố định phiên bản, nên sau này build giữa các máy có thể ra khác nhau
 - Script nội dung viết bằng TypeScript, chạy thẳng bằng Node 24 (`node scripts/content/build-cli.ts`). Import phải có đuôi `.ts`
 - Next.js 16 khác các bản trước: đọc `node_modules/next/dist/docs/` trước khi viết code (theo `AGENTS.md`)
 - Prettier không định dạng file `.md` (để không làm xáo trộn docs)
