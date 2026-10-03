@@ -49,7 +49,7 @@
 
 ## Cuối tuần 3 (17–18/10) — Dashboard, PWA, Deploy
 
-- [ ] T3.1 File config lộ trình và hàm tính nhanh/chậm bao nhiêu bài. Có test
+- [x] T3.1 File config lộ trình và hàm tính nhanh/chậm bao nhiêu bài. Có test _(chờ duyệt test, docs/roadmap.md)_
 - [ ] T3.2 Dashboard: bài hiện tại, giai đoạn, cảnh báo đỏ khi chậm từ 3 bài, số thẻ đến hạn và thẻ tồn
 - [ ] T3.3 Xem ngữ pháp: danh sách theo bài, chi tiết, nhãn "Chưa kiểm tra" _(cắt đầu tiên nếu trễ, D13)_
 - [ ] T3.4 PWA: manifest, icon, safe area, offline bằng `serwist`, cache JSON nội dung, cập nhật bản mới
