@@ -56,5 +56,4 @@ docs/              spec, decisions, sources, tasks, schema, notes
 - `tailwindcss` và các plugin PostCSS đi kèm khi khởi tạo Next.js
 - `eslint`, `eslint-config-next`, `prettier`
 - `vitest` (test)
-- `serwist` (service worker PWA, D16)
 - `kuromoji` (chỉ dùng trong script build, không đưa vào app, D16)

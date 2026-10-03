@@ -80,6 +80,10 @@ Người dùng đã duyệt `docs/schema.md` (Checkpoint T1.4):
 Người dùng chọn push lên repo public, chấp nhận việc bộ thẻ Minna (`content/raw/minna/`) và nội dung build ra công khai.
 **Lưu ý:** bộ thẻ không rõ giấy phép. Nếu sau này muốn rút lại, chuyển repo sang Private. Nội dung đã public có thể đã bị sao chép.
 
+### D20. Service worker tự viết, không dùng `serwist` — 3/10/2026
+(Thay phần `serwist` của D16.) PWA offline dùng một file `public/sw.js` tự viết, không thêm thư viện. Quy tắc cache ở `docs/pwa.md`.
+**Lý do:** gói `serwist` lõi không tự gắn được vào Next.js. Muốn dùng phải thêm `@serwist/next` (bắt build bằng webpack thay cho Turbopack) hoặc `@serwist/turbopack` (kéo theo `esbuild`, `@swc/core`). App chỉ có 3 trang và 50 file nội dung, tự viết khoảng 100 dòng là đủ.
+
 ## Đề xuất — chờ người dùng chốt
 
 ### P3. Bảo vệ truy cập khi deploy
