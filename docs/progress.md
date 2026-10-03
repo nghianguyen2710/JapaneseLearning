@@ -1,6 +1,6 @@
 # Tiến trình
 
-> Cập nhật: **2/10/2026**. Nhánh: `feat/m1-content`.
+> Cập nhật: **3/10/2026**. Nhánh: `feat/m1-content`.
 > Mở phiên mới (ở bất kỳ máy nào): yêu cầu Claude đọc `CLAUDE.md`, file này và `docs/tasks.md` trước khi làm.
 > File này thay cho `docs/handoff.md` (đã xoá, nội dung còn trong git history).
 
@@ -9,7 +9,8 @@
 - **Giai đoạn 0:** xong, trừ một số việc người dùng tự làm (xem "Việc còn treo")
 - **Cuối tuần 1 (nền móng & nội dung):** xong T1.1–T1.8, **còn T1.9** (giải thích ngữ pháp bài 1–5)
 - **Cuối tuần 2 (làm sớm từ 2/10):** xong T2.1, T2.2, T2.4. T2.3 (SM-2) **chờ người dùng duyệt test**. T2.5–T2.7 code xong, **chờ người dùng thử trên trình duyệt thật** (Checkpoint 2)
-- **Web đã dùng được:** ôn thẻ ở `/review`. Báo sai, hiện lại thẻ đã ẩn, sao lưu ở `/data`
+- **Cuối tuần 3 (làm sớm từ 3/10):** T3.1–T3.2 code xong, **chờ người dùng duyệt test** (`docs/roadmap.md`)
+- **Web đã dùng được:** dashboard ở `/`, ôn thẻ ở `/review`. Báo sai, hiện lại thẻ đã ẩn, sao lưu ở `/data`
 
 ## Đã xong
 
@@ -26,6 +27,8 @@
 | T2.5 | Màn hình ôn thẻ `/review` (**chờ thử thật**) | `8f82e42` |
 | T2.6 | Báo sai, tạm ẩn thẻ (có hoàn tác), trang `/data` | `c9191e3` |
 | T2.7 | Export/import (gộp hoặc ghi đè, xem trước, khôi phục khi lỗi) | `b5c90da` |
+| T3.1 | Config lộ trình `src/config/roadmap.ts`, tính nhanh/chậm `src/lib/roadmap/pace.ts` (**chờ duyệt**) | `ee0d763` |
+| T3.2 | Dashboard ở trang chủ, số liệu `src/lib/dashboard/summary.ts` (**chờ duyệt**) | `738ec75` |
 
 ## Đang bàn dở (chưa chốt, phiên 2/10)
 
@@ -70,7 +73,8 @@ Chi tiết và lý do nằm trong `docs/decisions.md`.
 ## Bước tiếp theo
 
 1. 👤 **Duyệt SM-2:** đọc `docs/srs.md` và `src/lib/srs/sm2.test.ts`, đặc biệt là cách ánh xạ "Quên = 2" và việc thẻ quá hạn không được thưởng thêm.
-2. 👤 **Thử `/review`** (`npm run dev`, mở http://localhost:3000/review; iPhone dùng `npm run dev -- -H 0.0.0.0` rồi mở IP của Mac):
+2. 👤 **Duyệt lộ trình và dashboard:** đọc `docs/roadmap.md`, `src/lib/roadmap/pace.test.ts`, `src/lib/dashboard/summary.test.ts`. Mở `/` xem dashboard.
+3. 👤 **Thử `/review`** (`npm run dev`, mở http://localhost:3000/review; iPhone dùng `npm run dev -- -H 0.0.0.0` rồi mở IP của Mac):
    - Lật thẻ (Space / nút), chấm 1–4, thẻ "Quên" quay lại cuối hàng
    - Tải lại trang giữa chừng: số thẻ còn lại giảm đúng, thẻ mới không mở thêm quá 10
    - Đổi "Bài đang học" → hàng đợi thay đổi
@@ -78,10 +82,10 @@ Chi tiết và lý do nằm trong `docs/decisions.md`.
    - Màn hình 375px: nút đủ lớn, không tràn ngang
    - Báo sai, tạm ẩn thẻ rồi hoàn tác. Ở `/data`: đánh dấu đã xử lý, hiện lại thẻ
    - **Checkpoint 2:** export trên Mac → AirDrop sang iPhone → import (Gộp) → số lần ôn khớp
-3. Chốt hai việc trong "Đang bàn dở": chuyển repo trước, rồi mới deploy Vercel
-4. Cuối tuần 3: T3.1–T3.2 (config lộ trình, dashboard), T3.4 (PWA), T3.5 (deploy)
-5. T1.9 (giải thích ngữ pháp bài 1–5): làm sau, trước T3.3.
-6. Rủi ro dung lượng localStorage: xem `docs/notes.md`.
+4. Chốt hai việc trong "Đang bàn dở": chuyển repo trước, rồi mới deploy Vercel
+5. Cuối tuần 3: T3.4 (PWA), T3.5 (deploy). T3.3 (xem ngữ pháp) cần T1.9 trước
+6. T1.9 (giải thích ngữ pháp bài 1–5): làm sau, trước T3.3.
+7. Rủi ro dung lượng localStorage: xem `docs/notes.md`.
 
 ## Việc còn treo (người dùng)
 
