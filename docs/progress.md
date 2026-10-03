@@ -9,7 +9,7 @@
 - **Giai đoạn 0:** xong, trừ một số việc người dùng tự làm (xem "Việc còn treo")
 - **Cuối tuần 1 (nền móng & nội dung):** xong T1.1–T1.8, **còn T1.9** (giải thích ngữ pháp bài 1–5)
 - **Cuối tuần 2 (làm sớm từ 2/10):** xong T2.1, T2.2, T2.4. T2.3 (SM-2) **chờ người dùng duyệt test**. T2.5–T2.7 code xong, **chờ người dùng thử trên trình duyệt thật** (Checkpoint 2)
-- **Cuối tuần 3 (làm sớm từ 3/10):** T3.1–T3.2 code xong, **chờ người dùng duyệt test** (`docs/roadmap.md`)
+- **Cuối tuần 3 (làm sớm từ 3/10):** T3.1–T3.2 code xong, **chờ người dùng duyệt test** (`docs/roadmap.md`). T3.4 (PWA) xong, đã thử offline trên Chrome, **chờ thử trên iPhone** sau khi deploy
 - **Web đã dùng được:** dashboard ở `/`, ôn thẻ ở `/review`. Báo sai, hiện lại thẻ đã ẩn, sao lưu ở `/data`
 
 ## Đã xong
@@ -29,6 +29,7 @@
 | T2.7 | Export/import (gộp hoặc ghi đè, xem trước, khôi phục khi lỗi) | `b5c90da` |
 | T3.1 | Config lộ trình `src/config/roadmap.ts`, tính nhanh/chậm `src/lib/roadmap/pace.ts` (**chờ duyệt**) | `ee0d763` |
 | T3.2 | Dashboard ở trang chủ, số liệu `src/lib/dashboard/summary.ts` (**chờ duyệt**) | `738ec75` |
+| T3.4 | PWA: manifest, icon, safe area, service worker tự viết `public/sw.js` (D20), `docs/pwa.md` | `664ea30` |
 
 ## Đang bàn dở (chưa chốt, phiên 2/10)
 
@@ -68,6 +69,7 @@ Chi tiết và lý do nằm trong `docs/decisions.md`.
 - **D14:** không có API key, nên giải thích ngữ pháp được sinh qua chat
 - **D17:** âm Hán Việt lấy từ bộ thẻ, vì **KANJIDIC2 sai nhiều kanji giản thể** (桜 → Tí, 伝 → Vân)
 - **D18:** đã duyệt schema. **Từ lặp lại ở nhiều bài thì mỗi bài một thẻ**
+- **D20 (3/10):** service worker tự viết, bỏ `serwist` khỏi danh sách thư viện
 - **D19:** repo để public, người dùng chấp nhận việc bộ thẻ Minna công khai
 
 ## Bước tiếp theo
@@ -83,7 +85,7 @@ Chi tiết và lý do nằm trong `docs/decisions.md`.
    - Báo sai, tạm ẩn thẻ rồi hoàn tác. Ở `/data`: đánh dấu đã xử lý, hiện lại thẻ
    - **Checkpoint 2:** export trên Mac → AirDrop sang iPhone → import (Gộp) → số lần ôn khớp
 4. Chốt hai việc trong "Đang bàn dở": chuyển repo trước, rồi mới deploy Vercel
-5. Cuối tuần 3: T3.4 (PWA), T3.5 (deploy). T3.3 (xem ngữ pháp) cần T1.9 trước
+5. Cuối tuần 3: T3.5 (deploy, cần chốt chuyển repo trước), rồi thử PWA trên iPhone theo `docs/pwa.md` mục 3. T3.3 (xem ngữ pháp) cần T1.9 trước
 6. T1.9 (giải thích ngữ pháp bài 1–5): làm sau, trước T3.3.
 7. Rủi ro dung lượng localStorage: xem `docs/notes.md`.
 
