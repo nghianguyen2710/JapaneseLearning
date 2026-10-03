@@ -26,6 +26,8 @@ export type Queue = {
   /** Thẻ đến hạn trước (quá hạn lâu nhất lên đầu), rồi đến thẻ mới (theo bài, theo thứ tự trong bài) */
   cards: CardId[];
   dueCount: number;
+  /** Thẻ tồn: trong số thẻ đến hạn, những thẻ lẽ ra phải ôn từ hôm trước */
+  overdueCount: number;
   newCount: number;
   /** Số thẻ mới đã mở hôm nay (trước phiên này) */
   newIntroducedToday: number;
@@ -65,6 +67,7 @@ export function buildQueue({ vocab, states, flags, log, settings, today }: Queue
   return {
     cards: [...due.map((s) => s.cardId), ...newCards],
     dueCount: due.length,
+    overdueCount: due.filter((s) => s.dueDate < today).length,
     newCount: newCards.length,
     newIntroducedToday,
   };

@@ -76,7 +76,7 @@ describe("buildQueue", () => {
       }),
     );
     expect(q.cards).toEqual(["w0002:jv", "w0001:jv", "w0004:jv", "w0005:jv"]);
-    expect(q).toMatchObject({ dueCount: 2, newCount: 2 });
+    expect(q).toMatchObject({ dueCount: 2, overdueCount: 1, newCount: 2 });
   });
 
   it("thẻ đến hạn không bị giới hạn số lượng, chỉ thẻ mới bị giới hạn", () => {

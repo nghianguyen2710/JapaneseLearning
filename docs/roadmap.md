@@ -28,3 +28,13 @@ Trong mỗi đoạn, mục tiêu **rải đều theo ngày**, rồi **làm tròn
 1. **Làm tròn xuống** nên hơi dễ dãi: phải hết ngày thì mới tính là "lẽ ra đã xong bài đó". Ví dụ ngày đầu đoạn 3–25 (15/11) mục tiêu vẫn là 2 bài.
 2. **Rải theo ngày, không theo tuần.** Nếu thường học dồn vào cuối tuần, giữa tuần có thể thấy "chậm 1" rồi cuối tuần về 0. Ngưỡng báo đỏ là 3 bài nên dao động này không gây báo đỏ.
 3. **Giai đoạn "Luyện đề N4"** được tính từ 5/7/2027 (ngay sau ngày thi N5), dù A1 ghi là tháng 8–11, để không có khoảng trống giữa các giai đoạn.
+
+## 4. Số liệu trên dashboard (T3.2)
+
+Code: [`src/lib/dashboard/summary.ts`](../src/lib/dashboard/summary.ts), test: [`summary.test.ts`](../src/lib/dashboard/summary.test.ts).
+
+- **Đến hạn hôm nay:** thẻ đã ôn có ngày đến hạn ≤ hôm nay, giống hệt hàng đợi ở `/review` (không tính thẻ đã tạm ẩn và bài chưa học).
+- **Thẻ tồn:** trong số đó, thẻ lẽ ra phải ôn từ hôm trước. Mục tiêu checklist là không để tồn quá 1 ngày.
+- **Tỷ lệ nhớ 7 ngày:** số lượt chấm khác "Quên" chia cho tổng số lượt chấm trong 7 ngày gần nhất, tính cả hôm nay. Một thẻ "Quên" rồi ôn lại trong ngày thì tính là 2 lượt.
+- **Bài đã kiểm tra sẵn phía trước:** số bài liền sau bài đang học đã `verified` hết, dừng ở bài đầu tiên chưa kiểm tra. Bằng 0 thì cảnh báo (A1: luôn có sẵn ít nhất 1 bài đã kiểm tra).
+- **Đếm ngược:** các mốc trong config từ hôm nay trở đi.
